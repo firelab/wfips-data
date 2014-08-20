@@ -1,8 +1,8 @@
 /*
 **
 ** Project:  Wildland Fire Investment Planning System
-** Purpose:  License
-** Author:   Kyle Shannon <kyle@pobox.com>
+** Purpose:  Data management application.
+** Author:   Kyle Shannon <kyle at pobox dot com>
 **
 ** THIS SOFTWARE WAS DEVELOPED AT THE ROCKY MOUNTAIN RESEARCH STATION (RMRS)
 ** MISSOULA FIRE SCIENCES LABORATORY BY EMPLOYEES OF THE FEDERAL GOVERNMENT 
