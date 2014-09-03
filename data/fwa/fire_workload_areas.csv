@@ -181,7 +181,7 @@ CA_CA_011Randsberg                     Randsberg,CA_CA_011,5,0,100,0,0,0,y,n,0.0
 CA_CA_011Coachella Valley Refuge       Coachella Valley R1,CA_CA_011,1,0,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64193919,CA_CA_011WUI
 CA_CA_011Landers/Yucca WUI             Landers/Yucca WUI,CA_CA_011,0,0,100,0,0,0,y,n,0.001,1080,A300,1.5,0,64193919,CA_CA_011WUI
 CA_CA_011Kelso Creek/Kelso Valley      Kelso Creek/Kelso V,CA_CA_011,5,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64193919,CA_CA_011WUI
-CA_CA_011West Central Mojave Desert Wi West Central Moj T,CA_CA_011,10,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64193919,CA_CA_011WUI
+CA_CA_011West Central Mojave Desert Wi  West Central Moj T,CA_CA_011,10,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64193919,CA_CA_011WUI
 CA_CA_011OTHER                         Big Morongo Threat,CA_CA_011,0,0,100,0,0,0,y,n,0.001,1080,A300,1.1,0,64193919,CA_CA_011WUI
 CA_CA_011OTHER                         Ridgecrest Threat F,CA_CA_011,0,0,100,0,0,0,y,n,0.001,1080,A300,1.1,0,64193919,CA_CA_011WUI
 CA_CA_011Olancha/Coso Junction         Olancha/Coso Juncti,CA_CA_011,0,0,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64193919,CA_CA_011WUI
@@ -196,7 +196,7 @@ CA_CA_011Ridgecrest                    Ridgecrest,CA_CA_011,0,0,100,0,0,0,y,n,0.
 CA_CA_011West Mesa/Yuha Basin          West Mesa/Yuha Basin,CA_CA_011,15,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64193919,CA_CA_011WUI
 CA_CA_011Trona                         Trona,CA_CA_011,0,0,100,0,0,0,y,n,0.001,1080,A300,1.3,0,64193919,CA_CA_011WUI
 CA_CA_011OTHER                         West Central Mojave,CA_CA_011,0,0,100,0,0,0,y,n,0.001,1080,A300,1.1,0,64193919,CA_CA_011WUI
-CA_CA_011East Slope San Bernadino Mtns East Slope San Bern,CA_CA_011,10,0,100,0,0,0,y,n,0.001,1080,A300,1.1,0,64193919,CA_CA_011WUI
+CA_CA_011East Slope San Bernadino Mtns  East Slope San Bern,CA_CA_011,10,0,100,0,0,0,y,n,0.001,1080,A300,1.1,0,64193919,CA_CA_011WUI
 CA_CA_011Victor Valley WUI             Victor Valley WUI,CA_CA_011,1,0,100,0,0,0,y,n,0.001,1080,A300,1.3,0,64193919,CA_CA_011WUI
 CA_CA_011OTHER                         Victor Valley WUI T,CA_CA_011,0,0,100,0,0,0,y,n,0.001,1080,A300,1.1,0,64193919,CA_CA_011WUI
 CA_CA_011Chuckwalla Valley             Chuckwalla Valley,CA_CA_011,0,0,100,0,0,0,y,n,0.001,1080,A300,1.5,0,64193920,CA_CA_011Other
@@ -253,7 +253,7 @@ NW_OR_004unassigned                    unassigned,NW_OR_004,0,0,100,0,0,0,n,y,0.
 NW_OR_004badlands                      badlands,NW_OR_004,10,60,100,0,0,0,y,n,0.001,1080,A100,1.6,0,64206929,NW_OR_004Wild Study Area
 NW_OR_004south fork and sand hollow    south fork and sand,NW_OR_004,10,7,100,0,0,0,y,n,0.001,1080,A100,1.6,0,64206929,NW_OR_004Wild Study Area
 NW_OR_004spring basin                  spring basin,NW_OR_004,50,50,100,0,0,0,y,n,0.001,1080,A100,1.6,0,64206929,NW_OR_004Wild Study Area
-NW_OR_004hampton butte and cougar well hampton butte and co,NW_OR_004,10,50,100,0,0,0,y,n,0.001,1080,A100,1.6,0,64206929,NW_OR_004Wild Study Area
+NW_OR_004hampton butte and cougar well  hampton butte and co,NW_OR_004,10,50,100,0,0,0,y,n,0.001,1080,A100,1.6,0,64206929,NW_OR_004Wild Study Area
 NW_OR_004warm springs wui              warm springs wui,NW_OR_004,25,50,100,0,0,0,y,n,0.001,1080,A100,1.6,0,64206930,NW_OR_004WS WUI
 NW_OR_004central warm springs          central warm springs,NW_OR_004,30,25,100,0,0,0,y,n,0.001,1080,A100,1.6,0,64206930,NW_OR_004WS WUI
 NW_OR_004warm springs wui              warm springs wui sou,NW_OR_004,25,50,100,0,0,0,y,n,0.001,1080,A100,1.6,0,64206930,NW_OR_004WS WUI
@@ -405,7 +405,7 @@ CA_CA_005BLM Cedar Rough               BLM Cedar Rough,CA_CA_005,5,0,100,0,0,0,y
 CA_CA_005FWS Stone Lakes               FWS Stone Lakes,CA_CA_005,5,0,100,0,0,0,y,n,0.1,1440,A300,1.6,0,64244182,CA_CA_005CA-CA-05
 CA_CA_005BLM Indian Valley             BLM Indian Valley,CA_CA_005,5,0,100,0,0,0,y,n,0.1,1440,A300,1.6,0,64244182,CA_CA_005CA-CA-05
 CA_CA_005Unassigned                    Unassigned,CA_CA_005,5,0,100,0,0,0,y,y,0.1,1800,A300,1.6,0,64244182,CA_CA_005CA-CA-05
-CA_CA_005BLM Thatcher Ridge/Eden Valle BLM Thatcher Ridge/,CA_CA_005,5,0,100,0,0,0,y,n,0.1,1440,A300,1.6,0,64244182,CA_CA_005CA-CA-05
+CA_CA_005BLM Thatcher Ridge/Eden Valle  BLM Thatcher Ridge/,CA_CA_005,5,0,100,0,0,0,y,n,0.1,1440,A300,1.6,0,64244182,CA_CA_005CA-CA-05
 CA_CA_005BLM Knoxville                 BLM Knoxville,CA_CA_005,5,0,100,0,0,0,y,n,0.1,1440,A300,1.6,0,64244182,CA_CA_005CA-CA-05
 CA_CA_005FWS Stone Lakes Threat        FWS Stone Lakes Thr,CA_CA_005,5,0,100,0,0,0,y,n,0.1,1440,A300,1.6,0,64244182,CA_CA_005CA-CA-05
 CA_CA_005MNF General Forest            MNF Covelo,CA_CA_005,5,0,100,0,0,0,y,n,0.1,1440,A300,1.6,0,64244182,CA_CA_005CA-CA-05
@@ -727,7 +727,7 @@ SW_AZ_001BLM_StateEast2                FWA_BLM_StateEast2,SW_AZ_001,10,80,100,0,
 SW_AZ_001CNF_Galiuro                   FWA_CNF_Galiuro,SW_AZ_001,75,5,100,0,0,0,y,n,0.001,1440,A300,1.3,0,64261515,SW_AZ_001Low Potential
 SW_AZ_001BLM_SE_AZ                     FWA_BLM_SE_AZ,SW_AZ_001,40,60,100,0,0,0,y,n,0.001,1440,A300,1.1,0,64261515,SW_AZ_001Low Potential
 SW_AZ_001BLM_StateWest                 FWA_BLM_StateWest,SW_AZ_001,20,45,100,0,0,0,y,y,0.1,1080,A300,1.6,0,64261515,SW_AZ_001Low Potential
-SW_AZ_001CNF_LCD_Dragoon_Peloncillo_WheFWA_CNF_LCD_Dragoon_,SW_AZ_001,70,20,100,0,0,0,y,n,0.001,1440,A300,1.3,0,64261515,SW_AZ_001Low Potential
+SW_AZ_001CNF_LCD_Dragoon_Peloncillo_Whe  FWA_CNF_LCD_Dragoon_,SW_AZ_001,70,20,100,0,0,0,y,n,0.001,1440,A300,1.3,0,64261515,SW_AZ_001Low Potential
 SW_AZ_001BLM_MULE                      FWA_BLM_MULE,SW_AZ_001,5,95,100,0,0,0,y,n,0.001,1440,A300,1.4,0,64261515,SW_AZ_001Low Potential
 SW_AZ_001BLM_SIMON                     FWA_BLM_SIMON,SW_AZ_001,10,90,100,0,0,0,n,n,0.001,1440,A300,1.4,0,64261515,SW_AZ_001Low Potential
 SW_AZ_001TON_ORP_CPR                   FWA_TON_ORP_CPR,SW_AZ_001,20,80,100,0,0,0,y,n,0.001,1440,A300,1.2,0,64261515,SW_AZ_001Low Potential
@@ -820,7 +820,7 @@ CA_CA_014BDF Suppression               BDF San Jacinto East,CA_CA_014,0,10,100,0
 CA_CA_014BLM Coachella Valley          BLM Coachella Valley,CA_CA_014,0,25,100,0,0,0,y,n,8,720,A300,1.3,0,64312614,CA_CA_014BLM CDD FMU's
 CA_CA_014BLM North Slope BDF Mtns      BLM N Slope BDF Mtns,CA_CA_014,0,25,100,0,0,0,y,n,8,720,A300,1.3,0,64312614,CA_CA_014BLM CDD FMU's
 CA_CA_014BLM Palm Springs              BLM Palm Springs,CA_CA_014,0,25,100,0,0,0,y,n,8,720,A300,1.3,0,64312614,CA_CA_014BLM CDD FMU's
-CA_CA_014BLM W-C Mojave Desert WildlifeBLM WC Mojave Desert,CA_CA_014,0,25,100,0,0,0,y,n,8,720,A300,1.3,0,64312614,CA_CA_014BLM CDD FMU's
+CA_CA_014BLM W-C Mojave Desert Wildlife  BLM WC Mojave Desert,CA_CA_014,0,25,100,0,0,0,y,n,8,720,A300,1.3,0,64312614,CA_CA_014BLM CDD FMU's
 CA_CA_014BLM Big Morongo               BLM Big Morongo,CA_CA_014,0,25,100,0,0,0,y,n,8,720,A300,1.3,0,64312614,CA_CA_014BLM CDD FMU's
 CA_CA_014BLM North Slope BDF Mtns      BLM E Slope BDF Mtns,CA_CA_014,0,25,100,0,0,0,y,n,8,720,A300,1.3,0,64312614,CA_CA_014BLM CDD FMU's
 CA_CA_014BDF Threat                    BDF Threat North,CA_CA_014,0,10,100,0,0,0,y,n,8,720,A300,1.3,0,64312615,CA_CA_014BDF Threat FMU
@@ -880,28 +880,28 @@ CA_CA_010FWS-Hopper                    FWS-Hopper,CA_CA_010,60,20,100,0,0,0,y,n,
 CA_CA_010LPF-Monterey Wilderness       LPF-Monterey Wilder,CA_CA_010,60,0,100,0,0,0,y,n,1,1440,A100,1.6,0,64369228,CA_CA_010Wilderness
 CA_CA_010LPF-Wilderness South          LPF-Wilderness South,CA_CA_010,60,0,100,0,0,0,y,n,1,1440,A100,1.5,0,64369228,CA_CA_010Wilderness
 CA_CA_010NPS-PINN DPA                  NPS-PINN DPA,CA_CA_010,60,10,100,0,0,0,y,n,1,1080,A100,1.6,0,64369228,CA_CA_010Wilderness
-CA_CA_010BLM-Clear Creek Serpentine AC BLM-Clear Creek Serp,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369228,CA_CA_010Wilderness
+CA_CA_010BLM-Clear Creek Serpentine AC  BLM-Clear Creek Serp,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369228,CA_CA_010Wilderness
 CA_CA_010BLM-Hopper Mountain           BLM-Hopper Mountain,CA_CA_010,60,0,100,0,0,0,y,n,1,1080,A100,1.6,0,64369228,CA_CA_010Wilderness
 CA_CA_010BLM-Valley                    BLM-Kettleman/Panoch,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369228,CA_CA_010Wilderness
 CA_CA_010LPF-Sespe Wilderness          LPF-Sespe Wilderness,CA_CA_010,60,0,100,0,0,0,y,n,1,1440,A100,1.5,0,64369228,CA_CA_010Wilderness
 CA_CA_010BLM-Panoche WSA N and S       BLM-Panoche N and S,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369228,CA_CA_010Wilderness
 CA_CA_010LPF-Monterey General Forest   LPF-Monterey Genera,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
 CA_CA_010BLM-Parkfield                 BLM-Hollister Parkfi,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
-CA_CA_010BLM-Sierra de Salinas WilliamsBLM-Sierra de Salina,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
+CA_CA_010BLM-Sierra de Salinas Williams  BLM-Sierra de Salina,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
 CA_CA_010LPF-Mtn Communities           LPF-Mtn Communities,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
 CA_CA_010BLM-Santa Margarita           BLM-Cypress Mountain,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
 CA_CA_010Unassigned                    Unassigned,CA_CA_010,20,20,100,0,0,0,y,y,0.01,1080,A100,1.6,0,64369229,CA_CA_010WUI
 CA_CA_010BIA-Southern CA Agency        BIA-Picayune,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
 CA_CA_010BIA-Southern CA Agency        BIA-Santa Rosa,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
 CA_CA_010BIA-Southern CA Agency        BIA-Table Mtn,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
-CA_CA_010BLM-Bay-Delta Santa Clara Val BLM-Bay-Delta Sa Cla,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
+CA_CA_010BLM-Bay-Delta Santa Clara Val  BLM-Bay-Delta Sa Cla,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
 CA_CA_010BLM-Carrizo                   BLM-Carrizo,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.4,0,64369229,CA_CA_010WUI
 CA_CA_010BLM-Valley                    BLM-Scattered (V),CA_CA_010,20,50,100,0,0,0,y,n,1,1080,A100,1.3,0,64369229,CA_CA_010WUI
 CA_CA_010BLM-Coast Dairies Santa Cruz  BLM-Coast Dairies SC,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
 CA_CA_010BLM-Coastal                   BLM-Coastal,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
 CA_CA_010BLM-Foothill                  BLM-San Joaquin Rive,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
 CA_CA_010BLM-Hernandez Valley          BLM-Hernandez Valley,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
-CA_CA_010BLM-San Joaquin South Continu BLM-San Joaquin S,CA_CA_010,20,50,100,0,0,0,y,n,1,1080,A100,1.3,0,64369229,CA_CA_010WUI
+CA_CA_010BLM-San Joaquin South Continu  BLM-San Joaquin S,CA_CA_010,20,50,100,0,0,0,y,n,1,1080,A100,1.3,0,64369229,CA_CA_010WUI
 CA_CA_010LPF-Big Sur Coast             LPF-Big Sur Coast,CA_CA_010,20,20,100,0,0,0,y,n,1,1440,A100,1.6,0,64369229,CA_CA_010WUI
 CA_CA_010BLM-Valley                    BLM-Atwell Island,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
 CA_CA_010BIA-Southern CA Agency        BIA-Santa Ynez,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
@@ -912,11 +912,11 @@ CA_CA_010LPF-166 Corridor Threat       LPF-166 Corr Threat,CA_CA_010,20,20,100,0
 CA_CA_010BLM-Santa Margarita           BLM-Santa Margarita,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
 CA_CA_010LPF-Mt Pinos Threat           LPF-Mt Pinos Threat,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
 CA_CA_010LPF-Mt Pinos                  LPF-Mt Pinos,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.3,0,64369229,CA_CA_010WUI
-CA_CA_010LPF-Santa Barbara/ Ojai Front LPF-SB/ Ojai Front,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.3,0,64369229,CA_CA_010WUI
+CA_CA_010LPF-Santa Barbara/ Ojai Front  LPF-SB/ Ojai Front,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.3,0,64369229,CA_CA_010WUI
 CA_CA_010LPF-Santa Barbara/ Ojai Mid   LPF-SB/ Ojai Mid,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.3,0,64369229,CA_CA_010WUI
 CA_CA_010LPF-Monterey Threat           LPF-Monterey Threat,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
 CA_CA_010LPF-Santa Lucia North Threat  LPF-San Lucia Threat,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
-CA_CA_010LPF-Santa Barbara/ Ojai ThreatLPF-SB/ Ojai Threat,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.3,0,64369229,CA_CA_010WUI
+CA_CA_010LPF-Santa Barbara/ Ojai Threat  LPF-SB/ Ojai Threat,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.3,0,64369229,CA_CA_010WUI
 CA_CA_010LPF-Santa Lucia North         LPF-Santa Lucia N,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.3,0,64369229,CA_CA_010WUI
 CA_CA_010NPS-SAMO Threat               NPS-SAMO Threat,CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.3,0,64369229,CA_CA_010WUI
 CA_CA_010BLM-Foothill                  BLM-Scattered (F),CA_CA_010,20,20,100,0,0,0,y,n,1,1080,A100,1.6,0,64369229,CA_CA_010WUI
@@ -1187,7 +1187,7 @@ GB_UT_002Glen Canyon NRA               Suppression,GB_UT_002,90,0,100,0,0,0,y,n,
 GB_UT_002Outback                       Outback,GB_UT_002,95,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64400666,GB_UT_002SWT Four
 GB_UT_002Big Deer                      Big Deer,GB_UT_002,75,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64400666,GB_UT_002SWT Four
 GB_UT_002Cedar Mountain Interface      Cedar Mountain Inter,GB_UT_002,40,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64400666,GB_UT_002SWT Four
-GB_UT_002Pinto/Mountain Meadow InterfacPinto/Mountain Meado,GB_UT_002,10,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64400666,GB_UT_002SWT Four
+GB_UT_002Pinto/Mountain Meadow Interfac  Pinto/Mountain Meado,GB_UT_002,10,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64400666,GB_UT_002SWT Four
 GB_UT_002BIA Piute                     BIA Piute,GB_UT_002,0,40,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64400666,GB_UT_002SWT Four
 GB_UT_002Wah Wah Valley                Wah Wah Valley,GB_UT_002,50,15,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64400666,GB_UT_002SWT Four
 GB_UT_002Hamblin Valley                Hamblin Valley,GB_UT_002,50,10,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64400666,GB_UT_002SWT Four
@@ -1457,7 +1457,7 @@ NR_MT_004WUI Saint Mary                WUI Saint Mary,NR_MT_004,80,10,100,0,0,0,
 NR_MT_004Timber North                  Timber North,NR_MT_004,75,25,100,0,0,0,y,n,0.01,1440,A1000,1.6,0,64410269,NR_MT_004BIA_BFA
 NR_MT_004Haymaker FMU 3                Haymaker,NR_MT_004,70,30,100,0,0,0,y,n,0.01,1440,A1000,1.6,0,64410270,NR_MT_004FMU3
 NR_MT_004Steamboat FMU 3               Steamboat,NR_MT_004,80,20,100,0,0,0,y,n,0.01,1440,A1000,1.6,0,64410270,NR_MT_004FMU3
-NR_MT_004South Fork Sun Exclusion FMU 3S Fk Sun Exclusion,NR_MT_004,75,25,100,0,0,0,y,n,0.01,1440,A1000,1.6,0,64410270,NR_MT_004FMU3
+NR_MT_004South Fork Sun Exclusion FMU 3  S Fk Sun Exclusion,NR_MT_004,75,25,100,0,0,0,y,n,0.01,1440,A1000,1.6,0,64410270,NR_MT_004FMU3
 NR_MT_004Two Medicine FMU 3            Two Medicine,NR_MT_004,75,25,100,0,0,0,y,n,0.01,1440,A1000,1.6,0,64410270,NR_MT_004FMU3
 NR_MT_004Judith WSA FMU 3              Judith WSA,NR_MT_004,75,25,100,0,0,0,y,n,0.01,1440,A1000,1.6,0,64410270,NR_MT_004FMU3
 NR_MT_004Arsenic-Burn Top FMU 3        Arsenic-Burn Top,NR_MT_004,90,10,100,0,0,0,y,n,0.01,1440,A1000,1.6,0,64410270,NR_MT_004FMU3
@@ -1468,7 +1468,7 @@ NR_MT_004Castle Mountains FMU 2        Castle Mountains,NR_MT_004,70,30,100,0,0,
 NR_MT_004Hunter Springs FMU 2          Hunter Springs,NR_MT_004,70,30,100,0,0,0,y,n,0.01,1440,A1000,1.6,0,64410271,NR_MT_004FMU2
 NR_MT_004Quartzite Ridge FMU 2         Quartzite Ridge,NR_MT_004,70,30,100,0,0,0,y,n,0.01,1440,A1000,1.6,0,64410271,NR_MT_004FMU2
 NR_MT_004Higgins Park FMU 2            Higgins Park,NR_MT_004,50,50,100,0,0,0,y,n,0.01,1440,A1000,1.6,0,64410271,NR_MT_004FMU2
-NR_MT_004Birch-Blackleaf Boundary FMU 2Birch-Blackleaf Bdry,NR_MT_004,70,30,100,0,0,0,y,n,0.01,1440,A1000,1.6,0,64410271,NR_MT_004FMU2
+NR_MT_004Birch-Blackleaf Boundary FMU 2  Birch-Blackleaf Bdry,NR_MT_004,70,30,100,0,0,0,y,n,0.01,1440,A1000,1.6,0,64410271,NR_MT_004FMU2
 NR_MT_004Dry Wolf FMU 2                Dry Wolf,NR_MT_004,70,30,100,0,0,0,y,n,0.01,1440,A1000,1.6,0,64410271,NR_MT_004FMU2
 NR_MT_004Crazy Mountain West FMU 2     Crazy Mountain West,NR_MT_004,70,30,100,0,0,0,y,n,0.01,1440,A1000,1.6,0,64410271,NR_MT_004FMU2
 NR_MT_004Scapegoat FMU 4               Scapegoat,NR_MT_004,100,0,100,0,0,0,y,n,0.01,1440,A1000,1.6,0,64410272,NR_MT_004FMU4_WFU
@@ -1505,22 +1505,22 @@ NR_MT_005Southeast                     SE,NR_MT_005,99,0,100,0,0,0,y,n,0.1,1440,
 NR_MT_005BLM                           Horseshoe S,NR_MT_005,75,0,100,0,0,0,y,n,0.01,1440,A300,1.6,0,64410713,NR_MT_005Full
 NR_MT_005North Suppression             Crazies N,NR_MT_005,81,0,100,0,0,0,y,n,0.01,1440,A300,1.6,0,64410713,NR_MT_005Full
 NR_MT_005Gallatin Suppression          Gallatin Face,NR_MT_005,50,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
-NR_MT_005Absaroka Beartooth SuppressionMill Cr,NR_MT_005,69,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
+NR_MT_005Absaroka Beartooth Suppression  Mill Cr,NR_MT_005,69,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
 NR_MT_005Gallatin Suppression          Cinnamon-Taylor,NR_MT_005,42,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
-NR_MT_005Yellowstone South Suppression YS Lake,NR_MT_005,0,50,100,0,0,0,y,n,0.01,1440,A300,1.2,0,64410713,NR_MT_005Full
-NR_MT_005Yellowstone South Suppression Old Faithful,NR_MT_005,0,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
+NR_MT_005Yellowstone South Suppression  YS Lake,NR_MT_005,0,50,100,0,0,0,y,n,0.01,1440,A300,1.2,0,64410713,NR_MT_005Full
+NR_MT_005Yellowstone South Suppression  Old Faithful,NR_MT_005,0,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
 NR_MT_005North Suppression             Bridger-Bangtail,NR_MT_005,50,0,100,0,0,0,y,n,0.01,1440,A300,1.6,0,64410713,NR_MT_005Full
 NR_MT_005BLM                           Livingston,NR_MT_005,50,0,100,0,0,0,y,n,0.01,1440,A300,1.6,0,64410713,NR_MT_005Full
-NR_MT_005Absaroka Beartooth SuppressionW-M Boulder,NR_MT_005,96,0,100,0,0,0,y,n,0.01,1440,A300,1.6,0,64410713,NR_MT_005Full
+NR_MT_005Absaroka Beartooth Suppression  W-M Boulder,NR_MT_005,96,0,100,0,0,0,y,n,0.01,1440,A300,1.6,0,64410713,NR_MT_005Full
 NR_MT_005BLM                           Horseshoe N,NR_MT_005,87,0,100,0,0,0,y,n,0.01,1440,A300,1.6,0,64410713,NR_MT_005Full
-NR_MT_005Absaroka Beartooth SuppressionGardiner-Mammoth,NR_MT_005,36,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
+NR_MT_005Absaroka Beartooth Suppression  Gardiner-Mammoth,NR_MT_005,36,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
 NR_MT_005Gallatin Suppression          Big Sky-Gallatin,NR_MT_005,64,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
-NR_MT_005Absaroka Beartooth SuppressionSilver-Cooke,NR_MT_005,50,50,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
-NR_MT_005Yellowstone South Suppression West Yellowstone,NR_MT_005,21,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
-NR_MT_005Absaroka Beartooth SuppressionTower Jct,NR_MT_005,63,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
-NR_MT_005Yellowstone South Suppression Norris,NR_MT_005,32,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
-NR_MT_005Yellowstone South Suppression South Entrance,NR_MT_005,77,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
-NR_MT_005Yellowstone South Suppression East Entrance,NR_MT_005,78,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
+NR_MT_005Absaroka Beartooth Suppression  Silver-Cooke,NR_MT_005,50,50,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
+NR_MT_005Yellowstone South Suppression  West Yellowstone,NR_MT_005,21,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
+NR_MT_005Absaroka Beartooth Suppression  Tower Jct,NR_MT_005,63,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
+NR_MT_005Yellowstone South Suppression  Norris,NR_MT_005,32,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
+NR_MT_005Yellowstone South Suppression  South Entrance,NR_MT_005,77,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
+NR_MT_005Yellowstone South Suppression  East Entrance,NR_MT_005,78,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410713,NR_MT_005Full
 NR_MT_005North Suppression             Crazies SW,NR_MT_005,73,0,100,0,0,0,y,n,0.01,1440,A300,1.6,0,64410713,NR_MT_005Full
 NR_MT_005North                         Crazy Mtn,NR_MT_005,99,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410714,NR_MT_005North Modified
 NR_MT_005North Suppression             Crazies E,NR_MT_005,84,0,100,0,0,0,y,n,0.01,1440,A300,1.3,0,64410714,NR_MT_005North Modified
@@ -1540,7 +1540,7 @@ NR_MT_006elliston                      ELLISTON,NR_MT_006,50,50,100,0,0,0,y,n,0.
 NR_MT_006belts                         BELTS,NR_MT_006,75,25,100,0,0,0,y,n,0.01,1440,A300,1.6,0,64411181,NR_MT_006NR_MT_006_FMU2
 NR_MT_006scapegoat                     SCAPEGOAT,NR_MT_006,100,0,100,0,0,0,y,n,0.01,1440,A300,1.6,0,64411182,NR_MT_006NR_MT_006_FMU3_Wild
 NR_MT_007Big Open                      Big Open DPA,NR_MT_007,10,25,100,0,0,0,y,n,0.01,1080,A300,1.2,0,64411969,"NR_MT_007DPA BLM (BO/ SP)"
-NR_MT_007Breaks Breaks,NR_MT_007,30,10,100,0,0,0,y,n,0.01,1080,A300,1.6,0,64411969,"NR_MT_007DPA BLM (BO/SP)"
+NR_MT_007Breaks  Breaks,NR_MT_007,30,10,100,0,0,0,y,n,0.01,1080,A300,1.6,0,64411969,"NR_MT_007DPA BLM (BO/SP)"
 NR_MT_007Sun Prairie                   Sun Prairie DPA,NR_MT_007,5,40,100,0,0,0,y,n,0.01,1080,A300,1.2,0,64411969,"NR_MT_007DPA BLM (BO / SP)"
 NR_MT_007Snowies 3                     Snowies 3,NR_MT_007,30,2,100,0,0,0,y,n,0.01,1080,A300,1.6,0,64411969,"NR_MT_007DPA BLM (BO/ SP)"
 NR_MT_007Little Rockies                Little Rockies,NR_MT_007,20,5,100,0,0,0,y,n,0.01,1080,A300,1,0,64411970,"NR_MT_007BRKS/ LR"
@@ -1587,7 +1587,7 @@ NW_OR_002Cottage Grove Unit            Cottage Grove Unit,NW_OR_002,40,0,100,0,0
 NW_OR_002North Umpqua Unit             North Umpqua Unit,NW_OR_002,45,0,100,0,0,0,y,n,0.001,1080,A100,1.6,0,64475275,NW_OR_002UPF GF LSR CG NU
 NW_OR_002Boulder Creek Wilderness      Boulder Creek Wilder,NW_OR_002,100,0,100,0,0,0,y,n,0.001,1080,A100,1.6,0,64475276,NW_OR_002UPF Wilderness
 NW_OR_002Mt Thielson Wilderness        Mt Thielson Wilderne,NW_OR_002,100,0,100,0,0,0,y,n,0.001,1080,A100,1.6,0,64475276,NW_OR_002UPF Wilderness
-NW_OR_002Rogue Umpqua Divide WildernessRogue Umpqua Divide,NW_OR_002,100,0,100,0,0,0,y,n,0.001,1080,A100,1.6,0,64475276,NW_OR_002UPF Wilderness
+NW_OR_002Rogue Umpqua Divide Wilderness  Rogue Umpqua Divide,NW_OR_002,100,0,100,0,0,0,y,n,0.001,1080,A100,1.6,0,64475276,NW_OR_002UPF Wilderness
 NW_WA_008Roosevelt                     Two_Rivers_Hwy_25,NW_WA_008,13,20,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477227,NW_WA_008SPA Dispatch
 NW_WA_008Roosevelt                     Jackson Springs,NW_WA_008,40,0,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477227,NW_WA_008SPA Dispatch
 NW_WA_008Roosevelt                     Etueville,NW_WA_008,13,20,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477227,NW_WA_008SPA Dispatch
@@ -1722,11 +1722,11 @@ SA_FL_001FL_CLR_FMU                    FL_CLR_FWA,SA_FL_001,0,0,100,0,0,0,y,n,0.
 SA_FL_001FL_NKR_FMU                    FL_NKR_FWA,SA_FL_001,0,0,100,0,0,0,y,n,0.1,1080,A300,1.6,0,64478683,SA_FL_001NKR
 SA_FL_001FL_NKR_Tht_FMU                FL_NKR_Tht_FWA,SA_FL_001,30,0,100,0,0,0,y,n,0.1,1080,A300,1.6,0,64478683,SA_FL_001NKR
 SA_FL_001FL_CLR_Tht_FMU                FL_CLR_Tht_FWA,SA_FL_001,50,0,100,0,0,0,y,n,0.1,1080,A300,1.6,0,64478683,SA_FL_001NKR
-SA_FL_001FL_SEA_Big_Cypress_Timber_FMU FL_SEA_Big_Cypress_T,SA_FL_001,10,75,100,0,0,0,y,n,1,1080,A300,1.6,0,64478684,SA_FL_001FLSEA Dispatch Log 1
+SA_FL_001FL_SEA_Big_Cypress_Timber_FMU  FL_SEA_Big_Cypress_T,SA_FL_001,10,75,100,0,0,0,y,n,1,1080,A300,1.6,0,64478684,SA_FL_001FLSEA Dispatch Log 1
 SA_FL_001FL_SEA_Big_Cypress_Grass_FMU  FL_SEA_Big_Cypress_G,SA_FL_001,0,80,100,0,0,0,y,n,77,1080,A300,1.6,0,64478684,SA_FL_001FLSEA Dispatch Log 1
 SA_FL_001FL_MIA_Miccosukee_Resort_FMU  FL_MIA_Miccosukee_Re,SA_FL_001,0,75,100,0,0,0,y,n,0.1,1080,A300,1.6,0,64478684,SA_FL_001FLSEA Dispatch Log 1
 SA_FL_001FL_SEA_Immokalee_FMU          FL_SEA_Immokalee_Tht,SA_FL_001,20,80,100,0,0,0,y,n,0.1,1080,A300,1.6,0,64478684,SA_FL_001FLSEA Dispatch Log 1
-SA_FL_001FL_MIA_Miccosukee_Sawgrass_FMUFL_MIA_Miccosukee_Sa,SA_FL_001,0,0,100,0,0,0,y,n,77,1080,A300,1.6,0,64478684,SA_FL_001FLSEA Dispatch Log 1
+SA_FL_001FL_MIA_Miccosukee_Sawgrass_FMU  FL_MIA_Miccosukee_Sa,SA_FL_001,0,0,100,0,0,0,y,n,77,1080,A300,1.6,0,64478684,SA_FL_001FLSEA Dispatch Log 1
 SA_FL_001FL_SEA_Big_Cypress_FMU        FL_SEA_ Big_Cypress,SA_FL_001,0,50,100,0,0,0,y,n,77,1080,A300,1.6,0,64478684,SA_FL_001FLSEA Dispatch Log 1
 SA_FL_001FL_MIA_Miccosukee_Trail_FMU   FL_MIA_Miccosukee_Tr,SA_FL_001,0,75,100,0,0,0,y,n,0.1,1080,A300,1.6,0,64478684,SA_FL_001FLSEA Dispatch Log 1
 SA_FL_001FL_MIA_SherrodR_Timber_FMU    FL_MIA_ SherrodR_Tim,SA_FL_001,0,100,100,0,0,0,y,n,77,1080,A300,1.6,0,64478684,SA_FL_001FLSEA Dispatch Log 1
@@ -1892,7 +1892,7 @@ SA_LA_003Unassigned_FMU                Unassigned_FWA4,SA_LA_003,0,0,100,0,0,0,n
 SA_LA_003Unassigned_FMU                Unassigned_FWA3,SA_LA_003,0,0,100,0,0,0,n,y,0.1,1080,A300,1.6,0,,SA_LA_003
 SA_LA_003Unassigned_FMU                Unassigned_FWA5,SA_LA_003,0,0,100,0,0,0,n,y,0.1,1080,A300,1.6,0,,SA_LA_003
 SA_LA_003Lorane_No_Plow_FMU            Lorane_No_Plow_FWA,SA_LA_003,30,0,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64481778,SA_LA_003NO-Plow_NO_Penetrat
-SA_LA_003Breezy_Hill_No_Penetration_FMUBreezy_Hill_No_Pene2,SA_LA_003,10,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64481778,SA_LA_003NO-Plow_NO_Penetrat
+SA_LA_003Breezy_Hill_No_Penetration_FMU  Breezy_Hill_No_Pene2,SA_LA_003,10,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64481778,SA_LA_003NO-Plow_NO_Penetrat
 SA_LA_003Packton_Threat_FMU            Packton_Threat_FWA,SA_LA_003,10,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64481779,SA_LA_003Kisatchie General
 SA_LA_003Cravens_Threat_FMU            Cravens_Threat_FWA,SA_LA_003,5,0,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64481779,SA_LA_003Kisatchie General
 SA_LA_003Fort_Polk_Threat_FMU          Fort_Polk_Threat_FWA,SA_LA_003,10,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64481779,SA_LA_003Kisatchie General
@@ -2025,7 +2025,7 @@ SA_NC_001Uwharrie National Forest      Uwharrie WUI,SA_NC_001,30,0,100,0,0,0,y,n
 SA_NC_002MATTAMUSKEET THREAT FMU       MATTAMUSKEET THREAT,SA_NC_002,20,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64484477,SA_NC_002FWS with helicopter
 SA_NC_002PEA ISLAND FMU                PEA ISLAND FWA,SA_NC_002,5,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64484477,SA_NC_002FWS with helicopter
 SA_NC_002POCOSIN LAKES EAST FMU        POCOSIN LAKES EAST F,SA_NC_002,30,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64484477,SA_NC_002FWS with helicopter
-SA_NC_002POCOSIN LAKES THREAT WEST FMU POCOSIN LAKES THRE_W,SA_NC_002,33,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64484477,SA_NC_002FWS with helicopter
+SA_NC_002POCOSIN LAKES THREAT WEST FMU  POCOSIN LAKES THRE_W,SA_NC_002,33,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64484477,SA_NC_002FWS with helicopter
 SA_NC_002POCOSIN LAKES WEST FMU        POCOSIN LAKES WEST F,SA_NC_002,65,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64484477,SA_NC_002FWS with helicopter
 SA_NC_002ROANOKE RIVER FMU             ROANOKE RIVER FWA,SA_NC_002,50,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64484477,SA_NC_002FWS with helicopter
 SA_NC_002SWANQUARTER FMU               SWANQUARTER FWA,SA_NC_002,50,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64484477,SA_NC_002FWS with helicopter
@@ -2035,8 +2035,8 @@ SA_NC_002UNASSIGNED                    UNASSIGNED_MOCR,SA_NC_002,0,0,100,0,0,0,n
 SA_NC_002ALLIGATOR RIVER EAST FMU      ALLIGATOR RIVER EAST,SA_NC_002,25,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64484477,SA_NC_002FWS with helicopter
 SA_NC_002ALLIGATOR RIVER WEST FMU      ALLIGATOR RIVER WEST,SA_NC_002,70,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64484477,SA_NC_002FWS with helicopter
 SA_NC_002UNASSIGNED_NC_COAST           UNASSIGNED_NC_COAST,SA_NC_002,0,0,100,0,0,0,n,y,0.001,1080,A300,1.6,0,64484477,SA_NC_002FWS with helicopter
-SA_NC_002POCOSIN LAKES THREAT EAST FMU POCOSIN LAKES THRE_E,SA_NC_002,15,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64484477,SA_NC_002FWS with helicopter
-SA_NC_002ALLIGATOR RIVER THREAT EAST FMALLIGATOR RIVER TH_E,SA_NC_002,25,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64484477,SA_NC_002FWS with helicopter
+SA_NC_002POCOSIN LAKES THREAT EAST FMU  POCOSIN LAKES THRE_E,SA_NC_002,15,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64484477,SA_NC_002FWS with helicopter
+SA_NC_002ALLIGATOR RIVER THREAT EAST FM  ALLIGATOR RIVER TH_E,SA_NC_002,25,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64484477,SA_NC_002FWS with helicopter
 SA_NC_002CEDAR ISLAND FMU              CEDAR ISLAND FWA,SA_NC_002,35,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64484477,SA_NC_002FWS with helicopter
 SA_NC_002CEDAR ISLAND THREAT FMU       CEDAR ISLAND THREAT,SA_NC_002,30,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64484477,SA_NC_002FWS with helicopter
 SA_NC_002CRF_FMU_MIXED_OWNERSHIP       CRF_FWA_MIXED_OWNERS,SA_NC_002,10,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64484478,SA_NC_002Croatan
@@ -2251,8 +2251,8 @@ SA_TX_004McFadden THT                  MCF 012 THT,SA_TX_004,0,100,100,0,0,0,n,n
 SA_TX_004McFadden 007                  MCF 007,SA_TX_004,0,0,100,0,0,0,n,n,99,1080,A100,1.6,0,64489975,SA_TX_004AHR-MCR 5
 SA_TX_005Unassigned                    Water,SA_TX_005,0,0,100,0,0,0,n,y,0.1,1080,A100,1.6,0,,SA_TX_005
 SA_TX_005Aransas-Matagorda NWR         Matagorda,SA_TX_005,0,0,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64490318,SA_TX_005Matagorda
-SA_TX_005Padre Island National SeashoreDown Island,SA_TX_005,20,0,100,0,0,0,n,n,0.5,1080,A100,1.6,0,64490319,SA_TX_005Padre Island
-SA_TX_005Padre Island National SeashoreMalaquite Beach,SA_TX_005,20,0,100,0,0,0,n,n,0.5,1080,A100,1.6,0,64490319,SA_TX_005Padre Island
+SA_TX_005Padre Island National Seashore  Down Island,SA_TX_005,20,0,100,0,0,0,n,n,0.5,1080,A100,1.6,0,64490319,SA_TX_005Padre Island
+SA_TX_005Padre Island National Seashore  Malaquite Beach,SA_TX_005,20,0,100,0,0,0,n,n,0.5,1080,A100,1.6,0,64490319,SA_TX_005Padre Island
 SA_TX_005Santa Ana FMU                 Santa Ana FWA,SA_TX_005,0,70,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64490320,SA_TX_005Santa Ana Staffing
 SA_TX_005Falcon FMU                    Falcon FWA,SA_TX_005,0,70,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64490322,SA_TX_005Falcon Staffing
 SA_TX_005Palmview FMU                  Palmview FWA,SA_TX_005,0,70,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64490323,SA_TX_005Palmview Staffing
@@ -2518,14 +2518,14 @@ SW_AZ_005Clayhole                      Clayhole,SW_AZ_005,30,70,100,0,0,0,y,n,0.
 SW_AZ_005PJ                            PJ,SW_AZ_005,30,70,100,0,0,0,y,n,0.01,1140,A300,1.6,0,64495469,SW_AZ_005Grass-Brush-PJ
 SW_AZ_005Shivwits                      Shivwits,SW_AZ_005,30,70,100,0,0,0,y,n,0.01,1140,A300,1.6,0,64495469,SW_AZ_005Grass-Brush-PJ
 SW_AZ_005Shrub                         Shrub,SW_AZ_005,30,70,100,0,0,0,y,n,0.01,1140,A300,1.6,0,64495469,SW_AZ_005Grass-Brush-PJ
-SW_AZ_005Paria Plateau-House Rock ValleParia Plateau-House,SW_AZ_005,30,70,100,0,0,0,y,n,0.01,1140,A300,1.6,0,64495469,SW_AZ_005Grass-Brush-PJ
+SW_AZ_005Paria Plateau-House Rock Valle  Paria Plateau-House,SW_AZ_005,30,70,100,0,0,0,y,n,0.01,1140,A300,1.6,0,64495469,SW_AZ_005Grass-Brush-PJ
 SW_AZ_005Mojave/Riparian               Mojave/Riparian,SW_AZ_005,30,70,100,0,0,0,y,n,0.01,1140,A300,1.6,0,64495470,SW_AZ_005Mojave Desert
 SW_AZ_005Mojave/Riparian Wilderness    Mojave/Riparian Wild,SW_AZ_005,30,70,100,0,0,0,y,n,0.01,1140,A300,1.6,0,64495470,SW_AZ_005Mojave Desert
 SW_AZ_005Kanab Creek Wilderness        Kanab Creek Wilder,SW_AZ_005,30,70,100,0,0,0,y,n,0.01,1140,A300,1.6,0,64495471,SW_AZ_005Wilderness and Park
 SW_AZ_005Wilderness-D3-SMW1            Wilderness-D3-SMW1,SW_AZ_005,30,70,100,0,0,0,y,n,0.01,1140,A300,1.6,0,64495471,SW_AZ_005Wilderness and Park
 SW_AZ_005Ponderosa Pine Wilderness     Ponderosa Pine Wild,SW_AZ_005,30,70,100,0,0,0,y,n,0.01,1140,A300,1.6,0,64495471,SW_AZ_005Wilderness and Park
 SW_AZ_005Barren                        Barren,SW_AZ_005,25,75,100,0,0,0,y,n,0.01,1140,A300,1.6,0,64495471,SW_AZ_005Wilderness and Park
-SW_AZ_005Paria Canyon-Vermilion Cliffs Paria Canyon-Vermili,SW_AZ_005,30,70,100,0,0,0,y,n,0.01,1140,A300,1.6,0,64495471,SW_AZ_005Wilderness and Park
+SW_AZ_005Paria Canyon-Vermilion Cliffs  Paria Canyon-Vermili,SW_AZ_005,30,70,100,0,0,0,y,n,0.01,1140,A300,1.6,0,64495471,SW_AZ_005Wilderness and Park
 SW_AZ_006WUI                           Non_Participating,SW_AZ_006,0,100,100,0,0,0,n,y,0.1,1080,A300,1.4,0,,SW_AZ_006
 SW_AZ_006Desert                        West Verde,SW_AZ_006,77,0,100,0,0,0,y,n,0.001,1080,A300,1,0,64496154,SW_AZ_006desert
 SW_AZ_006Desert                        Desert_Cave Creek,SW_AZ_006,60,0,100,0,0,0,y,n,0.001,1080,A300,1,0,64496154,SW_AZ_006desert
@@ -2592,9 +2592,9 @@ SW_NM_001Pecos Wilderness              Pecos Wild TDC,SW_NM_001,25,10,100,0,0,0,
 SW_NM_001Pecos Wilderness              Pecos Wilderness,SW_NM_001,100,0,100,0,0,0,y,n,0.001,1080,A300,1.3,0,64497911,SW_NM_001Wilderness
 SW_NM_001Largo FMU                     Largo FWA W,SW_NM_001,20,10,100,0,0,0,y,n,0.001,2880,A300,1.4,0,64497912,SW_NM_001Farm-Jia Dispatch
 SW_NM_001Northern Jicarilla            Northern Jicarilla,SW_NM_001,20,10,100,0,0,0,y,n,0.001,2880,A300,1.4,0,64497912,SW_NM_001Farm-Jia Dispatch
-SW_NM_001Crouch Mesa / La Plata WUI FMUCrouch Mesa FWA N,SW_NM_001,20,10,100,0,0,0,y,n,0.001,2880,A300,1.4,0,64497912,SW_NM_001Farm-Jia Dispatch
+SW_NM_001Crouch Mesa / La Plata WUI FMU  Crouch Mesa FWA N,SW_NM_001,20,10,100,0,0,0,y,n,0.001,2880,A300,1.4,0,64497912,SW_NM_001Farm-Jia Dispatch
 SW_NM_001River Corridor FMU            River Corridor WT N,SW_NM_001,20,10,100,0,0,0,y,n,0.001,2880,A300,1.4,0,64497912,SW_NM_001Farm-Jia Dispatch
-SW_NM_001Crouch Mesa / La Plata WUI FMUCrouch Mesa FWA S,SW_NM_001,20,10,100,0,0,0,y,n,0.001,2880,A300,1.4,0,64497912,SW_NM_001Farm-Jia Dispatch
+SW_NM_001Crouch Mesa / La Plata WUI FMU  Crouch Mesa FWA S,SW_NM_001,20,10,100,0,0,0,y,n,0.001,2880,A300,1.4,0,64497912,SW_NM_001Farm-Jia Dispatch
 SW_NM_001Largo FMU                     Largo FWA E,SW_NM_001,20,10,100,0,0,0,y,n,0.001,2880,A300,1.4,0,64497912,SW_NM_001Farm-Jia Dispatch
 SW_NM_001Lonetree FMU                  Lonetree FMU,SW_NM_001,20,10,100,0,0,0,y,n,0.001,2880,A300,1.4,0,64497912,SW_NM_001Farm-Jia Dispatch
 SW_NM_001River Corridor FMU            River Corridor WT S,SW_NM_001,20,10,100,0,0,0,y,n,0.001,2880,A300,1.4,0,64497912,SW_NM_001Farm-Jia Dispatch
@@ -2606,7 +2606,7 @@ SW_NM_001Apache FMU                    Apache FWA WC,SW_NM_001,20,10,100,0,0,0,y
 SW_NM_001Jicarilla WUI FMU             Jicarilla WUI FWA S,SW_NM_001,20,10,100,0,0,0,y,n,0.001,2880,A300,1.4,0,64497912,SW_NM_001Farm-Jia Dispatch
 SW_NM_001Apache FMU                    Apache FWA NE,SW_NM_001,20,10,100,0,0,0,y,n,0.001,2880,A300,1.4,0,64497912,SW_NM_001Farm-Jia Dispatch
 SW_NM_001Carson WUI FMU                Carson WUI FWA N,SW_NM_001,20,10,100,0,0,0,y,n,0.001,2880,A300,1.4,0,64497912,SW_NM_001Farm-Jia Dispatch
-SW_NM_001Crouch Mesa / La Plata WUI FMUCrouch Mesa FWA E,SW_NM_001,20,10,100,0,0,0,y,n,0.001,2880,A300,1.4,0,64497912,SW_NM_001Farm-Jia Dispatch
+SW_NM_001Crouch Mesa / La Plata WUI FMU  Crouch Mesa FWA E,SW_NM_001,20,10,100,0,0,0,y,n,0.001,2880,A300,1.4,0,64497912,SW_NM_001Farm-Jia Dispatch
 SW_NM_001Rattlesnake FMU               Rattlesnake FWA EAST,SW_NM_001,20,10,100,0,0,0,y,n,0.001,2880,A300,1.4,0,64497912,SW_NM_001Farm-Jia Dispatch
 SW_NM_001Jicarilla WUI FMU             Jicarilla WUI FWA W,SW_NM_001,20,10,100,0,0,0,y,n,0.001,2880,A300,1.4,0,64497912,SW_NM_001Farm-Jia Dispatch
 SW_NM_001River Corridor FMU            River Corridor CT S,SW_NM_001,20,10,100,0,0,0,y,n,0.001,2880,A300,1.4,0,64497912,SW_NM_001Farm-Jia Dispatch
@@ -2651,7 +2651,7 @@ SW_NM_002Southern NM Mountains         North Mountains,SW_NM_002,20,0,100,0,0,0,
 SW_NM_003Hillsboro                     Hillsboro,SW_NM_003,20,80,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Organ Mountains WSA_ACEC      Organ Mountains WSA,SW_NM_003,80,20,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Robledo Mountains WSA_ACEC    Robledo Mountains WS,SW_NM_003,80,20,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
-SW_NM_003Caballo Mountain CommunicationCaballo Mountain Com,SW_NM_003,10,90,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
+SW_NM_003Caballo Mountain Communication  Caballo Mountain Com,SW_NM_003,10,90,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Timberon                      Timberon,SW_NM_003,20,80,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Winston_Ladder Ranch          Winston_Ladder Rnch1,SW_NM_003,50,50,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Jornada del Muerto WSA        Jornada del Muerto W,SW_NM_003,100,0,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
@@ -2660,18 +2660,18 @@ SW_NM_003Bootheel_Gila                 Bootheel_Gila,SW_NM_003,10,90,100,0,0,0,y
 SW_NM_003Rio Grande River Corridor     Rio Grande River Cor,SW_NM_003,10,90,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Tularosa Basin_Otero Mesa     Tularosa Basin_Otero,SW_NM_003,0,100,100,0,0,0,y,n,0.1,1200,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Unassigned                    Unassigned,SW_NM_003,20,80,100,0,0,0,y,y,0.1,1200,A100,1.6,0,64499063,SW_NM_003LCDO fils
-SW_NM_003Aguirre Spring Recreation SiteAguirre Spring Recre,SW_NM_003,40,60,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
+SW_NM_003Aguirre Spring Recreation Site  Aguirre Spring Recre,SW_NM_003,40,60,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Brokeoff Mountains WSA        Brokeoff Mountains W,SW_NM_003,40,60,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Chupadera Mesa                Chupadera Mesa,SW_NM_003,40,60,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Cox Visitor Center            Cox Visitor Center,SW_NM_003,0,100,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
-SW_NM_003Dripping Springs Recreation S Dripping Springs Rec,SW_NM_003,0,100,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
+SW_NM_003Dripping Springs Recreation S  Dripping Springs Rec,SW_NM_003,0,100,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Winston_Ladder Ranch          Winston_Ladder Rnch2,SW_NM_003,60,40,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003La Cueva Recreation Site      La Cueva Recreation,SW_NM_003,10,90,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Lava Flow WSA                 Lava Flow WSA,SW_NM_003,100,0,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Jornado                       Jornado,SW_NM_003,40,60,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Winston_Ladder Ranch          Winston_Ladder Rnch3,SW_NM_003,70,30,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003McGregor Range                McGregor Range,SW_NM_003,0,100,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
-SW_NM_003Big Hatchet Mountains WSA_ACECBig Hatchet Mountain,SW_NM_003,80,20,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
+SW_NM_003Big Hatchet Mountains WSA_ACEC  Big Hatchet Mountain,SW_NM_003,80,20,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Chaparral Community           Chaparral Community,SW_NM_003,100,0,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003West Potrillos WSA_ACEC       West Potrillos WSA_A,SW_NM_003,50,50,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Talavera Subdivision          Talavera Subdivision,SW_NM_003,0,100,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
@@ -2680,9 +2680,9 @@ SW_NM_003Lordsburg_Deming_Silver City  Lordsburg_Deming_Sil,SW_NM_003,0,100,100,
 SW_NM_003Cookes Range WSA_ACEC         Cookes Range WSA_AC,SW_NM_003,50,50,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Las Uvas WSA_ACEC             Las Uvas WSA_ACEC,SW_NM_003,60,40,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Pecos Plains                  Pecos Plains,SW_NM_003,20,80,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
-SW_NM_003All Lands not specified by se All Lands not specif,SW_NM_003,20,80,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
+SW_NM_003All Lands not specified by se  All Lands not specif,SW_NM_003,20,80,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Lake Valley                   Lake Valley,SW_NM_003,20,80,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
-SW_NM_003Sacramento Escarpment WSA_ACECSacramento Escarpmen,SW_NM_003,90,10,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
+SW_NM_003Sacramento Escarpment WSA_ACEC  Sacramento Escarpmen,SW_NM_003,90,10,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Alamo_Hueco Mountains         Alamo_Hueco Mountain,SW_NM_003,80,20,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Cedar Mountains WSA           Cedar Mountains WSA,SW_NM_003,80,20,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
 SW_NM_003Franklin Mountains            Franklin Mountains,SW_NM_003,70,30,100,0,0,0,y,n,0.1,1080,A100,1.6,0,64499063,SW_NM_003LCDO fils
@@ -2770,14 +2770,14 @@ SW_TX_002TX BLM - Cross Bar            Cross Bar,SW_TX_002,5,95,100,0,0,0,y,n,0.
 SW_TX_002NPS TX - LAMR ALFL            Lake Meredith NRA,SW_TX_002,5,90,100,0,0,0,y,n,0.001,1080,A300,1.5,0,64502276,SW_TX_002SW_TX_002_DispLog_1
 SW_TX_002NM NPS - CAVO                 Capulin Volcano NM,SW_TX_002,5,20,100,0,0,0,y,n,0.05,1080,A300,1.5,0,64502276,SW_TX_002SW_TX_002_DispLog_1
 SW_TX_002OK NPS USFS - BKNG - WABA     Black Kettle NG,SW_TX_002,5,95,100,0,0,0,y,n,0.001,1080,A300,1.5,0,64502276,SW_TX_002SW_TX_002_DispLog_1
-SW_TX_002TX NM USFS - Kiowa/Rita BlancaKiowa/Rita BlancaNG2,SW_TX_002,5,95,100,0,0,0,y,n,0.001,1080,A300,1.5,0,64502276,SW_TX_002SW_TX_002_DispLog_1
-SW_TX_002TX NM USFS - Kiowa/Rita BlancaKiowa/Rita BlancaNM2,SW_TX_002,5,95,100,0,0,0,y,n,0.05,1080,A300,1.5,0,64502276,SW_TX_002SW_TX_002_DispLog_1
+SW_TX_002TX NM USFS - Kiowa/Rita Blanca  Kiowa/Rita BlancaNG2,SW_TX_002,5,95,100,0,0,0,y,n,0.001,1080,A300,1.5,0,64502276,SW_TX_002SW_TX_002_DispLog_1
+SW_TX_002TX NM USFS - Kiowa/Rita Blanca  Kiowa/Rita BlancaNM2,SW_TX_002,5,95,100,0,0,0,y,n,0.05,1080,A300,1.5,0,64502276,SW_TX_002SW_TX_002_DispLog_1
 SW_TX_002Unassigned Lands Central      So. Grasslands Cent.,SW_TX_002,0,100,100,0,0,0,y,y,0.1,1080,A300,1.6,0,64502276,SW_TX_002SW_TX_002_DispLog_1
 SW_TX_002Unassigned Lands West         NM South Grasslands,SW_TX_002,0,100,100,0,0,0,y,y,0.1,1080,A300,1.6,0,64502276,SW_TX_002SW_TX_002_DispLog_1
 SW_TX_002Unassigned Lands WNW          Central Graswslands,SW_TX_002,0,100,100,0,0,0,y,y,0.05,1080,A300,1.6,0,64502276,SW_TX_002SW_TX_002_DispLog_1
 SW_TX_002Unassigned Lands NW           Northern Forests,SW_TX_002,0,100,100,0,0,0,y,y,0.1,1080,A300,1.6,0,64502276,SW_TX_002SW_TX_002_DispLog_1
-SW_TX_002TX NM USFS - Kiowa/Rita BlancaKiowa/Rita BlancaNM1,SW_TX_002,5,95,100,0,0,0,y,n,0.05,1080,A300,1.5,0,64502276,SW_TX_002SW_TX_002_DispLog_1
-SW_TX_002TX NM USFS - Kiowa/Rita BlancaKiowa/Rita BlancaNG1,SW_TX_002,5,95,100,0,0,0,y,n,0.05,1080,A300,1.5,0,64502276,SW_TX_002SW_TX_002_DispLog_1
+SW_TX_002TX NM USFS - Kiowa/Rita Blanca  Kiowa/Rita BlancaNM1,SW_TX_002,5,95,100,0,0,0,y,n,0.05,1080,A300,1.5,0,64502276,SW_TX_002SW_TX_002_DispLog_1
+SW_TX_002TX NM USFS - Kiowa/Rita Blanca  Kiowa/Rita BlancaNG1,SW_TX_002,5,95,100,0,0,0,y,n,0.05,1080,A300,1.5,0,64502276,SW_TX_002SW_TX_002_DispLog_1
 SW_TX_002Unassigned Lands East         So. Grasslands East,SW_TX_002,0,100,100,0,0,0,y,y,0.1,1080,A300,1.6,0,64502276,SW_TX_002SW_TX_002_DispLog_1
 SW_TX_002NM BLM - Roswell/Taos FO      Sabinoso,SW_TX_002,100,0,100,0,0,0,n,y,0.1,1080,A300,1.6,0,64502277,SW_TX_002BLM_Sabinoso
 SW_TX_004Cooperators                   The_Nature_Conservan,SW_TX_004,0,0,100,0,0,0,n,y,0.001,1080,A100,1,0,,SW_TX_004
@@ -2883,7 +2883,7 @@ GB_ID_001Fairfield FMU                 Fair_5,GB_ID_001,20,0,100,0,0,0,y,n,3,144
 GB_ID_001Sawtooth Wilderness FMU       SWild_1,GB_ID_001,90,0,100,0,0,0,y,n,3,1440,A100,1.6,0,64531982,GB_ID_001WILDERNESS RESPONSE
 GB_ID_001Sawtooth Wilderness FMU       SWild_2,GB_ID_001,90,0,100,0,0,0,y,n,3,1440,A100,1.4,0,64531982,GB_ID_001WILDERNESS RESPONSE
 GB_ID_001Sawtooth Wilderness FMU       SWild_3,GB_ID_001,90,0,100,0,0,0,y,n,3,1440,A100,1.6,0,64531982,GB_ID_001WILDERNESS RESPONSE
-GB_ID_001Upper Salmon River Valley FMU USRiv,GB_ID_001,50,10,100,0,0,0,y,n,3,1440,A100,1.2,0,64531983,GB_ID_001SNRA RESPONSE
+GB_ID_001Upper Salmon River Valley FMU  USRiv,GB_ID_001,50,10,100,0,0,0,y,n,3,1440,A100,1.2,0,64531983,GB_ID_001SNRA RESPONSE
 GB_ID_001Big Wood River FMU            BigWR,GB_ID_001,40,30,100,0,0,0,y,n,3,1440,A100,1.2,0,64531983,GB_ID_001SNRA RESPONSE
 GB_ID_001Little Wood River FMU         LWRiv_1,GB_ID_001,90,0,100,0,0,0,y,n,3,1440,A100,1.4,0,64531983,GB_ID_001SNRA RESPONSE
 GB_ID_001White Cloud - Boulder FMU     WCBldr_1,GB_ID_001,90,0,100,0,0,0,y,n,3,1440,A100,1.4,0,64531983,GB_ID_001SNRA RESPONSE
@@ -3001,7 +3001,7 @@ GB_UT_001Monroe Mountain               Monroe Mountain,GB_UT_001,75,0,100,0,0,0,
 GB_UT_001Sanpete Valley                Sanpete Valley,GB_UT_001,55,7,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64547623,GB_UT_001Richfield SWT
 GB_UT_001Pahvant                       Pahvant,GB_UT_001,75,5,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64547623,GB_UT_001Richfield SWT
 GB_UT_001Beaver Canyon                 Beaver Canyon,GB_UT_001,90,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64547623,GB_UT_001Richfield SWT
-GB_UT_001Little Sahara Recreation Area Little Sahara Recre,GB_UT_001,40,20,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64547624,GB_UT_001Filmore SWT
+GB_UT_001Little Sahara Recreation Area  Little Sahara Recre,GB_UT_001,40,20,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64547624,GB_UT_001Filmore SWT
 GB_UT_001Keg                           Keg,GB_UT_001,60,15,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64547624,GB_UT_001Filmore SWT
 GB_UT_001Drums                         Drums,GB_UT_001,40,15,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64547624,GB_UT_001Filmore SWT
 GB_UT_001Deep Creek                    Deep Creek,GB_UT_001,75,0,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64547624,GB_UT_001Filmore SWT
@@ -3020,18 +3020,18 @@ GB_UT_001Boulder                       Boulder,GB_UT_001,30,0,100,0,0,0,y,n,0.00
 GB_UT_001Parker                        Parker,GB_UT_001,40,10,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64547625,GB_UT_001Teasdale SWT
 GB_UT_001Fremont                       Fremont,GB_UT_001,10,5,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64547625,GB_UT_001Teasdale SWT
 GB_UT_003DOD                           DOD_CAMP_WILLIAMS,GB_UT_003,50,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558273,GB_UT_003Camp William
-GB_UT_003A18_HANSEL_MOUNTAINS_WEST_BLU*A18_HANSEL_MOUNTAIN*,GB_UT_003,10,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
-GB_UT_003A20_EAST_CURLEW_HANSEL_BLUE_C*A20_EAST_CURLEW_HAN*,GB_UT_003,10,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
+GB_UT_003A18_HANSEL_MOUNTAINS_WEST_BLU*  A18_HANSEL_MOUNTAIN*,GB_UT_003,10,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
+GB_UT_003A20_EAST_CURLEW_HANSEL_BLUE_C*  A20_EAST_CURLEW_HAN*,GB_UT_003,10,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
 GB_UT_003C06_DUGWAY_RANGE              C06_DUGWAY_RANGE,GB_UT_003,10,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
 GB_UT_003A14_GOLD_HILL_AREA            A14_GOLD_HILL_AREA,GB_UT_003,5,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
-GB_UT_003A01_ELEPHANT_KNOLL_CALLAO_WES*A01_ELEPHANT_KNOLL_*,GB_UT_003,5,50,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
+GB_UT_003A01_ELEPHANT_KNOLL_CALLAO_WES*  A01_ELEPHANT_KNOLL_*,GB_UT_003,5,50,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
 GB_UT_003A19_ANTELOPE_ISLAND_AREA      A19_ANTELOPE_ISLAND*,GB_UT_003,25,50,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
 GB_UT_003UNASSIGNED                    UNASSIGNED,GB_UT_003,0,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
-GB_UT_003A02_FLOATING_ISLAND_SILVER_IS*A02_FLOATING_ISLAND*,GB_UT_003,20,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
-GB_UT_003B11_HENRYS_FORK_NEPONSET_RESE*B11_HENRYS_FORK_NEP*,GB_UT_003,40,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
+GB_UT_003A02_FLOATING_ISLAND_SILVER_IS*  A02_FLOATING_ISLAND*,GB_UT_003,20,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
+GB_UT_003B11_HENRYS_FORK_NEPONSET_RESE*  B11_HENRYS_FORK_NEP*,GB_UT_003,40,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
 GB_UT_003B09_UPPER_RANDOLPH_CREEK      B09_UPPER_RANDOLPH_*,GB_UT_003,25,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
-GB_UT_003B03_RAFT_RIVER_MOUNTAIN_AREA_*B03_RAFT_RIVER_MOUN*,GB_UT_003,10,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
-GB_UT_003A07_NEWFOUNDLAND_MOUNTAINS_BE*A07_NEWFOUNDLAND_MO*,GB_UT_003,5,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
+GB_UT_003B03_RAFT_RIVER_MOUNTAIN_AREA_*  B03_RAFT_RIVER_MOUN*,GB_UT_003,10,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
+GB_UT_003A07_NEWFOUNDLAND_MOUNTAINS_BE*  A07_NEWFOUNDLAND_MO*,GB_UT_003,5,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558274,GB_UT_003BLM Other
 GB_UT_003CENTRAL_WASATCH_UNIT          CENTRAL_WASATCH_UNIT,GB_UT_003,30,0,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558275,GB_UT_003WUI_FS
 GB_UT_003NEPHI                         NEPHI,GB_UT_003,40,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558275,GB_UT_003WUI_FS
 GB_UT_003THISTLE                       THISTLE,GB_UT_003,30,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558275,GB_UT_003WUI_FS
@@ -3059,52 +3059,52 @@ GB_UT_003WILDERNESS                    01_MT_NAOMI_WILDERN*,GB_UT_003,90,0,100,0
 GB_UT_003WILDERNESS                    03_UPPER_SOUTH_FORK*,GB_UT_003,80,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558277,GB_UT_003Wilderness SJ
 GB_UT_003WILDERNESS                    02_WELLSVILLE_WILDE*,GB_UT_003,100,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558277,GB_UT_003Wilderness SJ
 GB_UT_003WILDERNESS                    04_MOFFIT_WILDERNESS,GB_UT_003,100,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558277,GB_UT_003Wilderness SJ
-GB_UT_003D01_BONNEVILLE_BASIN_MUDFLATS D01_BONNEVILLE_BASI*,GB_UT_003,5,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558278,GB_UT_003BLM_Bonne_Carring
-GB_UT_003DO2_CARRINGTON_AND_CUB_ISLANDSDO2_CARRINGTON_AND_*,GB_UT_003,100,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558278,GB_UT_003BLM_Bonne_Carring
-GB_UT_003B07_SIMPSON_THORPE HILLS_SHEE*B07_SIMPSON_THORPE_*,GB_UT_003,0,25,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558279,GB_UT_003Desert 5
-GB_UT_003B06_DAVIS_MTN_EAST_ONAQUI_N_S*B06_DAVIS_MTN_EAST_*,GB_UT_003,5,35,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558279,GB_UT_003Desert 5
-GB_UT_003C03_CEDAR_MOUNTAIN_RANGE      C03_CEDAR_MOUNTAIN_*,GB_UT_003,5,35,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558279,GB_UT_003Desert 5
-GB_UT_003A03_SKULL_VALLEY_PUDDLE_VALLE*A03_SKULL_VALLEY_PU*,GB_UT_003,5,50,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558279,GB_UT_003Desert 5
-GB_UT_003B04_SEMI_DESERT_AND_UPLAND_OF*B04_SEMI_DESERT_AND*,GB_UT_003,10,50,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558279,GB_UT_003Desert 5
-GB_UT_003C05_ONAQUI_AND_NORTH_SIMPSON_*C05_ONAQUI_AND_NORT*,GB_UT_003,40,0,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558279,GB_UT_003Desert 5
-GB_UT_003A12_LAKE_MOUNTAIN_WEST_MOUNTA*A12_LAKE_MOUNTAIN_W*,GB_UT_003,5,75,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558279,GB_UT_003Desert 5
-GB_UT_003A10_SOUTH_OQUIRRH_MOUNTAIN_AR*A10_SOUTH_OQUIRRH_M*,GB_UT_003,25,0,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558279,GB_UT_003Desert 5
+GB_UT_003D01_BONNEVILLE_BASIN_MUDFLATS  D01_BONNEVILLE_BASI*,GB_UT_003,5,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558278,GB_UT_003BLM_Bonne_Carring
+GB_UT_003DO2_CARRINGTON_AND_CUB_ISLANDS  DO2_CARRINGTON_AND_*,GB_UT_003,100,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558278,GB_UT_003BLM_Bonne_Carring
+GB_UT_003B07_SIMPSON_THORPE HILLS_SHEE*  B07_SIMPSON_THORPE_*,GB_UT_003,0,25,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558279,GB_UT_003Desert 5
+GB_UT_003B06_DAVIS_MTN_EAST_ONAQUI_N_S*  B06_DAVIS_MTN_EAST_*,GB_UT_003,5,35,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558279,GB_UT_003Desert 5
+GB_UT_003C03_CEDAR_MOUNTAIN_RANGE        C03_CEDAR_MOUNTAIN_*,GB_UT_003,5,35,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558279,GB_UT_003Desert 5
+GB_UT_003A03_SKULL_VALLEY_PUDDLE_VALLE*  A03_SKULL_VALLEY_PU*,GB_UT_003,5,50,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558279,GB_UT_003Desert 5
+GB_UT_003B04_SEMI_DESERT_AND_UPLAND_OF*  B04_SEMI_DESERT_AND*,GB_UT_003,10,50,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558279,GB_UT_003Desert 5
+GB_UT_003C05_ONAQUI_AND_NORTH_SIMPSON_*  C05_ONAQUI_AND_NORT*,GB_UT_003,40,0,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558279,GB_UT_003Desert 5
+GB_UT_003A12_LAKE_MOUNTAIN_WEST_MOUNTA*  A12_LAKE_MOUNTAIN_W*,GB_UT_003,5,75,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558279,GB_UT_003Desert 5
+GB_UT_003A10_SOUTH_OQUIRRH_MOUNTAIN_AR*  A10_SOUTH_OQUIRRH_M*,GB_UT_003,25,0,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558279,GB_UT_003Desert 5
 GB_UT_003C04_STANSBURY_MOUNTAIN_RANGE  C04_STANSBURY_MOUNT*,GB_UT_003,5,25,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558279,GB_UT_003Desert 5
 GB_UT_003A15_STANSBURY_ISLAND          A15_STANSBURY_ISLAND,GB_UT_003,75,80,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558279,GB_UT_003Desert 5
 GB_UT_003CACHE/BOX_ELDER_UNIT          CACHE/BOX_ELDER_UNIT,GB_UT_003,0,0,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558280,GB_UT_003FS_West5 5
-GB_UT_003URBAN_INTERFACE/SENSITIVE_WAT*URBAN_INTERFACE/SEN*,GB_UT_003,0,0,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558280,GB_UT_003FS_West5 5
-GB_UT_003NORTH_WASATCH/OGDEN_VALLEY_UN*NORTH_WASATCH/OGDEN*,GB_UT_003,0,0,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558281,GB_UT_003WUI_FS 5
+GB_UT_003URBAN_INTERFACE/SENSITIVE_WAT*  URBAN_INTERFACE/SEN*,GB_UT_003,0,0,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558280,GB_UT_003FS_West5 5
+GB_UT_003NORTH_WASATCH/OGDEN_VALLEY_UN*  NORTH_WASATCH/OGDEN*,GB_UT_003,0,0,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558281,GB_UT_003WUI_FS 5
 GB_UT_003VERNON                        VERNON,GB_UT_003,40,50,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558282,GB_UT_003FS_West
 GB_UT_003WEST_SHEEPROCK                WEST_SHEEPROCK,GB_UT_003,50,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558282,GB_UT_003FS_West
 GB_UT_003STANSBURY_UNIT                STANSBURY_UNIT,GB_UT_003,30,0,100,0,0,0,y,n,0.001,1080,A300,1.2,0,64558282,GB_UT_003FS_West
 GB_UT_003TIMP_WILDERNESS               TIMP_WILDERNESS,GB_UT_003,100,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558283,GB_UT_003Wilderness
 GB_UT_003C07_OLD_RIVER_BED             C07_OLD_RIVER_BED,GB_UT_003,5,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
-GB_UT_003A11_FIVEMILE_PASS_RECREATION_*A11_FIVEMILE_PASS_R*,GB_UT_003,5,50,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
-GB_UT_003BIA_SKULL_VALLEY_GOSHUTE_RESE*BIA_SKULL_VALLEY_GO*,GB_UT_003,10,50,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
-GB_UT_003A09_NORTH_RUSH_VALLEY_CEDAR_T*A09_NORTH_RUSH_VALL*,GB_UT_003,5,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
-GB_UT_003B12_UPPER_ELEV_PARCELS_(ISOTR*B12 UPPER ELEV PARC*,GB_UT_003,5,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
-GB_UT_003A04_MORRISON(DONNER)CREEK_AND*A04_MORRISON(DONNER*,GB_UT_003,25,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
+GB_UT_003A11_FIVEMILE_PASS_RECREATION_*  A11_FIVEMILE_PASS_R*,GB_UT_003,5,50,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
+GB_UT_003BIA_SKULL_VALLEY_GOSHUTE_RESE*  BIA_SKULL_VALLEY_GO*,GB_UT_003,10,50,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
+GB_UT_003A09_NORTH_RUSH_VALLEY_CEDAR_T*  A09_NORTH_RUSH_VALL*,GB_UT_003,5,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
+GB_UT_003B12_UPPER_ELEV_PARCELS_(ISOTR*  B12 UPPER ELEV PARC*,GB_UT_003,5,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
+GB_UT_003A04_MORRISON(DONNER)CREEK_AND*  A04_MORRISON(DONNER*,GB_UT_003,25,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
 GB_UT_003A05_LUCIN_TO_RED_DOME_AREA    A05_LUCIN_TO_RED_DO*,GB_UT_003,5,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
 GB_UT_003B13_WETLAND_MANAGEMENT        B13_WETLAND_MANAGEM*,GB_UT_003,5,50,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
-GB_UT_003B08_WEST_RANDOLPH_SAGE_CREEK_*B08_WEST_RANDOLPH_S*,GB_UT_003,25,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
+GB_UT_003B08_WEST_RANDOLPH_SAGE_CREEK_*  B08_WEST_RANDOLPH_S*,GB_UT_003,25,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
 GB_UT_003A06_BEAR_RIVER_DRAINAGE       A06_BEAR_RIVER_DRAI*,GB_UT_003,5,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
 GB_UT_003C01_NORTH_DEEP_CREEK_RANGE    C01_NORTH_DEEP_CREE*,GB_UT_003,25,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
-GB_UT_003A21_WASATCH_FRONT_CACHE_VALLEYA21_WASATCH_FRONT_C*,GB_UT_003,5,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
-GB_UT_003B02_LOWER_PILOT_MOUNTAIN_BENC*B02_LOWER_PILOT_MOU*,GB_UT_003,10,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
-GB_UT_003B05_WEST_CURLEW_VALLEY_MATLIN*B05_WEST_CURLEW_VAL*,GB_UT_003,20,50,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
-GB_UT_003A08_NORTH_OQUIRRH_MOUNTAIN_AR*A08_NORTH_OQUIRRH_M*,GB_UT_003,10,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
+GB_UT_003A21_WASATCH_FRONT_CACHE_VALLEY  A21_WASATCH_FRONT_C*,GB_UT_003,5,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
+GB_UT_003B02_LOWER_PILOT_MOUNTAIN_BENC*  B02_LOWER_PILOT_MOU*,GB_UT_003,10,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
+GB_UT_003B05_WEST_CURLEW_VALLEY_MATLIN*  B05_WEST_CURLEW_VAL*,GB_UT_003,20,50,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
+GB_UT_003A08_NORTH_OQUIRRH_MOUNTAIN_AR*  A08_NORTH_OQUIRRH_M*,GB_UT_003,10,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
 GB_UT_003C02_PILOT_MOUNTAIN_RANGE      C02_PILOT_MOUNTAIN_*,GB_UT_003,95,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
 GB_UT_003A13_LAKETOWN_CANYON           A13_LAKETOWN_CANYON,GB_UT_003,20,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
 GB_UT_003A17_RUSH_VALLEY               A17 RUSH VALLEY,GB_UT_003,25,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
-GB_UT_003B01_DEEP_CREEK_VALLEY_CLIFTON*B01_DEEP_CREEK_VALL*,GB_UT_003,20,50,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
+GB_UT_003B01_DEEP_CREEK_VALLEY_CLIFTON*  B01_DEEP_CREEK_VALL*,GB_UT_003,20,50,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
 GB_UT_003A16_LAKESIDE_MOUNTAIN_AREAS   A16_LAKESIDE_MOUNTA*,GB_UT_003,50,80,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
 GB_UT_003C08_NEWFOUNDLAND_MOUNTAINS    C08_NEWFOUNDLAND_MO*,GB_UT_003,25,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
-GB_UT_003B10_CRAWFORD_MOUNTAINS_WOODRU*B10_CRAWFORD_MOUNTA*,GB_UT_003,25,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
+GB_UT_003B10_CRAWFORD_MOUNTAINS_WOODRU*  B10_CRAWFORD_MOUNTA*,GB_UT_003,25,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64558284,GB_UT_003Desert
 GB_UT_003DOD                           DOD_UTAH_TEST_TRAIN*,GB_UT_003,0,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558285,GB_UT_003DOD_LAND
 GB_UT_003DOD                           DOD_TOOELE_ARMY_DEP*,GB_UT_003,5,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558285,GB_UT_003DOD_LAND
 GB_UT_003DOD                           DOD_DUGWAY_PROVING_*,GB_UT_003,0,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558285,GB_UT_003DOD_LAND
 GB_UT_003DOD                           DOD_DESERET_CHEMICAL,GB_UT_003,5,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558285,GB_UT_003DOD_LAND
-NR_MT_011CSKT_limited_access_Wildernesslimited_access_Wilde,NR_MT_011,100,0,100,0,0,0,y,n,0.001,1080,A300,1.3,0,64565486,NR_MT_011CSKT Wilderness
+NR_MT_011CSKT_limited_access_Wilderness  limited_access_Wilde,NR_MT_011,100,0,100,0,0,0,y,n,0.001,1080,A300,1.3,0,64565486,NR_MT_011CSKT Wilderness
 NR_MT_011CSKT_developed_South          developed_South,NR_MT_011,40,50,100,0,0,0,y,n,0.001,1080,A300,1.3,0,64565487,NR_MT_011CSKT Developed
 NR_MT_011CSKT_developed_North          developed_North,NR_MT_011,40,0,100,0,0,0,y,n,0.001,1080,A300,1.3,0,64565487,NR_MT_011CSKT Developed
 NR_MT_011Water                         Water,NR_MT_011,0,10,100,0,0,0,y,n,0.001,1080,A300,1.3,0,64565487,NR_MT_011CSKT Developed
@@ -3411,7 +3411,7 @@ RM_CO_006EAGLE AREA KINGBLACK MTN      EAGLE AREA KINGBLAC,RM_CO_006,35,0,100,0,
 RM_CO_006GVRD TIMBER CS                GVRD TIMBER CS,RM_CO_006,50,0,100,0,0,0,y,n,0.01,1080,A300,1.6,0,64603114,RM_CO_006Test2
 RM_CO_006SUMMIT WUI                    SUMMIT WUI,RM_CO_006,35,0,100,0,0,0,y,n,0.01,1080,A300,1.6,0,64603114,RM_CO_006Test2
 RM_CO_006UPPER COLORADO REDCLIFF AND   UPPER COLROADO REDC,RM_CO_006,75,0,100,0,0,0,y,n,0.01,1080,A300,1.6,0,64603114,RM_CO_006Test2
-RM_CO_006VAIL VALLEY AND SHEEPHORN TIM VAIL VALLEY AND SHE,RM_CO_006,75,0,100,0,0,0,y,n,0.01,1080,A300,1.6,0,64603114,RM_CO_006Test2
+RM_CO_006VAIL VALLEY AND SHEEPHORN TIM  VAIL VALLEY AND SHE,RM_CO_006,75,0,100,0,0,0,y,n,0.01,1080,A300,1.6,0,64603114,RM_CO_006Test2
 RM_CO_006WEST ZONE PROTECTION          WEST ZONE PROTECTION,RM_CO_006,25,50,100,0,0,0,y,n,0.01,1080,A300,1.6,0,64603114,RM_CO_006Test2
 RM_CO_006MAROON BELLS HUNTER FRYING P  MAROON BELLS HUNTER,RM_CO_006,100,0,100,0,0,0,y,n,0.01,1080,A300,1.6,0,64603116,RM_CO_006WalkIns
 RM_CO_006CONTINENTAL DIVIDE WILLIAMS   CONTINENTAL DIVIDE,RM_CO_006,100,0,100,0,0,0,y,n,0.01,1080,A300,1.6,0,64603116,RM_CO_006WalkIns
@@ -3461,7 +3461,7 @@ RM_NE_001North Platte                  North Platte,RM_NE_001,0,80,100,0,0,0,y,n
 RM_NE_001Nebraska_Other                Nebraska_Other,RM_NE_001,0,100,100,0,0,0,y,y,0.01,1080,A100,1.5,0,64604406,RM_NE_001NE State Supp. Other
 RM_SD_001Weston County                 Weston County6,RM_SD_001,15,35,100,0,0,0,y,n,0.001,1080,A300,1.6,0,64605423,RM_SD_001Suppression
 RM_SD_001Weston County                 Weston County7,RM_SD_001,15,35,100,0,0,0,y,n,0.1,1080,A300,1.6,0,64605423,RM_SD_001Suppression
-RM_SD_001Thunder Basin National GrasslaThunder Basin NG,RM_SD_001,5,85,100,0,0,0,y,n,0.001,1440,A300,1.6,0,64605423,RM_SD_001Suppression
+RM_SD_001Thunder Basin National Grassla  Thunder Basin NG,RM_SD_001,5,85,100,0,0,0,y,n,0.001,1440,A300,1.6,0,64605423,RM_SD_001Suppression
 RM_SD_001Weston County                 Whoopup Canyon11,RM_SD_001,100,0,100,0,0,0,n,n,0.1,1080,A300,1.6,0,64605423,RM_SD_001Suppression
 RM_SD_001Weston County                 Whoopup Canyon10,RM_SD_001,100,0,100,0,0,0,n,n,0.1,1080,A300,1.6,0,64605423,RM_SD_001Suppression
 RM_SD_001Weston County                 Whoopup Canyon5,RM_SD_001,100,0,100,0,0,0,n,n,0.1,1080,A300,1.6,0,64605423,RM_SD_001Suppression
