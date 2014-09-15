@@ -1582,56 +1582,6 @@ NW_OR_002North Umpqua Unit             North Umpqua Unit,NW_OR_002,45,0,100,0,0,
 NW_OR_002Boulder Creek Wilderness      Boulder Creek Wilder,NW_OR_002,100,0,100,0,0,0,y,n,0.001,1080,A100,1.6,0,64475276,NW_OR_002UPF Wilderness
 NW_OR_002Mt Thielson Wilderness        Mt Thielson Wilderne,NW_OR_002,100,0,100,0,0,0,y,n,0.001,1080,A100,1.6,0,64475276,NW_OR_002UPF Wilderness
 NW_OR_002Rogue Umpqua Divide Wilderness  Rogue Umpqua Divide,NW_OR_002,100,0,100,0,0,0,y,n,0.001,1080,A100,1.6,0,64475276,NW_OR_002UPF Wilderness
-NW_WA_008Roosevelt                     Two_Rivers_Hwy_25,NW_WA_008,13,20,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477227,NW_WA_008SPA Dispatch
-NW_WA_008Roosevelt                     Jackson Springs,NW_WA_008,40,0,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477227,NW_WA_008SPA Dispatch
-NW_WA_008Roosevelt                     Etueville,NW_WA_008,13,20,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477227,NW_WA_008SPA Dispatch
-NW_WA_008Roosevelt                     Ford/Wellpinit,NW_WA_008,10,20,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477227,NW_WA_008SPA Dispatch
-NW_WA_008Roosevelt                     Ford Cluster,NW_WA_008,10,20,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477227,NW_WA_008SPA Dispatch
-NW_WA_008Roosevelt                     Columbia Campground,NW_WA_008,70,0,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477227,NW_WA_008SPA Dispatch
-NW_WA_008Roosevelt                     Westend,NW_WA_008,40,10,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477227,NW_WA_008SPA Dispatch
-NW_WA_008Roosevelt                     Central Flats,NW_WA_008,22,20,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477227,NW_WA_008SPA Dispatch
-NW_WA_008Roosevelt                     Joe Sherwood,NW_WA_008,10,20,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477227,NW_WA_008SPA Dispatch
-NW_WA_008Roosevelt                     Reservation Rd Clstr,NW_WA_008,10,20,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477227,NW_WA_008SPA Dispatch
-NW_WA_008Roosevelt                     Wellpinit,NW_WA_008,22,20,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477227,NW_WA_008SPA Dispatch
-NW_WA_008Roosevelt                     Cotton_Drum_Road,NW_WA_008,22,20,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477227,NW_WA_008SPA Dispatch
-NW_WA_008Roosevelt                     Nine Mile,NW_WA_008,42,15,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Mica Mountain,NW_WA_008,56,0,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Timberline,NW_WA_008,27,20,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Timentwa Flats,NW_WA_008,58,27,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Columbia River,NW_WA_008,38,10,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Iron Creek,NW_WA_008,29,0,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Kewa,NW_WA_008,55,5,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Omak Lake,NW_WA_008,59,15,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     South San Poil,NW_WA_008,10,20,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Omak Community,NW_WA_008,16,50,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Desautel Community,NW_WA_008,20,23,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Crawfish Lake,NW_WA_008,38,0,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Moses Meadows,NW_WA_008,11,10,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Nespelem,NW_WA_008,13,50,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Coulee Dam,NW_WA_008,20,34,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     West Fork,NW_WA_008,0,10,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     North San Poil,NW_WA_008,77,10,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Keller,NW_WA_008,15,10,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Cameron Lake,NW_WA_008,21,20,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Inchelium,NW_WA_008,18,20,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Rogers Bar South,NW_WA_008,56,10,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Rogers Bar East,NW_WA_008,56,10,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Barnaby Creek,NW_WA_008,70,10,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Hall Creek,NW_WA_008,37,10,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Frosty Meadows,NW_WA_008,40,15,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Canteen Creek,NW_WA_008,56,10,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Fort Okanogan,NW_WA_008,18,59,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     South Seventeen Mile,NW_WA_008,77,10,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Hellgate,NW_WA_008,56,0,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Jack Creek,NW_WA_008,20,0,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Central Peak,NW_WA_008,70,0,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Lost Creek,NW_WA_008,60,15,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     North Star,NW_WA_008,34,0,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Swawilla Basin,NW_WA_008,72,10,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Omak Creek,NW_WA_008,30,10,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Buffalo Lake,NW_WA_008,48,18,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     River,NW_WA_008,50,0,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
-NW_WA_008Roosevelt                     Rogers Bar,NW_WA_008,39,10,100,0,0,0,y,n,0.01,1080,A100,1.6,0,64477228,NW_WA_008COA 4 FMZ 1-2 4 Lev.
 SA_AR_001PCR_FMU                       PCR_FWA,SA_AR_001,0,0,100,0,0,0,n,n,0.001,1080,A1000,1.6,0,64478175,SA_AR_001pcr general
 SA_AR_001C_AR_FMU                      CRR_FWA,SA_AR_001,0,75,100,0,0,0,n,n,0.001,1080,A1000,1.6,0,64478176,SA_AR_001GenFor IR AR01
 SA_AR_001C_AR_FMU                      BKR_FWA,SA_AR_001,0,75,100,0,0,0,n,n,0.001,1080,A1000,1.6,0,64478176,SA_AR_001GenFor IR AR01
@@ -3092,15 +3042,6 @@ GB_UT_003DOD                           DOD_UTAH_TEST_TRAIN*,GB_UT_003,0,0,100,0,
 GB_UT_003DOD                           DOD_TOOELE_ARMY_DEP*,GB_UT_003,5,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558285,GB_UT_003DOD_LAND
 GB_UT_003DOD                           DOD_DUGWAY_PROVING_*,GB_UT_003,0,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558285,GB_UT_003DOD_LAND
 GB_UT_003DOD                           DOD_DESERET_CHEMICAL,GB_UT_003,5,0,100,0,0,0,y,y,0.001,1080,A300,1.4,0,64558285,GB_UT_003DOD_LAND
-NR_MT_011CSKT_limited_access_Wilderness  limited_access_Wilde,NR_MT_011,100,0,100,0,0,0,y,n,0.001,1080,A300,1.3,0,64565486,NR_MT_011CSKT Wilderness
-NR_MT_011CSKT_developed_South          developed_South,NR_MT_011,40,50,100,0,0,0,y,n,0.001,1080,A300,1.3,0,64565487,NR_MT_011CSKT Developed
-NR_MT_011CSKT_developed_North          developed_North,NR_MT_011,40,0,100,0,0,0,y,n,0.001,1080,A300,1.3,0,64565487,NR_MT_011CSKT Developed
-NR_MT_011Water                         Water,NR_MT_011,0,10,100,0,0,0,y,n,0.001,1080,A300,1.3,0,64565487,NR_MT_011CSKT Developed
-NR_MT_011CSKT_limited_access_South     limited_access_South,NR_MT_011,90,0,100,0,0,0,y,n,0.001,1080,A300,1.3,0,64565488,NR_MT_011CSKT Limited Acc.
-NR_MT_011CSKT_wui_South                wui_South,NR_MT_011,10,0,100,0,0,0,y,n,0.001,1080,A300,1.3,0,64565489,NR_MT_011CSKT WUI
-NR_MT_011CSKT_wu_West                  wui_West,NR_MT_011,10,30,100,0,0,0,y,n,0.001,1080,A300,1.3,0,64565489,NR_MT_011CSKT WUI
-NR_MT_011CSKT_wui_Central              wui_Central,NR_MT_011,10,50,100,0,0,0,y,n,0.001,1080,A300,1.3,0,64565489,NR_MT_011CSKT WUI
-NR_MT_011CSKT_wui_North                wui_North,NR_MT_011,10,50,100,0,0,0,y,n,0.001,1080,A300,1.3,0,64565489,NR_MT_011CSKT WUI
 CA_CA_008Threat                        Threat_Lake_I,CA_CA_008,0,50,100,0,0,0,y,n,0.001,1080,A300,1.1,0,64585038,CA_CA_008WUI_Lake_I_Threat
 CA_CA_008BBD_Lake_I                    BBD_Lake_I,CA_CA_008,20,15,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64585038,CA_CA_008WUI_Lake_I_Threat
 CA_CA_008KNP_Kern                      KNP_Kern,CA_CA_008,100,0,100,0,0,0,y,n,0.001,1080,A300,1.4,0,64585040,CA_CA_008Wilderness_Timber
