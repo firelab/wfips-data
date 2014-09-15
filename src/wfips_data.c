@@ -45,6 +45,11 @@
 
 #include "sqlite3.h"
 
+void Usage()
+{
+    printf( "wfips --help\n");
+}
+
 int main( int argc, char *argv[] )
 {
     return 0;
