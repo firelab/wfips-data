@@ -45,13 +45,63 @@
 
 #include "sqlite3.h"
 
+#define EQUAL(a,b) strcmp(a,b)==0
+
+#define SQLITE_CREATE_RW SQLITE_OPEN_READWRITE | SQLITE_OPEN_CREATE
+
 void Usage()
 {
-    printf( "wfips --help\n");
+    printf( "wfips [--help] [--fig-path path] data_path\n");
+}
+
+static int
+LoadDispatchLocations( sqlite3 *db )
+{
+    return SQLITE_OK;
+}
+
+static int
+LoadDispatchLogic( sqlite3 *db )
+{
+    return SQLITE_OK;
+}
+
+static int
+LoadFig( sqlite3 *db )
+{
+    return SQLITE_OK;
+}
+
+static int
+LoadFwas( sqlite3 *db )
+{
+    return SQLITE_OK;
+}
+
+static int
+LoadDispatchLocations( sqlite3 *db )
+{
+    return SQLITE_OK;
 }
 
 int main( int argc, char *argv[] )
 {
-    return 0;
+    int i;
+    const char *pszDb;
+    sqlite3 *db;
+    int rc;
+    i = 1;
+    while( i < argc )
+    {
+        if(EQUAL( argv[i], "--help" ) )
+        {
+            Usage();
+        }
+    }
+
+    rc = sqlite3_open_v2( "fig.db", &db, SQLITE_CREATE_RW, NULL );
+    rc = LoadFig( db );
+
+    return rc;
 }
 
