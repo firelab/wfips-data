@@ -1,0 +1,3411 @@
+dispatch_logic_name,break_point,large_airtanker,hand_crew,dozer,engines,air_boat,fire_boat,helicopter,helitack_crew,scooper_or_seat,smoke_jumper_aircraft,smoke_jumper,tractor_plow,water_tender
+EA_MO_001Mark Twain,1,,1,0,1,,,,,,,,0,
+EA_NH_001FPU16 General Logic,1,,0,,2,,,,,,,,,0
+EA_WV_001MOF_all,1,,4,1,4,,,,1,,,,,
+EA_WV_001MOF_limited Eq use,1,,4,,4,,,,1,,,,,
+EA_WV_001MOF_wilderness_CRV,1,,4,,2,,,,1,,,,,
+EA_WV_001NPS all,1,,6,,6,,,,1,,,,,
+NW_WA_004TBR Dispatch,1,,,,2,,,,,,,,,
+NW_WA_004COF Roaded,1,,1,,2,,,,,1,,,,
+NW_WA_004COF WILD/Roadless,1,,1,,1,,,,,,,,,
+CA_CA_002Limited Access,1,0,0,0,2,0,0,1,1,0,1,2,0,0
+CA_CA_002LVNP Wilderness,1,0,0,0,2,0,0,1,1,0,0,0,0,0
+CA_CA_002LVNP General Forest,1,0,0,0,2,0,0,1,1,0,0,0,0,0
+CA_CA_002High Wilderness,1,0,0,0,2,0,0,1,1,0,1,2,0,0
+CA_CA_002General Forest/Range,1,0,0,0,2,0,0,1,1,0,0,0,0,0
+CA_CA_007High Elev NonWild,1,0,1,0,1,0,0,0,1,0,0,,,0
+CA_CA_007Other,1,0,1,0,2,0,0,0,1,0,0,,,0
+CA_CA_007Wilderness,1,0,1,0,0,0,0,0,1,0,0,,,0
+CA_CA_007WUI,1,1,1,0,2,0,0,0,1,0,0,,,0
+CA_CA_015CA FPU 15 WUI,1,1,2,1,10,0,0,1,1,2,0,0,0,2
+CA_CA_011WUI,1,3,,1,2,,,1,1,1,,,,1
+CA_CA_011Other,1,1,,,2,,,1,1,1,0,0,,1
+CA_CA_011Wilderness,1,1,,,2,,,1,1,0,0,0,,1
+NW_OR_001Siuslaw North,1,,,,2,,,,,,,,,
+NW_OR_001Siuslaw South,1,,,,2,,,,,,,,,
+NW_OR_001Forest Access 2,1,,2,,1,,,,,,0,0,,
+NW_OR_001Wilderness 2,1,,2,,1,,,,,,1,4,,
+NW_OR_001Northwest 2,1,,,,3,,,,,,,,,
+NW_OR_001Southwest 2,1,,,,3,,,,,,,,,
+NW_OR_004Wild Study Area,1,,,0,1,,,,,,,,,
+NW_OR_004WS WUI,1,,,,2,,,,,,,,,
+NW_OR_004WS Timber,1,,,,2,,,,,,,,,
+NW_OR_004General Forest,1,,1,,3,,,,,,,,,
+NW_OR_004WUI,1,,,,1,,,,,,,,,
+NW_OR_004Juniper Sage,1,,,,1,,,,,,,,,
+NW_OR_004Wilderness,1,,1,,1,,,,,,,,,
+NW_OR_004WS ConditionUse,1,,,,1,,,,,,,,,
+NW_OR_005H1-SP,1,,1,,1,,,,,,,,,
+NW_OR_005P1/P2,1,,1,,2,,,1,1,,,,,
+NW_OR_005NF-1/NF-1SP,1,,2,,1,,,,,,,,,
+NW_OR_005WW-1,1,,1,,1,,,1,1,,1,2,,
+NW_OR_005WildernessUMF,1,,2,,1,,,,,,,,,
+NW_OR_005PDT-1,1,,1,,3,,,,,,,,,1
+NW_OR_005Mission WUI,1,,,,3,,,,,,,,,
+NW_OR_005WW2/2A,1,,2,,3,,,,,,,,,1
+NW_OR_006base2,1,,,,2,,,,,,,,,
+NW_OR_006brown,1,,,,2,,,,,,,,,
+NW_OR_006OE SMA,1,,,,2,,,,,,,,,
+NW_OR_006base,1,,,,2,,,,,,,,,
+NW_OR_006Ironside,1,,,,2,,,,,,,,,
+NW_OR_007Silver,1,,,,1,,,,,1,,,,
+NW_OR_007Alvord North,1,,,,1,,,,,,,,,
+NW_OR_007Diamond,1,,,,2,,,1,1,1,,,,
+NW_OR_007Guano,1,,,,1,,,,,1,,,,
+NW_OR_007Thousand/Virgin,1,,,,1,,,,,1,,,,
+NW_OR_007Upper Malheur,1,,,,1,,,,,1,,,,
+NW_OR_007Home Creek,1,,1,,1,,,2,1,,1,1,,
+NW_OR_007Lakes,1,,,,1,,,,,,,,,
+NW_OR_007Silvies,1,,,,1,,,1,1,,,,,
+NW_OR_007Snow Mountian North,1,,,,1,,,2,1,,1,1,,
+NW_OR_007Snow Mountain South,1,,,,1,,,1,1,,,,,
+NW_OR_007Steens,1,,1,,1,,,2,1,1,1,1,,
+NW_OR_008Desert,1,0,1,0,1,,,0,0,0,0,0,,1
+NW_OR_008Timber Special,1,0,1,0,2,,,0,0,0,0,0,,1
+NW_OR_008Timber,1,0,1,0,2,,,0,0,0,0,0,,1
+NW_OR_008Timber West,1,0,1,0,2,,,0,0,0,0,0,,0
+NW_OR_008State and Private,1,0,1,1,2,,,1,1,0,0,0,,1
+CA_CA_005CA-CA-05,1,,,,2,,,,,,0,0,,
+CA_CA_005Bay Area Parks,1,,,,1,,,,,,0,0,,1
+CA_CA_005Wilderness,1,,,,1,,,,,,1,1,,1
+CA_CA_003Wilderness,1,,,,1,,,,,,,,,
+CA_CA_003General suppression,1,,,,2,,,,,,,,,
+CA_CA_003High resource values,1,,1,,2,,,,,,,,,
+CA_CA_003SW Wilderness,1,,0,,1,,,1,1,,1,2,,
+CA_CA_001KNFnotWild,1,1,1,1,4,,,1,1,,1,2,,2
+CA_CA_001KNFWild,1,1,1,0,2,,,1,1,,1,4,,0
+CA_CA_001Other sensitive,1,,1,,1,,,1,1,,,,,0
+CA_CA_001Wilderness,1,,1,,0,,,3,1,,,,,0
+CA_CA_001SRFWild,1,,1,,1,,,1,1,,1,4,,
+CA_CA_001WUI,1,1,1,1,1,,,3,1,,,,,1
+CA_CA_001SRFWUI_HIA_YIA,1,,1,,1,,,1,1,,,,,1
+CA_CA_001SRFGen,1,,1,,1,,,1,1,,,,,1
+CA_CA_001RWPALL,1,,0,,1,,,0,0,,,,,0
+NW_OR_009Block Card B-14,1,,1,,1,,,,,,,,,
+NW_OR_009Block Card B-5,1,,1,,2,,,,,,,,,
+NW_OR_009Block Card W-1,1,,1,,2,,,,,,,,,
+NW_OR_009Block Card W-2,1,,0,,2,,,,,,,,,
+NW_OR_009Block Card B-3,1,,1,,2,,,,,,,,,
+NW_OR_009State,1,,1,,2,,,,,,,,,
+NW_OR_009Block Card L-7,1,,0,,2,,,,,,,,,
+NW_OR_009Block Card L-6,1,,0,,2,,,,,,,,,
+NW_OR_009Block Card B-16,1,,1,,1,,,0,0,,,,,
+NW_OR_009FMU - Eagle Cap,1,,1,,0,,,2,1,,,,,
+NW_OR_009Block Card B-10,1,,1,,3,,,0,0,,,,,
+NW_OR_009Block Card W-17,1,,0,,1,,,2,1,,,,,
+NW_OR_009Block Card B-7,1,,1,,2,,,,,,,,,
+NW_OR_009Block Card W-7,1,,0,,1,,,2,1,,,,,
+NW_OR_009Block Card W-9,1,,0,,1,,,2,1,,,,,
+NW_OR_009Block Card W-10,1,,1,,0,,,1,1,,,,,
+NW_OR_009Block Card W-18,1,,0,,1,,,2,1,,,,,
+NW_OR_009Block Card B-11,1,,1,,2,,,,,,,,,
+NW_OR_009Block Card L-5,1,,0,,2,,,,,,,,,
+NW_OR_010Wilderness,1,,1,,,,,2,1,,,,,
+NW_OR_010General Forest,1,,1,,1,,,,,,,,,
+NW_OR_011WUI type,1,,1,2,3,,,,,,,,,1
+NW_OR_011general forest type,1,,0,1,1,,,,,,,,,0
+NW_WA_001San Juan NW001,1,,1,,1,,,,,,,,,1
+NW_WA_001Lewis NW001,1,,,,1,,,,,,,,,1
+NW_WA_001Olympic Crew NW001,1,,1,,2,,,0,0,,0,0,,0
+NW_WA_001Standard NW001,1,,0,,2,,,,0,0,0,0,,0
+NW_WA_002NZ SZ Protection,1,,1,,2,,,,,,,,,
+NW_WA_002NZ GF Revision 1,1,,0,,1,,,,,,0,0,,
+NW_WA_002SZ Wild Rev 1,1,,1,,0,,,2,1,,1,1,,
+NW_WA_002NZ SZ Protect Rev 1,1,,0,,1,,,,,,,,,
+NW_WA_002NZ Wild Rev 1,1,,1,,0,,,1,1,,1,2,,
+NW_WA_002SZ GF Revision 1,1,,0,,1,,,2,1,,0,0,,
+NW_WA_003Non-Wilderness,1,,2,0,2,,,,0,,,,,1
+NW_WA_003ROLA Wilderness,1,0,0,,,,,2,1,,1,2,,
+NW_WA_003WEN-Wilderness,1,0,1,,,,,2,1,,,,,
+NW_WA_003OKA-Wilderness,1,0,1,,,,,0,1,,1,2,,
+NW_WA_003Ste-Suppression,1,,2,0,0,,,,0,,,,,0
+NW_WA_003RED Zone,1,1,0,,,,,2,1,,1,2,,
+NW_WA_007MHF_Wilderness S,1,,2,,0,,,0,0,,0,0,,
+NW_WA_007MHF_Wilderness,1,0,2,,0,,,,,,0,0,,
+NW_WA_007MHF_Unit 4,1,,1,,1,,,,0,,,,,0
+NW_WA_007GP_CV_North,1,,1,,1,,,,,,0,0,,0
+NW_WA_007MHF_Unit 1,1,,1,,1,,,,,,,,,0
+NW_WA_007MHF_Unit 2,1,0,1,0,1,,,0,0,,0,0,,0
+NW_WA_007MHF_Unit 3,1,1,2,,2,,,,0,,,,,1
+NW_WA_007Gorge East,1,,0,,2,,,,0,,,,,1
+NW_WA_007MHF_Wilderness E,1,0,2,,0,,,,,,0,0,,
+NW_WA_007GP_MTA_East,1,,1,,1,,,,,,,,,0
+NW_WA_007YAA-SP,1,1,1,1,2,,,,,,,,,1
+NW_WA_007YAA-MC,1,1,1,1,2,,,,,,,,,1
+NW_WA_007YAA-HB,1,,1,1,1,,,,,,,,,1
+NW_WA_007GP_MSH_West,1,,1,,1,,,,,,,,,
+NW_WA_007GP_Wilderness,1,,2,,0,,,,0,,0,0,,
+SA_AL_001BH_Primary,1,,,1,1,,,,,,,,,
+SA_AL_001LIRI Canyon,1,,1,0,1,,,,,,,,,
+SA_AL_001Talladega_FWA,1,,1,0,0,,,,,,,,,
+SA_AL_001Dugger_Wild,1,,0,0,0,,,,,,,,,
+SA_AL_001HOBE,1,,1,0,1,,,,,,,,,
+SA_AL_001FWS,1,,0,1,1,,,,,,,,,
+SA_AL_001RUCA,1,,0,0,1,,,,,,,,,
+SA_AL_001Sipsey FWA,1,,,,0,,,,,,,,,
+SA_AL_001CON_Primary,1,,1,1,0,,,,,,,,,
+SA_AL_001Cheaha_Wild,1,,1,0,0,,,,,,,,,
+SA_AL_001SC_FWA,1,,0,0,1,,,,,,,,,
+SA_AL_001LIRI Upland,1,,0,0,1,,,,,,,,,
+SA_AL_001Tuskegee_FWA,1,,,0,0,,,,,,,,,
+SA_AL_001Oakmulgee_FWA,1,,0,1,1,,,,,,,,,
+SW_AZ_001SCA EE,1,0,0,1,2,,,1,1,0,,,,0
+SW_AZ_001SCA Sonora,1,1,1,1,2,,,0,,,,,,1
+"SW_AZ_001NPS_SAP > 4,500'",1,,1,,,,,1,1,1,,,,
+SW_AZ_001Low Potential,1,0,1,,1,,,,,,,,,1
+SW_AZ_001Moderate Potential,1,0,1,0,2,,,1,1,0,,,,1
+SW_AZ_001High Potential,1,0,1,0,2,,,1,1,0,,,,1
+SW_AZ_001SCA WUI,1,0,1,,3,,,0,,,,,,0
+RM_SD_002Mark Browning,1,,1,,4,,,,,,,,,1
+RM_WY_002Esterbrook,1,,,,1,,,,,,,,,
+RM_WY_002High Desert District,1,,,,1,,,1,1,,,,,
+RM_WY_002Eastern Counties,1,,,,1,,,1,1,,,,,
+RM_WY_002MBF_Snowy,1,,,,1,,,,,,,,,
+RM_WY_002North Counties,1,,1,,4,,,1,1,,,,,
+RM_WY_002North Casper,1,,1,,1,,,1,1,,,,,
+NW_OR_003Wilderness,1,,2,,2,,,1,1,,2,4,,
+NW_OR_003FS Protection,1,,1,0,2,,,,,,0,,,0
+NW_OR_003ODF Protection,1,0,0,0,2,0,0,0,0,0,0,0,0,0
+NW_OR_003Private/WUI,1,,1,0,3,,,0,,,,,,0
+CA_CA_014BDF Wilderness FMU,1,,1,,4,,,1,1,,,,,
+CA_CA_014BIA Suppression FMU,1,,,,1,,,,,,,,,
+CA_CA_014BDF Suppression FMU,1,,,,1,,,,,,,,,
+CA_CA_014BLM CDD FMU's,1,,,,1,,,,,,,,,
+CA_CA_014BDF Threat FMU,1,,,,1,,,,,,,,,
+CA_CA_009OVICC 4,1,0,1,,3,,,2,1,1,,,,1
+CA_CA_004NPS WUI,1,0,0,0,2,0,0,0,0,0,0,0,0,0
+CA_CA_004Wilderness,1,0,0,0,1,0,0,1,1,0,1,2,0,0
+CA_CA_004Non DPA,1,0,1,0,4,0,0,0,0,0,0,0,0,1
+CA_CA_004USFS,1,0,0,0,2,0,0,0,0,0,0,0,0,0
+CA_CA_010BLM West Valley,1,1,1,1,3,,,1,1,1,,,,1
+CA_CA_010Wilderness,1,0,2,,2,,,1,1,1,,,,1
+CA_CA_010WUI,1,1,1,1,3,,,1,1,1,,,,1
+CA_CA_010Island,1,0,3,,1,,,3,3,,,,,
+CA_CA_012ANF Mutual Aid Resp,1,2,3,2,15,0,0,0,1,,,,,2
+CA_CA_012Standard ANF Resp,1,2,3,1,10,0,0,1,1,,,,,2
+CA_CA_012ANF Response Wilder,1,2,3,0,5,0,0,1,1,,,,,0
+GB_ID_002Non WUI Non Timber,1,,,,2,,,2,1,,1,1,,
+GB_ID_002WUI Timber,1,,,,3,,,2,2,,1,1,,
+GB_ID_002Non-WUI timber,1,,,,2,,,2,1,,1,1,,
+GB_ID_002WFU logic,1,,,,1,,,2,2,,1,1,,
+GB_ID_002WUI Non-Timber,1,,,,3,,,2,2,,1,1,,
+GB_ID_003WFU,1,,1,,1,,,2,1,,2,20,,
+GB_ID_003Desert/Range,1,,0,,1,,,2,1,,,,,
+GB_ID_003Mountain,1,,1,,1,,,2,1,,1,8,,
+GB_NV_001Pine Forest S. East,1,,,,2,,,,,,,,,
+GB_NV_001I-80,1,,,,2,,,,,,,,,1
+GB_NV_001Elliott Wrencing,1,,,,3,,,,,,,,,1
+GB_NV_003Mt Rose Wilderness,1,0,1,,1,,,1,1,0,1,1,,
+GB_NV_003Carson River,1,1,0,0,3,,,0,0,1,0,0,,
+GB_NV_003Aurora no dozer,1,0,1,0,2,,,1,1,0,0,0,,
+GB_NV_003Carson River ND,1,1,0,0,3,,,0,0,1,0,0,,
+GB_NV_003Como,1,0,1,,1,,,0,0,0,0,0,,
+GB_NV_003Churchill Ranges,1,0,2,0,2,,,1,1,0,1,2,,
+GB_NV_003Lyon Basin,1,0,0,0,1,,,0,,0,0,0,,
+GB_NV_003Fish Springs,1,0,0,0,2,,,0,0,0,0,0,,
+GB_NV_003CCD SE ND,1,0,0,0,1,,,0,0,1,1,1,,
+GB_NV_003Churchill Basin,1,0,2,0,3,,,1,1,0,1,2,,
+GB_NV_003Reno/Sparks ND,1,1,0,0,5,,,0,0,1,0,0,,
+GB_NV_003Reno/Sparks,1,1,0,0,5,,,0,0,1,0,0,,
+GB_NV_003Bridgeport WUI,1,0,1,0,2,,,1,1,0,1,1,,
+GB_NV_003Fish Springs ND,1,0,0,0,2,,,0,0,0,0,0,,
+GB_NV_003CCD SE,1,0,0,0,1,,,0,0,1,1,1,,
+GB_NV_004Master,1,,,,2,,,,,,1,4,,
+GB_NV_004WUI,1,,,0,3,,,,,,,,,1
+GB_NV_004WFU/WSA,1,,,,2,,,,,0,0,0,,0
+GB_NV_006FWS Sensitive,1,,0,,1,,,1,1,0,,,,1
+GB_NV_006Military Response,1,0,,,2,,,0,,,,,,1
+GB_NV_006Grass WUI,1,0,1,,3,,,2,1,1,,,,1
+GB_NV_006Critical Tort,1,0,0,0,1,,,1,1,1,0,0,,1
+GB_NV_006High Juniper,1,,1,,2,,,1,1,,1,2,,
+GB_UT_002SWT No Retardant,1,0,0,,2,,,0,0,0,0,0,,0
+GB_UT_002SWT Four,1,0,0,,2,,,0,0,0,0,0,,0
+GB_UT_004Low Risk,1,,1,,1,,,2,1,1,0,0,,
+GB_UT_004Moderate Risk,1,,1,,1,,,2,1,1,0,0,,0
+GB_UT_004High Risk,1,1,0,,1,,,2,1,1,0,0,,0
+GB_UT_005All Zones HIEL,1,0,1,,1,,,4,1,,1,2,,1
+GB_UT_005All Zones LOEL,1,0,1,,2,,,3,1,,1,2,,1
+GB_WY_001WFU,1,,1,,1,,,1,1,,,,,
+GB_WY_001NZ Protection,1,,1,,1,,,2,1,,,,,
+GB_WY_001EZ Protection,1,,1,,1,,,2,1,,,,,
+GB_WY_001NZ BCR,1,,1,,1,,,,,,,,,
+GB_WY_001WZ BCR,1,,1,,1,,,2,1,,1,1,,
+GB_WY_001EZ BCR,1,,1,,1,,,,,,,,,
+GB_WY_001WZ Protection,1,,1,,1,,,2,1,,,,,
+NR_ID_001Roadless,1,1,3,,0,,,4,2,3,2,4,,
+NR_ID_001General_response,1,0,2,0,2,,,3,1,2,1,3,,1
+NR_ID_001WUI,1,0,2,0,2,,,0,0,2,,,,1
+NR_ID_001Wilderness,1,,3,,0,,,4,2,2,2,4,,
+NR_MT_002FMU1/2,1,,1,,1,,,0,0,,,,,0
+NR_MT_002FMU3,1,0,1,,1,,,0,0,,0,0,,
+NR_MT_002FMU4,1,0,1,,1,,,0,0,,0,0,,
+NR_MT_003FMU_WUI_Other,1,,1,0,2,,,1,1,1,0,0,0,1
+NR_MT_003FMU_Wild,1,,1,,1,,,1,1,,1,2,,
+NR_MT_003FMU2_RES,1,,1,,2,,,1,1,,1,2,,1
+NR_MT_004FMU1_WUI,1,,1,1,2,,,1,1,,,,,1
+NR_MT_004BIA_BFA,1,,1,0,2,,,0,0,0,,,,1
+NR_MT_004FMU3,1,,1,,2,,,1,1,,1,2,,
+NR_MT_004FMU2,1,,1,,2,,,1,1,,1,2,,
+NR_MT_004FMU4_WFU,1,,1,,1,,,1,1,,,,,
+NR_MT_005Modified,1,,2,,2,,,1,1,,,,,
+NR_MT_005Limited Park,1,0,1,,1,,,1,1,,1,4,,
+NR_MT_005Full,1,,2,,2,,,1,1,,,,,
+NR_MT_005North Modified,1,,2,,2,,,1,1,,,,,
+NR_MT_005Limited,1,,1,,1,,,1,1,,1,4,,
+NR_MT_006NR_MT_006_FMU2_Wild,1,,1,,,,,1,1,,,,,
+NR_MT_006NR_MT_006_FMU3,1,,1,,1,,,1,1,,,,,1
+NR_MT_006NR_MT_006_FMU1,1,,2,,3,,,1,1,0,1,1,,1
+NR_MT_006NR_MT_006_FMU2,1,,2,,3,,,,,,,,,
+NR_MT_006NR_MT_006_FMU3_Wild,1,,1,,0,,,1,1,,,,,
+"NR_MT_007DPA BLM (BO, SP)",1,,,,3,,,,,,,,,
+"NR_MT_007BRKS, LR",1,,0,,1,,,,,,,,,1
+NR_MT_007VFD IA Response,1,,,1,3,,,,,,,,,1
+"NR_MT_007PF, IR, MON",1,,,,2,,,,,,,,,1
+NR_MT_007Rocky Boy,1,,,,2,,,,,,,,,1
+NR_MT_007CMR,1,,,,2,,,,,,,,,1
+NR_MT_007Fort Belknap,1,,,,2,,,,,,,,,0
+NR_MT_001WUI,1,,,,3,,,,,,,,,1
+NR_MT_001Wilderness,1,,,,2,,,1,1,,,,,
+NR_MT_001BIA Non WUI,1,,1,0,3,,,0,0,,,,,0
+NR_MT_001Non WUI,1,0,,,4,,,0,0,0,,,,1
+NR_MT_001BIA WUI,1,,0,0,3,,,0,0,,,,,0
+NW_OR_002UPF GF LSR DL TL,1,,2,,2,,,2,1,,1,2,,
+NW_OR_002UPF GF LSR CG NU,1,1,2,,1,,,,,,,,,
+NW_OR_002UPF Wilderness,1,,2,,1,,,2,1,,1,2,,
+NW_WA_008SPA Dispatch,1,0,0,1,1,0,0,1,1,0,0,0,0,1
+NW_WA_008COA 4 FMZ 1-2 4 Lev.,1,0,1,0,2,0,0,1,1,1,0,0,0,1
+SA_AR_001pcr general,1,,,0,1,,,,,,,,,
+SA_AR_001GenFor IR AR01,1,,,0,1,,,,,,,,,0
+SA_AR_001GenFor IR AR02,1,,,1,1,,,,,,,,,
+SA_AR_001Wilderness IR,1,,,0,1,,,,,,,,,
+SA_FL_001BICY Racoon Point,1,,,,2,,,1,1,0,,,,
+SA_FL_001BICY-THRT-DOZERS,1,,,0,2,,,1,1,0,,,,
+SA_FL_001EVER,1,,,,2,,,1,1,,,,,
+SA_FL_001FPR,1,,,0,1,,,0,0,,,,,0
+SA_FL_001LXR,1,,,,0,1,0,0,1,,,,,
+SA_FL_001NKR,1,,,,1,,,0,0,,,,,0
+SA_FL_001FLSEA Dispatch Log 1,1,,,,1,,,,,,,,1,
+SA_FL_001JNR,1,,,,1,,,0,0,,,,,0
+SA_FL_002OKR_Uplands,1,,,0,1,,,0,1,,,,1,
+SA_FL_002FS_Wilderness,1,,,,2,,,,,,,,0,
+SA_FL_002FS_Mixed_Ownership,1,,,,1,,,,,,,,1,
+SA_FL_002FS_General_Forest,1,,,,1,,,,,,,,1,
+SA_FL_002OKR_Wilderness,1,,,0,1,,,0,1,,,,0,
+SA_FL_002FS_Pinhook,1,,,,2,,,,,,,,0,
+SA_FL_002NPS,1,,,0,1,,,0,0,,,,0,
+SA_FL_002Cumberland_Island,1,,,0,1,,,0,0,,,,0,
+SA_FL_003Non_Particpating,1,,,,,,,,,,,,1,
+SA_FL_003FS_Bombing_Range,1,,,,2,,,,1,,,,,
+SA_FL_003FS_General_Forest,1,,,,1,,,,,,,,1,
+SA_FL_003FS_Mixed_Ownership,1,,,,2,,,,,,,,1,1
+SA_FL_003FS_Wilderrness,1,,,,2,,,,1,,,,,
+SA_FL_003FWS_LRR,1,,,,1,,,,,,,,1,
+SA_FL_003FWS_LWR_Marsh,1,,,,1,,,,1,,,,,
+SA_FL_003FWS_LWR_Upland,1,,,,1,,,,,,,,1,
+SA_FL_003FWS_MI_North,1,,,,2,,,,,,,,1,
+SA_FL_003FWS_MI_South,1,,,,2,,,,1,,,,1,
+SA_FL_003FWS_ST_Johns,1,,,,2,,,,,,,,1,
+SA_FL_003FWS_Threat,1,,,,1,,,,,,,,,
+SA_FL_003NPS_Can_North,1,,,,2,,,,,,,,,
+SA_FL_003NPS_Can_South,1,,,,2,,,,,,,,,
+SA_FL_003FS_Artillery Range,1,,,,2,,,,1,,,,,
+SA_FL_004SVR_FMU_FWA,1,,,,1,,,,,,,,1,
+SA_FL_004EGR_FMU_FWA,1,,,,1,,,,,,,,,
+SA_FL_004FS_Threat,1,,,,1,,,,,,,,,
+SA_FL_004FS_Military,1,,,,1,,,,1,,,,,
+SA_FL_004LSR_FMU_FWA_NORTH,1,,,,1,,,,,,,,1,
+SA_FL_004SMR_THT_FMU_FWA,1,,,,1,,,,,,,,1,
+SA_FL_004LSR_FMU_FWA_SOUTH,1,,,,1,,,,,,,,1,
+SA_FL_004SMR_FMU_SMR_EAST_FWA,1,,,0,1,,,,,,,,1,
+SA_FL_004CHR_FMU_FWA,1,,,,1,,,,,,,,,
+SA_FL_004SMR_FMU_SMR_WEST_FWA,1,,,,1,,,,,,,,1,
+SA_FL_004FS_Mixed_Ownership,1,,,,1,,,,,,,,,
+SA_FL_004FS_Wilderness,1,,,,1,,,,,,,,,
+SA_FL_004FS_General_Forest,1,,,,1,,,,,,,,,
+SA_GA_001Oconee,1,,,1,1,,,0,0,,,,0,
+SA_GA_001Piedmont,1,,,0,1,,,0,0,,,,1,
+SA_KY_001Mammoth Cave,1,,,,1,,,,,,,,,
+SA_KY_001NPS CUGA,1,,,,1,,,,,,,,,
+SA_KY_001NPS BISO,1,,,,1,,,,,,,,,
+SA_KY_001FS Wilderness,1,,1,,1,,,,,,,,,
+SA_KY_001FS General,1,,1,0,1,,,,1,,,,,
+SA_KY_001FS LBL,1,,,,2,,,,,,,,,
+SA_LA_001BBR1,1,,,,2,,1,,,,,,1,
+SA_LA_003NO-Plow_NO_Penetrat,1,,1,0,1,,,,0,,,,,
+SA_LA_003Kisatchie General,1,,0,1,1,,,,,,,,,
+SA_LA_003No Entry,1,,1,0,1,,,,0,,,,,
+SA_LA_003FWSGEN,1,,,1,1,,,,,,,,,
+SA_LA_003Kisatchie Wilderness,1,,1,0,1,,,,0,,,,,
+SA_MD_001Dismal Logic,1,0,1,0,1,,,,0,,,,0,
+SA_MD_001FPU Initialization,1,0,1,1,2,,,,0,,,,1,1
+SA_MS_001USFS Wilderness,1,,,0,1,,,,,,,,0,
+SA_MS_001USFS,1,,,1,0,,,,,,,,0,
+SA_MS_001FWS,1,,,1,0,,,,,,,,0,
+SA_MS_002Homochitto FWA,1,,,1,2,,,,,,,,0,
+SA_MS_002Bienville WA,1,,,1,2,,,,,,,,0,
+SA_MS_002Natchez FWA,1,,,1,1,,,,,,,,,
+SA_MS_002Tombigbee FWA,1,,,1,1,,,,,,,,1,
+SA_MS_002Noxubee,1,,,1,1,,,,,,,,,
+SA_MS_002Natchez Threat FWA,1,,,1,1,,,,,,,,,
+SA_MS_002Holly Springs FWA,1,,,1,2,,,,,,,,,
+SA_MS_002Natchez Trace FWA,1,,,,1,,,,,,,,,
+SA_NC_001Pee Dee,1,,,,1,,,,0,,,,1,
+SA_NC_001Carolina Sandhills,1,,,,2,,,,0,,,,1,
+SA_NC_001Birkhead Wilderness,1,,,0,1,,,,0,,,,,
+SA_NC_001Uwharrie WUI,1,,,1,2,,,,,,,,,
+SA_NC_002FWS with helicopter,1,,,,1,,,,,,,,1,
+SA_NC_002Croatan,1,,,,1,,,,,,,,1,
+SA_NC_002Currituck aviation,1,,,,1,1,,,,,,,1,
+SA_NC_002Ocracoke,1,,,,2,,,,,,,,0,
+SA_NC_002Cape Hatteras,1,,,,2,,,,,,,,1,
+SA_NC_002Cape Lookout,1,,,,1,,1,,,,,,,
+SA_OK_001OUF WILDERNESS,1,,0,0,3,,,,,,,,,0
+SA_OK_001fws dispatch,1,0,0,0,2,,,,1,,,,,1
+SA_OK_001Overall,1,,0,1,2,,,,,,,,,1
+SA_OK_002overall,1,,,0,2,,,,,,,,,1
+SA_OK_002fws interest,1,0,,1,2,,,,,,,,,1
+SA_OK_003Overall,1,,,1,2,,,,,,,,,1
+SA_OK_005Fish and Wildlife,1,,,,3,,,,,,,,,2
+SA_PR_001Test,1,,,1,1,,,,0,,,,,
+SA_SC_001FS Wild,1,,0,,1,,,,,,,,,
+SA_SC_001FWS_Mainland,1,,0,1,2,,,,,,,,1,
+SA_SC_001FWS IS,1,,0,1,2,,,,1,,,,1,
+SA_SC_001FWS Wild,1,,0,,2,,,,1,,,,,
+SA_SC_001SRF,1,,,1,1,,,,0,,,,,
+SA_SC_001FS_FWA,1,,0,1,1,,,,,,,,1,
+SA_SC_001NPS,1,,,,1,,,,,,,,,
+SA_TN_001Cherokee Wild North,1,,0,,1,,,,,,,,,
+SA_TN_001Appalachian MO,1,,1,,1,,,,,,,,,
+SA_TN_001Chattahoochee NF,1,,1,1,1,,,,,,,,,
+SA_TN_001Grandfather MO,1,,0,,1,,,,,,,,,
+SA_TN_001Cherokee Disp. Logic,1,,1,,2,,,,,,,,,
+SA_TN_001NPS BRP,1,,1,,1,,,,,,,,,
+SA_TN_001NPS GSP,1,,,,1,,,,,,,,,
+SA_TN_001FS Wilderness,1,,1,,1,,,,1,,,,,
+SA_TN_001Nat Pisg MO,1,,0,0,1,,,,0,,,,,
+SA_TN_001Cherokee MO,1,,,0,1,,,,0,,,,,
+SA_TN_001Cherokee North MO,1,,0,0,1,,,,0,,,,,
+SA_TX_001LBJ,1,0,0,0,2,,,0,0,,,,,2
+SA_TX_002Balcones,1,0,0,0,2,0,0,0,0,0,0,0,0,1
+SA_TX_003FS_WILD,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+SA_TX_003DCNF,1,0,0,1,1,0,0,0,0,0,0,0,0,0
+SA_TX_003BITH 2,1,0,0,0,2,0,0,0,0,0,0,0,0,0
+SA_TX_003TXACA-ENG Only,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+SA_TX_003BITH,1,0,0,0,2,0,0,0,0,0,0,0,0,0
+SA_TX_004San 3,1,,,,2,,,,,,,,,
+SA_TX_004SanTHT,1,,,,2,,,,,,,,,
+SA_TX_004BrazoTHT,1,,,,2,,,,,,,,,
+SA_TX_004BBGTHT,1,,,,2,,,,,,,,,
+SA_TX_004SWLA,1,,,,1,,1,,,,,,,
+SA_TX_004Brazoria 04,1,,,,2,,,,,,,,,1
+SA_TX_004Brazoria05,1,,,,2,,,,,,,,,
+SA_TX_004BBG 001,1,,,,2,,,,,,,,,
+SA_TX_004San 2,1,,,,2,,,,,,,,,
+SA_TX_004AHR-MCR 5,1,,,,2,1,1,,,,,,,0
+SA_TX_005Matagorda,1,,,0,1,,,,,,,,0,
+SA_TX_005Padre Island,1,,,0,1,,,,,,,,0,
+SA_TX_005Santa Ana Staffing,1,,,0,1,,,,,,,,,
+SA_TX_005Falcon Staffing,1,,,0,1,,,,,,,,,
+SA_TX_005Palmview Staffing,1,,,0,1,,,,,,,,,
+SA_TX_005Aransas,1,,,0,1,,,,,,,,0,
+SA_TX_005Laguna Staffing,1,,,0,1,,,,,,,,,
+SA_VA_001Shen,1,,1,,1,,,,1,,,,,
+SA_VA_001MTTS,1,,1,,1,,,,1,,,,,
+SA_VA_001NCR,1,,1,,1,,,,0,,,,,
+SA_VA_001BLRI,1,,1,,1,,,,1,,,,,
+SA_VA_001FS Wilderness,1,,1,,1,,,,1,,,,,
+SA_VA_001FS,1,,0,,1,,,,1,,,,,
+SA_VA_001Unassigned,1,,0,,1,,,,1,,,,,
+SA_VA_001FS: 4,1,,0,,1,,,,1,,,,,
+SA_VA_001SHEN: 4,1,,1,,1,,,,1,,,,,
+CA_CA_006.enf_urban1,1,0,0,0,2,,,0,0,0,,,,0
+CA_CA_006.blm_wui,1,0,1,0,2,,,0,0,0,,,,0
+CA_CA_006.tmu_wui,1,0,0,,2,,,0,0,0,,,,0
+CA_CA_006.tnf_wilderness,1,,0,,1,,,1,1,,,,,
+CA_CA_006.enf_wild,1,,0,,1,,,1,1,,,,,
+CA_CA_006.tnf_supp,1,0,0,0,1,,,0,0,,,,,0
+CA_CA_006.tmu_wilderness,1,,0,,1,,,1,1,,,,,
+AK_AK_001Alaska Standard,1,0,1,0,2,0,0,1,1,0,1,4,0,1
+AK_AK_001Alaska Aerial Only,1,0,0,0,0,0,0,1,1,0,1,4,0,0
+AK_AK_001Alaska Southeast,1,0,1,0,1,0,0,3,1,0,0,0,0,1
+SW_AZ_002FM 1 Normal,1,,1,,2,,,2,1,,,,,1
+SW_AZ_003WMAT_East,1,0,1,1,2,0,0,1,1,0,,,,1
+SW_AZ_003Clifton_RD,1,0,1,1,1,0,0,1,1,0,,,,0
+SW_AZ_003Springerville_RD,1,0,0,1,3,0,0,1,1,0,,,,0
+SW_AZ_003Black Mesa_RD,1,0,0,1,4,0,0,1,1,0,,,,0
+SW_AZ_003Alpine_RD,1,0,1,1,3,0,0,1,1,0,,,,0
+SW_AZ_003WMAT_West,1,0,0,0,2,0,0,1,1,1,,,,0
+SW_AZ_003Lakeside_RD,1,0,0,1,3,0,0,1,1,0,,,,0
+SW_AZ_004RIPARIAN BP ADJ,1,0,0,0,3,,1,0,0,0,,,,1
+SW_AZ_004UPLAND,1,0,0,0,2,,,0,0,0,,,,1
+SW_AZ_004WILDERNESS,1,0,0,0,2,,,0,1,1,,,,0
+SW_AZ_005Timber,1,,,,1,,,,,,,,,1
+SW_AZ_005Grass-Brush-PJ,1,,,1,2,,,1,1,1,,,,1
+SW_AZ_005Mojave Desert,1,,1,1,2,,,1,1,1,,,,1
+SW_AZ_005Wilderness and Park,1,,,,2,,,,,,,,,1
+SW_AZ_006desert,1,0,1,0,3,0,0,1,1,0,0,0,0,0
+SW_AZ_006timber,1,0,1,0,3,0,0,1,1,0,0,0,0,0
+SW_AZ_006wilderness,1,0,2,0,4,0,0,1,1,0,0,0,0,0
+SW_AZ_006brush,1,0,1,0,3,0,0,1,1,0,0,0,0,0
+SW_AZ_006riparian,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+SW_NM_001Wilderness,1,0,1,0,1,,,,,,,,,
+SW_NM_001Farm-Jia Dispatch,1,,1,,1,,,0,,0,,,,1
+SW_NM_001Rattlesnake,1,,1,,2,,,1,1,1,,,,1
+SW_NM_001East Carson_WUI,1,1,2,1,6,0,0,2,2,1,0,0,0,2
+SW_NM_002Non WUI,1,,,0,3,,,,,,,,,1
+SW_NM_002Smokey Bear WUI,1,,,,3,,,,,,,,,1
+SW_NM_002WUI,1,,,,4,,,,,,,,,1
+SW_NM_003LCDO fils,1,,,,2,,,,,,,,,
+SW_NM_004Wilderness,1,,2,,0,,,4,1,,1,5,,
+SW_NM_004BLM Brush/Grass,1,,,,2,,,1,1,0,0,0,,1
+SW_NM_004Timber,1,,2,,1,,,3,1,,1,4,,1
+SW_NM_004WUI,1,1,1,1,1,,,1,1,,1,1,,1
+SW_NM_004PJ/Grass,1,,1,,2,,,1,1,,1,1,,1
+SW_NM_005Pondo,1,,0,,1,,,,,,,,,
+SW_NM_005PondoWUI,1,,1,,2,,,2,1,1,,,,1
+SW_NM_005ABQ,1,,,,2,,,,,,,,,
+SW_NM_005BLM EAST,1,,0,,1,,,,,,,,,
+SW_NM_005Socorro,1,,,,1,,,,,,,,,
+SW_NM_005BLM NPS,1,,0,,2,,,,,,,,,
+SW_NM_005Bia North,1,,0,,2,,,,,,,,,
+SW_NM_007NAA-Grass,1,0,1,0,2,,,0,0,,,,,1
+SW_NM_007TCA-GRASS,1,0,0,0,2,,,0,0,0,0,0,0,0
+SW_NM_007KNF WUI-D1,1,0,0,0,2,,,0,0,,,,,
+SW_NM_007TCA-Canyon,1,0,0,0,2,,,0,0,0,0,0,0,0
+SW_NM_007cof wilderness,1,0,0,0,2,,,0,0,0,0,0,0,0
+SW_NM_007cof nonwui,1,0,0,0,2,,,0,0,0,0,0,0,0
+SW_NM_007TCA-WUI,1,0,0,0,2,,,0,0,0,0,0,0,0
+SW_NM_007cof wui,1,0,0,0,2,,,0,0,0,0,0,0,0
+SW_NM_007NAA-TimberPJ,1,0,1,0,2,,,0,0,,,,,1
+SW_NM_007TCA-FOR,1,0,0,0,2,,,0,0,0,0,0,0,0
+SW_NM_007HOA-All FWA's,1,0,1,0,2,,,0,0,0,0,0,0,0
+SW_NM_007KNF Non WUI-D4,1,0,0,0,2,,,0,0,,,,,
+SW_NM_007KNF Non WUI-D1,1,0,0,0,2,,,0,0,,,,,
+SW_NM_007KNF Wilderness,1,0,0,0,2,,,0,0,,,,,
+SW_NM_007GCP-Backcountry,1,0,0,0,2,0,0,2,1,0,0,0,0,0
+SW_NM_007PNF WUI,1,0,0,0,2,0,0,0,0,0,0,0,0,0
+SW_NM_007PNF Non-WUI,1,0,0,0,2,0,0,0,0,0,0,0,0,0
+SW_NM_007PNF Wilderness,1,0,0,0,2,0,0,0,0,0,0,0,0,0
+SW_NM_007GCP-WUI,1,0,0,0,1,0,0,1,1,0,0,0,0,0
+SW_TX_002fws interest,1,0,,0,3,,,,,,,,0,
+SW_TX_002SW_TX_002_DispLog_1,1,,,,3,,,,,,,,,
+SW_TX_002BLM_Sabinoso,1,,1,,,,,,,,,,,
+SW_TX_004WFU,1,,2,,2,,,,,,,,,0
+SW_TX_004AMR,1,,2,,3,,,,,,,,,1
+SW_TX_004Non_BIBE,1,,2,,3,,1,,,,,,,1
+CA_CA_013Handcrew,1,,1,,1,,,,1,,,,,
+CA_CA_013Engine,1,,1,,1,,,,1,,,,,1
+NR_MT_010Lolo Limited Acc.,1,,1,,1,,,1,1,,1,0,,
+NR_MT_010Lolo Developed,1,,2,,3,,,2,1,,1,0,,
+NR_MT_010Lolo WUI,1,,2,,3,,,1,1,,0,0,,
+NW_WA_005Juniper Wilderness,1,,,,3,,,,,,,,,1
+NW_WA_005Basin 2,1,,,,3,,,,,,,,,1
+NR_MT_009ST LAA RAA,1,,0,,2,,,0,0,,0,0,,0
+NR_MT_009GNP MCD,1,,0,,1,,,,,,0,0,,
+NR_MT_009FNF DEV,1,,,,1,,,0,0,,0,0,,
+NR_MT_009KNF RAA,1,,1,,4,,,1,1,,0,0,,1
+NR_MT_009KNF LAA,1,0,1,,3,,,1,1,,1,1,,
+NR_MT_009ST DEV,1,,0,,3,,,1,1,,,,,0
+NR_MT_009FNF LAA,1,,1,,1,,,1,1,,0,0,,
+NR_MT_009FNF RAA,1,,1,,1,,,0,0,,0,0,,
+NR_MT_009KNF DEV,1,0,2,,4,,,1,1,,0,0,,1
+NR_MT_009GNP LAA,1,,0,,1,,,1,1,,0,0,,
+NR_MT_009GNP EAST,1,,1,,0,,,,,,0,0,,
+GB_ID_001FAIRFIELD RESPONSE,1,,,,2,,,,,,,,,
+GB_ID_001WILDERNESS RESPONSE,1,,,,1,,,5,1,,,,,
+GB_ID_001SNRA RESPONSE,1,,,,2,,,,,,,,,
+GB_ID_001STANDARD RESPONSE,1,,,,2,,,,,,,,,
+GB_NV_002Char_HT_IR,1,0,0,0,3,0,0,2,2,0,1,2,0,0
+GB_NV_002Owy_FMU_IR,1,0,0,0,2,0,0,2,1,0,0,0,0,0
+GB_NV_002Wild_FMU_IR,1,0,1,0,2,0,0,3,2,0,1,3,0,0
+GB_NV_002Cort_FMU_IR,1,0,0,0,3,0,0,2,2,0,0,0,0,0
+GB_NV_002Ruby_RLR_IR,1,0,0,0,3,0,0,2,1,0,1,2,0,1
+GB_NV_002Gosh_FMU_IR,1,0,0,0,2,0,0,2,1,0,1,2,0,0
+GB_NV_002Tusc_FMU_IR,1,0,0,0,3,0,0,2,2,0,1,2,0,0
+GB_NV_002Del_FMU_IR,1,1,0,0,3,0,0,3,2,0,1,3,0,0
+GB_NV_002Owy_DVT_IR,1,0,0,0,2,0,0,0,0,0,0,0,0,0
+GB_NV_002Char_FMU_IR,1,0,0,0,3,0,0,2,2,0,1,3,0,0
+GB_NV_002Ruby_FMU_IR,1,0,0,0,4,0,0,2,2,0,1,2,0,0
+GB_NV_002Ruby_HT_IR,1,0,0,0,3,0,0,2,2,0,1,3,0,0
+GB_NV_002Char_Pri_Mix_IR,1,0,0,0,3,0,0,2,2,0,1,2,0,0
+GB_NV_005Park,1,,,,2,,,1,1,,,,,
+GB_NV_005North 5,1,,,,2,,,,,,,,,
+GB_NV_005South 3,1,,,,2,,,1,1,,1,,,
+GB_NV_005South 5,1,,,,2,,,,,,,,,
+GB_NV_005North 3,1,,,,2,,,,,,,,,
+NR_ND_001Missouri Logic Table,1,0,0,0,3,0,0,0,0,0,0,0,0,1
+NR_ND_001Badlands Logic Table,1,0,0,0,3,0,0,0,0,0,0,0,0,1
+GB_UT_001Park Service SWT,1,0,1,,1,,,0,0,0,0,0,,0
+GB_UT_001Richfield SWT,1,0,0,,2,,,0,0,0,0,0,,0
+GB_UT_001Filmore SWT,1,0,0,,2,,,0,0,0,0,0,,0
+GB_UT_001Teasdale SWT,1,0,0,,2,,,0,0,0,0,0,,0
+GB_UT_003Camp William,1,,,,0,,,,,,,,,
+GB_UT_003BLM Other,1,1,1,,1,,,1,1,2,,,,1
+GB_UT_003WUI_FS,1,,,,1,,,,,,,,,
+GB_UT_003Mountains,1,,1,,1,,,,,,,,,
+GB_UT_003Wilderness SJ,1,,2,,1,,,1,1,,1,2,,
+GB_UT_003BLM_Bonne_Carring,1,1,1,,1,,,1,1,2,,,,
+GB_UT_003Desert 5,1,1,1,,1,,,1,1,1,,,,1
+GB_UT_003FS_West5 5,1,,0,,2,,,1,1,,,,,1
+GB_UT_003WUI_FS 5,1,,,,1,,,,,,,,,1
+GB_UT_003FS_West,1,,0,,2,,,1,1,,,,,1
+GB_UT_003Wilderness,1,,2,,1,,,1,1,,,,,
+GB_UT_003Desert,1,1,1,,1,,,1,1,1,,,,1
+GB_UT_003DOD_LAND,1,1,,,1,,,1,1,2,,,,
+NR_MT_011CSKT Wilderness,1,0,2,0,1,0,0,2,1,0,0,0,0,0
+NR_MT_011CSKT Developed,1,0,1,0,2,0,0,1,1,0,0,0,0,0
+NR_MT_011CSKT Limited Acc.,1,0,2,0,2,0,0,3,1,0,0,0,0,0
+NR_MT_011CSKT WUI,1,0,1,0,2,0,0,2,1,0,0,0,0,0
+CA_CA_008WUI_Lake_I_Threat,1,1,3,1,5,,,1,1,1,,,,1
+CA_CA_008Wilderness_Timber,1,,,,1,,,2,1,,,,,
+CA_CA_008WUI_Timber,1,,1,,3,,,0,0,1,,,,0
+CA_CA_008General_Kaweah,1,,0,,2,,,0,0,,,,,0
+CA_CA_008Wilderness_Grass/Shr,1,,1,,2,,,2,1,,,,,
+CA_CA_008WUI_Grass/Shrub,1,,3,,4,,,1,1,1,,,,1
+CA_CA_008General _Timber,1,,0,,2,,,0,0,,,,,0
+CA_CA_008General_Grass/Shrub,1,,0,,3,,,1,1,0,,,,1
+EA_IA_001CL-PC Changes,1,,,,1,,,,,,,,0,1
+EA_IN_001Southeastern,1,,,,1,,,,,,,,,
+EA_IN_001Northern Indiana,1,,,,1,,,,,,,,,
+EA_IN_001Southwestern Indiana,1,,0,,1,,,,0,,,,,
+EA_MI_001WUI response,1,,,,1,,,,,,,,,
+EA_MI_001General response,1,,,,1,,,,,,,,,
+EA_MI_001wilderness response,1,,,,2,0,,,,,,,,
+EA_MI_002Huron,1,,,1,2,,,1,1,,,,,
+EA_MI_002Manistee,1,,,1,2,,,1,1,,,,,
+EA_MN_001SUP-_Non_Blowdown,1,,1,,0,,1,0,0,,,,,
+EA_MN_001SUP-East -Blowdown,1,,1,,0,,1,0,0,,,,,
+EA_MN_001SUP_West-Blowdown,1,,,,1,,1,,,,,,,
+EA_MN_001Crane Medows,1,,,,2,,,,,,,,,
+EA_MN_001SUP_West-Ely,1,,,,2,,1,,,,1,1,,
+EA_MN_001SUP_West-Laurention,1,,,,2,,1,,,,,,,1
+EA_MN_001Fond Du Lac,1,,,,1,,,,,,,,,
+EA_MN_001SUP-East,1,,1,,2,,1,1,1,,,,,1
+EA_MN_001Chippewa,1,,,,2,,,,,,,,,1
+EA_MN_001Sherburne,1,,,,3,,,,1,,,,,1
+EA_MN_001BIA Woodland,1,,,,1,,,,,,,,,
+EA_MN_001Voygers,1,,1,,0,,1,1,1,,,,,
+EA_MN_001Rice Lake,1,,,,2,,,,,,,,,
+EA_MN_002FWS-SE,1,,,,1,,,,0,,,,,
+EA_MN_002FWS_Morris,1,,,,2,,,,0,,,,,
+EA_MN_002Red Lake,1,,,,4,,,,0,,,,,2
+EA_MN_002White Earth,1,,,,3,,,,0,,,,,2
+EA_MN_002FWS_Litchfield,1,,,,2,,,,0,,,,,2
+EA_MN_002FWS_Fergus Fall,1,,,,2,,,,0,,,,,
+EA_MN_002FWS-MNBND,1,,,,2,,,,0,,,,,
+EA_MN_002Agassiz,1,,,,2,,,,0,,,,,1
+EA_MN_002FWS_Windom,1,,,,1,,,,0,,,,,
+EA_MN_002FWS-MNMVR,1,,,,2,,,,0,,,,,
+EA_NJ_001NY Logic 5 FDL,1,,,,2,,,,0,,,,,0
+EA_NJ_001North NJ Logic 5 FDL,1,,0,,2,,,0,0,0,,,,1
+EA_NJ_001South NJ Logic 5 FDL,1,,,,2,,,,0,0,,,0,1
+RM_CO_007Deadman South,1,,1,,2,,,,,,,,,1
+RM_CO_007Clear Creek,1,,1,,2,,,,,,,,,1
+RM_CO_007Divide North,1,,1,,2,,,,,,,,,1
+RM_CO_007Boulder Flats South,1,,1,,2,,,,,,,,,1
+RM_CO_007Big Thompson North,1,,1,,2,,,,,,,,,1
+RM_CO_007Deadman North,1,,1,,2,,,,,,,,,1
+RM_CO_007Sulphur North,1,,1,,2,,,,,,,,,1
+RM_CO_007Grasslands,1,,1,,2,,,,,,,,,1
+RM_CO_007Boulder Flats North,1,,1,,2,,,,,,,,,1
+RM_CO_007Sulphur South,1,,1,,2,,,,,,,,,1
+RM_CO_007Divide South,1,,1,,2,,,,,,,,,1
+RM_CO_007Big Thompson South,1,,1,,2,,,,,,,,,1
+EA_OH_001WNF1,1,,1,,2,,,,,,,,,
+EA_OH_001Basic,1,,,,1,,,,,,,,,
+EA_PA_001Test,1,,,,1,,,,,,,,,
+EA_PA_001Allegheny,1,,,,1,,,,,,,,,
+EA_PA_001NPS,1,,,,1,,,,,,,,,0
+EA_PA_001FWS Erie,1,,,,1,,,,,,,,,0
+EA_WI_002NW FMU FWS,1,,,,1,,,,,,,,,0
+EA_WI_002So_FMU_BIA_W,1,,,,1,,,,,,,,0,1
+EA_WI_002So FMU FWS FWA,1,,,,1,,,,,,,,,0
+EA_WI_002NW_FMU_BIA_E_FWA,1,,,,1,,,,,,,,0,1
+EA_WI_002NW_FMU_BIA_W_FWA,1,,,,1,,,,,,,,0,1
+GB_ID_004Critical,1,0,0,0,2,0,0,0,0,0,0,0,0,0
+GB_ID_004Urban Interface,1,0,0,0,3,0,0,0,0,0,0,0,0,1
+GB_ID_004Conditional,1,0,0,0,1,0,0,3,1,0,0,0,0,0
+RM_CO_002standard,1,,1,,2,,,,,,,,,
+RM_CO_002Minimum Impact,1,,1,,2,,,,,,,,,
+RM_CO_003ENG 2nd at FDL2,1,,,,1,,,,,,,,,
+RM_CO_003HELI+ENG at FDL1,1,,,,1,,,1,1,,,,,
+RM_CO_003MVP Area,1,,,,1,,,1,1,,,,,
+RM_CO_003Dolores North,1,,,,1,,,,,,,,,
+RM_CO_003CRW 2nd at FDL2,1,,,,1,,,,,,,,,
+RM_CO_003HELI+ENG FDL1 COL,1,,,,1,,,1,1,,,,,
+RM_CO_004General Forest,1,,1,,1,,,,,,,,,
+RM_CO_004WUI,1,,1,,2,,,,,,,,,0
+RM_CO_004WFU,1,,1,,1,,,,,,,,,
+RM_CO_005Standard,1,,,,1,,,,,,,,,
+RM_CO_005Douglas Pass,1,,0,,1,,,3,1,,1,2,,
+RM_CO_005Interface,1,,,,2,,,,,,,,,
+RM_CO_0052 eng low fil,1,,,,2,,,,,,,,,
+RM_CO_005Routt,1,,,,2,,,,,,,,,
+RM_CO_005DinoNPS,1,,,,1,,,4,1,,,,,
+RM_CO_005WSA,1,,1,,1,,,3,1,,,,,
+RM_CO_006Standard,1,,,,1,,,,,,,,,
+RM_CO_006Test2,1,1,2,,10,,,1,1,1,1,1,,2
+RM_CO_006WalkIns,1,,,,1,,,1,1,,1,1,,
+RM_CO_006pj_sig_3_level,1,,,,1,,,,,,1,1,,
+RM_CO_008All BIA Ramp 2,1,0,,0,2,,,0,0,,,,,0
+RM_KS_001BI FM L 5 FDL,1,,,,4,,,,,,,,,0
+RM_NE_001Niobrara Suppress,1,,,,2,,,,,,,,,
+RM_NE_001Bessey Suppress,1,,,,2,,,,,,,,,
+RM_NE_001Crescent Suppress,1,,,,2,,,,,,,,,
+RM_NE_001Suppression,1,,,,2,,,,,,,,,
+RM_NE_001NE State Suppress NW,1,,,,1,,,,,,,,,
+RM_NE_001McKelvie Suppress,1,,,,2,,,,,,,,,
+RM_NE_001ONG Suppression,1,,,,2,,,,,,,,,
+RM_NE_001Soldier Cr Suppress,1,,,,2,,,,,,,,,
+RM_NE_001Valentine Suppress,1,,,,2,,,,,,,,,
+RM_NE_001Agate Suppress,1,,,,1,,,,,,,,,0
+RM_NE_001Scottsbluff Suppress,1,,,,2,,,,,,,,,
+RM_NE_001North Platte Suppres,1,,,,2,,,,,,,,,1
+RM_NE_001NE State Supp. Other,1,,,,1,,,,,,,,,
+RM_SD_001Suppression,1,,1,,1,,,1,1,,,,,
+RM_SD_001Suppression_WIn,1,,1,,1,,,1,1,,,,,
+RM_SD_00301-24-12,1,,,,4,,,,,,,,,1
+EA_WI_001AIP_1,1,,,,,,2,,,,,,,
+EA_WI_001MTE_1,1,,,1,6,,,,,,,,,
+EA_WI_001WDNR_1,1,,,1,8,,,,,,,,,2
+EA_WI_001Cheni,1,,,,4,,,0,1,,,,,
+EA_WI_001Cheni_2,1,,,,3,,,0,1,,,,,
+EA_IL_001Test 1,1,,,,2,,,,,,,,,2
+EA_IL_001Southern FMU,1,,,0,2,,,,,,,,1,1
+EA_IL_001Midewin,1,,1,,2,,,,,,,,,1
+NR_MT_008Northern Cheyenne BI,1,0,0,1,3,0,0,0,0,0,0,0,0,0
+NR_MT_008Options Run,1,0,0,0,2,0,0,1,1,2,0,0,0,1
+RM_CO_001Wilderness,1,,,,2,,,,,,,,,
+RM_CO_001FLENGTH_Suppression,1,1,1,,4,,,1,1,2,,,,2
+RM_CO_001ROS Suppression,1,0,1,,2,,,1,1,2,,,,1
+RM_WY_003Timber/Grass mix,1,,1,,2,,,1,1,,,,,0
+RM_WY_003Sage/Grass,1,,0,,3,,,0,0,,,,,0
+RM_WY_003Timber,1,,1,,2,,,1,1,,,,,0
+EA_MO_001Mark Twain,2,,2,1,1,,,2,1,,,,0,
+EA_NH_001FPU16 General Logic,2,,1,,2,,,,0,,,,,0
+EA_WV_001MOF_all,2,,3,1,6,,,,1,,,,,
+EA_WV_001MOF_limited Eq use,2,,4,1,4,,,,1,,,,,
+EA_WV_001MOF_wilderness_CRV,2,,4,,2,,,,1,,,,,
+EA_WV_001NPS all,2,,6,,8,,,,1,,,,,
+NW_WA_004TBR Dispatch,2,,1,,2,,,,,,0,,,1
+NW_WA_004COF Roaded,2,1,2,,2,,,1,1,1,,,,
+NW_WA_004COF WILD/Roadless,2,1,2,,2,,,1,1,1,1,2,,
+CA_CA_002Limited Access,2,2,2,0,3,0,0,2,1,0,1,6,0,1
+CA_CA_002LVNP Wilderness,2,0,1,0,2,0,0,1,1,0,1,1,0,0
+CA_CA_002LVNP General Forest,2,0,1,0,3,0,0,1,1,0,0,0,0,1
+CA_CA_002High Wilderness,2,1,2,0,2,0,0,2,1,0,1,6,0,0
+CA_CA_002General Forest/Range,2,1,2,1,4,0,0,1,1,0,0,0,0,2
+CA_CA_007High Elev NonWild,2,0,1,0,2,0,0,1,1,0,0,,,0
+CA_CA_007Other,2,1,1,0,3,0,0,1,1,0,0,,,1
+CA_CA_007Wilderness,2,0,1,0,0,0,0,1,1,0,0,,,0
+CA_CA_007WUI,2,2,2,1,4,0,0,1,1,0,0,,,1
+CA_CA_015CA FPU 15 WUI,2,2,3,2,15,0,0,2,2,3,0,0,0,3
+CA_CA_011WUI,2,3,2,2,5,,,2,3,2,,,,2
+CA_CA_011Other,2,2,2,,4,,,2,2,2,0,0,,2
+CA_CA_011Wilderness,2,2,2,,3,,,2,2,1,0,0,,2
+NW_OR_001Siuslaw North,2,0,,0,3,0,,,0,,,,,1
+NW_OR_001Siuslaw South,2,0,,0,3,0,,,1,,,,,1
+NW_OR_001Forest Access 2,2,1,4,,2,,,,1,,0,0,,
+NW_OR_001Wilderness 2,2,,4,,2,,,,1,,1,4,,
+NW_OR_001Northwest 2,2,0,,0,4,0,,,0,,,,,0
+NW_OR_001Southwest 2,2,0,,0,4,0,,,0,,,,,0
+NW_OR_004Wild Study Area,2,,1,0,2,,,,,,,,,
+NW_OR_004WS WUI,2,,,,2,,,1,1,,,,,
+NW_OR_004WS Timber,2,,,,2,,,,,,,,,
+NW_OR_004General Forest,2,,1,,3,,,,,,,,,1
+NW_OR_004WUI,2,,1,,2,,,,,,,,,1
+NW_OR_004Juniper Sage,2,,1,,2,,,,,,,,,
+NW_OR_004Wilderness,2,,1,,1,,,,,,,,,
+NW_OR_004WS ConditionUse,2,,,,1,,,,1,,,,,
+NW_OR_005H1-SP,2,1,2,1,2,,,2,1,1,,,,1
+NW_OR_005P1/P2,2,1,2,1,2,,,2,1,1,,,,1
+NW_OR_005NF-1/NF-1SP,2,1,3,1,2,,,2,1,1,,,,1
+NW_OR_005WW-1,2,1,3,,1,,,3,1,1,1,3,,
+NW_OR_005WildernessUMF,2,1,3,,1,,,2,1,1,1,3,,
+NW_OR_005PDT-1,2,1,1,1,4,,,1,1,1,,,,1
+NW_OR_005Mission WUI,2,,1,1,5,,,,1,1,,,,1
+NW_OR_005WW2/2A,2,1,3,1,4,,,1,1,1,,,,1
+NW_OR_006base2,2,0,1,1,3,,,4,1,1,,,,1
+NW_OR_006brown,2,0,1,1,2,,,4,1,1,,,,1
+NW_OR_006OE SMA,2,0,1,0,2,,,4,1,1,,,,1
+NW_OR_006base,2,0,1,1,4,,,4,1,1,,,,1
+NW_OR_006Ironside,2,1,1,1,3,,,4,1,1,,,,1
+NW_OR_007Silver,2,,,,2,,,1,1,1,,,,
+NW_OR_007Alvord North,2,,,,2,,,2,1,1,,,,
+NW_OR_007Diamond,2,,,,2,,,2,1,1,,,,
+NW_OR_007Guano,2,,,1,2,,,2,1,1,,,,
+NW_OR_007Thousand/Virgin,2,,,,2,,,,,1,,,,
+NW_OR_007Upper Malheur,2,,,,2,,,1,1,1,,,,
+NW_OR_007Home Creek,2,,2,,2,,,3,1,,1,3,,
+NW_OR_007Lakes,2,,,,2,,,1,1,1,,,,
+NW_OR_007Silvies,2,,1,,2,,,2,1,1,,,,1
+NW_OR_007Snow Mountian North,2,,1,,2,,,3,1,,1,2,,
+NW_OR_007Snow Mountain South,2,,1,,2,,,2,1,1,,,,
+NW_OR_007Steens,2,,1,,1,,,2,1,1,1,2,,
+NW_OR_008Desert,2,0,1,0,3,,,1,1,0,0,0,,1
+NW_OR_008Timber Special,2,0,1,1,3,,,1,1,1,0,0,,1
+NW_OR_008Timber,2,0,1,0,3,,,1,1,1,0,0,,1
+NW_OR_008Timber West,2,0,1,1,3,,,1,1,0,0,0,,0
+NW_OR_008State and Private,2,1,1,2,4,,,1,1,1,0,0,,1
+CA_CA_005CA-CA-05,2,1,1,1,4,,,1,1,,1,1,,1
+CA_CA_005Bay Area Parks,2,1,1,1,4,,,1,1,,0,0,,1
+CA_CA_005Wilderness,2,1,1,0,4,,,1,1,,2,2,,1
+CA_CA_003Wilderness,2,,1,,2,,,,,,,,,
+CA_CA_003General suppression,2,1,1,1,6,,,1,1,,,,,
+CA_CA_003High resource values,2,1,2,1,4,,,1,1,1,,,,1
+CA_CA_003SW Wilderness,2,,2,,2,,,1,1,,1,4,,
+CA_CA_001KNFnotWild,2,2,2,2,6,,,2,2,,1,4,,3
+CA_CA_001KNFWild,2,2,2,0,3,,,2,2,,1,8,,0
+CA_CA_001Other sensitive,2,,2,,2,,,1,1,,0,0,,1
+CA_CA_001Wilderness,2,,2,,0,,,6,1,,1,1,,0
+CA_CA_001SRFWild,2,1,1,,1,,,2,2,,1,8,,
+CA_CA_001WUI,2,2,2,2,4,,,6,1,,0,0,,2
+CA_CA_001SRFWUI_HIA_YIA,2,1,2,1,4,,,2,1,,,,,1
+CA_CA_001SRFGen,2,1,1,,2,,,2,1,,,,,2
+CA_CA_001RWPALL,2,0,1,0,2,,,0,0,,,,,0
+NW_OR_009Block Card B-14,2,,2,,3,,,,1,,,,,
+NW_OR_009Block Card B-5,2,,2,0,3,,,2,1,,,,,0
+NW_OR_009Block Card W-1,2,,2,0,2,,,2,1,,,,,
+NW_OR_009Block Card W-2,2,,1,1,2,,,2,1,,,,,
+NW_OR_009Block Card B-3,2,,2,1,3,,,2,1,,,,,0
+NW_OR_009State,2,,2,1,3,,,2,1,,,,,0
+NW_OR_009Block Card L-7,2,,0,,3,,,4,1,,,,,
+NW_OR_009Block Card L-6,2,,0,1,3,,,0,0,,,,,0
+NW_OR_009Block Card B-16,2,,2,,1,,,4,1,,,,,
+NW_OR_009FMU - Eagle Cap,2,,2,,0,,,4,1,,,,,
+NW_OR_009Block Card B-10,2,,2,1,4,,,0,0,,,,,
+NW_OR_009Block Card W-17,2,,1,1,1,,,4,1,,,,,
+NW_OR_009Block Card B-7,2,,1,1,3,,,,,,,,,
+NW_OR_009Block Card W-7,2,,1,,2,,,4,1,,,,,
+NW_OR_009Block Card W-9,2,,1,,1,,,4,1,1,,,,
+NW_OR_009Block Card W-10,2,,2,0,0,,,1,1,,,,,
+NW_OR_009Block Card W-18,2,,1,,1,,,4,1,1,,,,
+NW_OR_009Block Card B-11,2,,2,,1,,,,,,,,,
+NW_OR_009Block Card L-5,2,,1,1,4,,,0,0,,,,,0
+NW_OR_010Wilderness,2,,1,,1,,,3,1,1,1,1,,
+NW_OR_010General Forest,2,,1,,2,,,1,1,,,,,
+NW_OR_011WUI type,2,0,2,2,5,,,,1,,,,,2
+NW_OR_011general forest type,2,,1,1,3,,,,0,,,,,1
+NW_WA_001San Juan NW001,2,,1,,2,,,,,,,,,1
+NW_WA_001Lewis NW001,2,,,,2,,,,,,,,,1
+NW_WA_001Olympic Crew NW001,2,,1,,3,,,0,0,,0,0,,0
+NW_WA_001Standard NW001,2,,1,,3,,,,0,0,0,0,,0
+NW_WA_002NZ SZ Protection,2,,1,,2,,,,,,,,,
+NW_WA_002NZ GF Revision 1,2,,1,,2,,,0,0,,1,2,,
+NW_WA_002SZ Wild Rev 1,2,,2,,1,,,2,1,,1,2,,
+NW_WA_002NZ SZ Protect Rev 1,2,,1,,2,,,,,,,,,
+NW_WA_002NZ Wild Rev 1,2,,2,,1,,,2,1,,1,2,,
+NW_WA_002SZ GF Revision 1,2,,1,,2,,,2,1,,0,0,,
+NW_WA_003Non-Wilderness,2,2,3,1,2,,,2,2,1,,,,1
+NW_WA_003ROLA Wilderness,2,2,0,,,,,4,1,,1,2,,
+NW_WA_003WEN-Wilderness,2,2,2,,,,,4,1,0,1,1,,
+NW_WA_003OKA-Wilderness,2,2,2,,,,,2,1,,1,2,,
+NW_WA_003Ste-Suppression,2,2,3,0,1,,,2,2,1,,,,1
+NW_WA_003RED Zone,2,2,0,,,,,4,2,,1,2,,
+NW_WA_007MHF_Wilderness S,2,1,4,,1,,,1,1,,1,4,,
+NW_WA_007MHF_Wilderness,2,1,4,,1,,,1,1,,1,4,,
+NW_WA_007MHF_Unit 4,2,0,2,0,2,,,1,1,,0,0,,0
+NW_WA_007GP_CV_North,2,0,2,0,2,,,1,1,,0,0,,1
+NW_WA_007MHF_Unit 1,2,0,2,0,2,,,0,0,,,,,1
+NW_WA_007MHF_Unit 2,2,0,2,0,2,,,1,1,,0,0,,0
+NW_WA_007MHF_Unit 3,2,0,2,0,2,,,1,1,,0,0,,1
+NW_WA_007Gorge East,2,0,2,1,4,,,1,1,,,,,2
+NW_WA_007MHF_Wilderness E,2,1,4,,1,,,1,1,,1,4,,
+NW_WA_007GP_MTA_East,2,0,2,0,2,,,0,0,,0,0,,1
+NW_WA_007YAA-SP,2,2,2,2,4,,,,,,,,,1
+NW_WA_007YAA-MC,2,2,2,2,4,,,,,,,,,1
+NW_WA_007YAA-HB,2,1,1,1,2,,,,,,,,,1
+NW_WA_007GP_MSH_West,2,0,2,0,2,,,1,1,,0,0,,0
+NW_WA_007GP_Wilderness,2,1,4,,1,,,0,1,,1,4,,0
+SA_AL_001BH_Primary,2,,1,1,1,,,,,,,,,
+SA_AL_001LIRI Canyon,2,,2,0,1,,,,,,,,,
+SA_AL_001Talladega_FWA,2,,1,1,1,,,,,,,,,
+SA_AL_001Dugger_Wild,2,,1,0,0,,,,,,,,,
+SA_AL_001HOBE,2,,1,0,1,,,,,,,,,
+SA_AL_001FWS,2,,1,2,1,,,,,,,,,
+SA_AL_001RUCA,2,,1,0,1,,,,,,,,,
+SA_AL_001Sipsey FWA,2,,1,0,1,,,,,,,,,
+SA_AL_001CON_Primary,2,,0,1,1,,,,,,,,,
+SA_AL_001Cheaha_Wild,2,,1,0,1,,,,,,,,,
+SA_AL_001SC_FWA,2,,0,1,1,,,,,,,,,
+SA_AL_001LIRI Upland,2,,1,0,1,,,,,,,,,
+SA_AL_001Tuskegee_FWA,2,,1,1,0,,,,,,,,,
+SA_AL_001Oakmulgee_FWA,2,,1,0,1,,,,,,,,,
+SW_AZ_001SCA EE,2,1,1,1,4,,,2,1,1,,,,1
+SW_AZ_001SCA Sonora,2,1,1,1,4,,,2,1,1,,,,1
+"SW_AZ_001NPS_SAP > 4,500'",2,,1,,,,,2,1,1,,,,
+SW_AZ_001Low Potential,2,1,1,,2,,,,,1,,,,1
+SW_AZ_001Moderate Potential,2,1,2,0,3,,,2,2,1,,,,2
+SW_AZ_001High Potential,2,1,2,1,4,,,2,2,1,,,,2
+SW_AZ_001SCA WUI,2,1,1,,4,,,2,1,1,,,,1
+RM_SD_002Mark Browning,2,,1,,6,,,,,0,,,,1
+RM_WY_002Esterbrook,2,,1,,1,,,,,,,,,
+RM_WY_002High Desert District,2,,1,,2,,,1,1,,,,,
+RM_WY_002Eastern Counties,2,,1,,1,,,1,1,,,,,
+RM_WY_002MBF_Snowy,2,,1,,1,,,,,,,,,
+RM_WY_002North Counties,2,,2,,5,,,1,1,,,,,
+RM_WY_002North Casper,2,,1,,1,,,1,1,,,,,
+NW_OR_003Wilderness,2,,2,,2,,,2,1,,2,4,,0
+NW_OR_003FS Protection,2,,1,0,2,,,1,1,,0,,,0
+NW_OR_003ODF Protection,2,0,1,0,3,0,0,0,1,0,0,0,0,0
+NW_OR_003Private/WUI,2,1,1,1,3,,,2,2,,,,,0
+CA_CA_014BDF Wilderness FMU,2,2,1,,6,,,1,2,,,,,
+CA_CA_014BIA Suppression FMU,2,2,2,,7,,,1,2,,,,,1
+CA_CA_014BDF Suppression FMU,2,2,2,,7,,,1,2,,,,,1
+CA_CA_014BLM CDD FMU's,2,2,2,,7,,,1,2,,,,,1
+CA_CA_014BDF Threat FMU,2,,1,,3,,,,,,,,,
+CA_CA_009OVICC 4,2,2,2,,3,,,2,1,1,,,,2
+CA_CA_004NPS WUI,2,1,1,0,4,0,0,1,1,0,0,0,0,1
+CA_CA_004Wilderness,2,1,1,0,5,0,0,1,1,0,1,6,0,0
+CA_CA_004Non DPA,2,1,1,1,6,0,0,1,1,0,0,0,0,1
+CA_CA_004USFS,2,1,1,1,5,0,0,1,1,0,0,0,0,1
+CA_CA_010BLM West Valley,2,2,2,2,4,,,2,2,1,,,,3
+CA_CA_010Wilderness,2,1,3,,3,,,2,2,1,,,,1
+CA_CA_010WUI,2,2,2,2,4,,,2,2,1,,,,2
+CA_CA_010Island,2,1,4,,1,,,4,4,,,,,
+CA_CA_012ANF Mutual Aid Resp,2,2,7,2,20,0,0,0,2,,,,,3
+CA_CA_012Standard ANF Resp,2,2,5,1,15,0,0,1,2,,,,,3
+CA_CA_012ANF Response Wilder,2,2,5,0,10,0,0,1,2,,,,,0
+GB_ID_002Non WUI Non Timber,2,,,1,3,,,2,2,,1,2,,1
+GB_ID_002WUI Timber,2,,1,1,4,,,2,2,,1,2,,1
+GB_ID_002Non-WUI timber,2,,,1,3,,,2,2,,1,2,,1
+GB_ID_002WFU logic,2,,1,,2,,,2,2,,1,2,,
+GB_ID_002WUI Non-Timber,2,,1,1,4,,,2,2,,1,2,,1
+GB_ID_003WFU,2,,1,,1,,,4,1,,2,20,,
+GB_ID_003Desert/Range,2,1,1,,2,,,4,1,1,1,4,,
+GB_ID_003Mountain,2,1,1,,1,,,4,1,1,1,8,,
+GB_NV_001Pine Forest S. East,2,,1,1,3,,,,,2,1,2,,1
+GB_NV_001I-80,2,1,1,1,4,,,,,2,1,2,,2
+GB_NV_001Elliott Wrencing,2,1,1,1,5,,,,,2,1,2,,2
+GB_NV_003Mt Rose Wilderness,2,0,1,,1,,,2,1,0,1,2,,
+GB_NV_003Carson River,2,1,1,1,5,,,1,1,2,0,0,,
+GB_NV_003Aurora no dozer,2,1,1,0,3,,,1,1,0,0,0,,
+GB_NV_003Carson River ND,2,1,1,0,5,,,1,1,2,0,0,,
+GB_NV_003Como,2,1,2,1,2,,,1,1,2,1,2,,
+GB_NV_003Churchill Ranges,2,1,2,1,3,,,1,1,2,1,3,,
+GB_NV_003Lyon Basin,2,1,1,1,2,,,2,1,1,1,1,,
+GB_NV_003Fish Springs,2,1,1,1,3,,,1,1,2,1,2,,
+GB_NV_003CCD SE ND,2,0,1,0,2,,,1,1,1,1,2,,
+GB_NV_003Churchill Basin,2,1,2,1,5,,,1,1,2,1,3,,
+GB_NV_003Reno/Sparks ND,2,1,1,0,7,,,1,1,2,0,0,,
+GB_NV_003Reno/Sparks,2,1,1,1,7,,,1,1,2,0,0,,
+GB_NV_003Bridgeport WUI,2,1,1,0,3,,,1,1,0,1,2,,
+GB_NV_003Fish Springs ND,2,1,1,0,3,,,1,1,2,1,2,,
+GB_NV_003CCD SE,2,0,1,1,2,,,1,1,1,1,2,,
+GB_NV_004Master,2,,,,4,,,,,1,1,4,,1
+GB_NV_004WUI,2,1,,1,5,,,,,1,,,,1
+GB_NV_004WFU/WSA,2,,,,2,,,,,0,0,0,,0
+GB_NV_006FWS Sensitive,2,1,1,,2,,,2,1,2,1,4,,1
+GB_NV_006Military Response,2,2,1,,3,,,2,1,1,,,,1
+GB_NV_006Grass WUI,2,2,2,,5,,,4,1,2,,,,1
+GB_NV_006Critical Tort,2,1,1,0,3,,,1,1,2,1,4,,1
+GB_NV_006High Juniper,2,1,2,,4,,,2,1,1,1,2,,1
+GB_UT_002SWT No Retardant,2,0,1,,2,,,1,1,2,2,2,,1
+GB_UT_002SWT Four,2,0,1,,2,,,1,1,2,2,2,,1
+GB_UT_004Low Risk,2,,1,,2,,,3,1,1,0,0,,1
+GB_UT_004Moderate Risk,2,0,1,,2,,,2,1,1,0,0,,1
+GB_UT_004High Risk,2,2,1,,2,,,3,1,2,1,1,,2
+GB_UT_005All Zones HIEL,2,0,2,,2,,0,4,1,1,1,3,,1
+GB_UT_005All Zones LOEL,2,1,2,,3,,,6,1,1,1,4,,2
+GB_WY_001WFU,2,,1,,1,,,2,1,,1,1,,
+GB_WY_001NZ Protection,2,,1,,2,,,2,1,,,,,
+GB_WY_001EZ Protection,2,,1,,2,,,2,1,,,,,
+GB_WY_001NZ BCR,2,,1,,2,,,2,1,,,,,
+GB_WY_001WZ BCR,2,,1,,2,,,2,1,,1,2,,
+GB_WY_001EZ BCR,2,,1,,2,,,2,1,,,,,
+GB_WY_001WZ Protection,2,,1,,2,,,2,1,,,,,
+NR_ID_001Roadless,2,1,3,,,,,4,3,4,2,6,,
+NR_ID_001General_response,2,1,2,1,3,,,3,2,4,1,3,,2
+NR_ID_001WUI,2,1,2,1,2,,,3,1,2,,,,2
+NR_ID_001Wilderness,2,0,3,,,,,4,4,4,2,4,,
+NR_MT_002FMU1/2,2,0,2,,2,,,0,0,,,,,0
+NR_MT_002FMU3,2,0,2,,2,,,0,0,,0,0,,
+NR_MT_002FMU4,2,0,2,,2,,,0,0,,0,0,,
+NR_MT_003FMU_WUI_Other,2,1,1,1,3,,,2,1,1,0,0,0,2
+NR_MT_003FMU_Wild,2,1,2,,2,,,1,1,,1,2,,
+NR_MT_003FMU2_RES,2,1,1,1,3,,,2,1,1,1,2,0,2
+NR_MT_004FMU1_WUI,2,1,2,1,4,,,2,1,1,0,0,,1
+NR_MT_004BIA_BFA,2,1,1,1,3,,,2,1,1,,,,1
+NR_MT_004FMU3,2,1,1,,2,,,2,1,1,1,3,,
+NR_MT_004FMU2,2,1,2,1,3,,,2,1,1,1,3,,1
+NR_MT_004FMU4_WFU,2,,2,,1,,,1,1,1,1,1,,1
+NR_MT_005Modified,2,1,3,,3,,,1,1,1,,,,
+NR_MT_005Limited Park,2,0,2,,2,,,2,2,0,1,8,,
+NR_MT_005Full,2,1,2,,4,,,1,1,1,1,4,,
+NR_MT_005North Modified,2,1,3,,3,,,1,1,1,,,,
+NR_MT_005Limited,2,1,1,,1,,,1,1,1,1,8,,
+NR_MT_006NR_MT_006_FMU2_Wild,2,,1,,,,,1,1,,1,1,,
+NR_MT_006NR_MT_006_FMU3,2,,1,,1,,,1,1,,,,,1
+NR_MT_006NR_MT_006_FMU1,2,1,2,,4,,,1,1,0,1,1,,1
+NR_MT_006NR_MT_006_FMU2,2,,2,,4,,,1,1,,1,1,,1
+NR_MT_006NR_MT_006_FMU3_Wild,2,,1,,0,,,1,1,,1,1,,
+"NR_MT_007DPA BLM (BO, SP)",2,1,1,,4,,,1,1,1,,,,1
+"NR_MT_007BRKS, LR",2,,1,,2,,,1,1,1,,,,1
+NR_MT_007VFD IA Response,2,,,2,6,,,,,1,,,,2
+"NR_MT_007PF, IR, MON",2,,,,4,,,1,1,1,,,,2
+NR_MT_007Rocky Boy,2,,,1,3,,,,,,,,,1
+NR_MT_007CMR,2,,,,6,,,0,1,1,,,,1
+NR_MT_007Fort Belknap,2,,,0,3,,,,,,,,,1
+NR_MT_001WUI,2,1,,,4,,,1,1,1,0,0,,1
+NR_MT_001Wilderness,2,,,,3,,,1,1,,1,2,,
+NR_MT_001BIA Non WUI,2,1,2,1,4,,,1,1,1,1,2,,1
+NR_MT_001Non WUI,2,1,,,5,,,1,1,1,,,,1
+NR_MT_001BIA WUI,2,1,1,1,4,,,1,1,2,,,,1
+NW_OR_002UPF GF LSR DL TL,2,1,4,1,4,,,2,1,,1,2,,1
+NW_OR_002UPF GF LSR CG NU,2,1,4,,3,,,2,1,,0,0,,1
+NW_OR_002UPF Wilderness,2,0,6,,2,,,2,1,,1,2,,
+NW_WA_008SPA Dispatch,2,1,0,1,2,0,0,1,1,1,0,0,0,1
+NW_WA_008COA 4 FMZ 1-2 4 Lev.,2,0,1,1,2,0,0,2,1,1,0,0,0,1
+SA_AR_001pcr general,2,1,,1,3,,,,1,,,,,1
+SA_AR_001GenFor IR AR01,2,,,0,2,,,,,,,,,0
+SA_AR_001GenFor IR AR02,2,,,2,2,,,,1,,,,,1
+SA_AR_001Wilderness IR,2,1,,0,3,,,,1,,,,,1
+SA_FL_001BICY Racoon Point,2,,,,2,,,1,1,0,,,,
+SA_FL_001BICY-THRT-DOZERS,2,,,1,2,,,1,1,0,,,,
+SA_FL_001EVER,2,,,,2,,,2,1,,,,,
+SA_FL_001FPR,2,,,1,2,,,0,1,,,,,0
+SA_FL_001LXR,2,,,,0,2,0,1,2,,,,,
+SA_FL_001NKR,2,,,,2,,,1,1,,,,,1
+SA_FL_001FLSEA Dispatch Log 1,2,,,1,1,,,,,,,,1,
+SA_FL_001JNR,2,,,,1,,,1,1,,,,,0
+SA_FL_002OKR_Uplands,2,,,0,1,,,0,1,,,,1,
+SA_FL_002FS_Wilderness,2,1,,,3,,,,1,,,,0,
+SA_FL_002FS_Mixed_Ownership,2,1,,,2,,,,1,,,,2,
+SA_FL_002FS_General_Forest,2,,,,2,,,,,,,,2,
+SA_FL_002OKR_Wilderness,2,,,0,2,,,0,1,,,,0,
+SA_FL_002FS_Pinhook,2,1,,,3,,,,1,,,,2,
+SA_FL_002NPS,2,,,0,2,,,0,0,,,,0,1
+SA_FL_002Cumberland_Island,2,,,0,2,,,0,0,,,,0,1
+SA_FL_003Non_Particpating,2,,,,,,,,,,,,1,
+SA_FL_003FS_Bombing_Range,2,1,,,2,,,,1,,,,,
+SA_FL_003FS_General_Forest,2,,,,2,,,,1,,,,1,
+SA_FL_003FS_Mixed_Ownership,2,,,,3,,,,1,,,,2,1
+SA_FL_003FS_Wilderrness,2,1,,,3,,,,1,,,,,1
+SA_FL_003FWS_LRR,2,,,,2,,,,1,,,,1,
+SA_FL_003FWS_LWR_Marsh,2,,,,1,,,,1,,,,,
+SA_FL_003FWS_LWR_Upland,2,,,,2,,,,1,,,,1,
+SA_FL_003FWS_MI_North,2,,,,3,,,,1,,,,1,
+SA_FL_003FWS_MI_South,2,,,,3,,,,1,,,,2,
+SA_FL_003FWS_ST_Johns,2,,,,2,,,,1,,,,1,
+SA_FL_003FWS_Threat,2,,,,1,,,,,,,,1,
+SA_FL_003NPS_Can_North,2,,,,3,,,,,,,,,
+SA_FL_003NPS_Can_South,2,,,,2,,,,,,,,,
+SA_FL_003FS_Artillery Range,2,,,,3,,,,1,,,,,
+SA_FL_004SVR_FMU_FWA,2,,,,1,,,,,,,,1,
+SA_FL_004EGR_FMU_FWA,2,,,,1,,,,,,,,,
+SA_FL_004FS_Threat,2,,,,2,,,,,,,,1,
+SA_FL_004FS_Military,2,,,,1,,,,1,,,,,
+SA_FL_004LSR_FMU_FWA_NORTH,2,,,,1,,,,,,,,1,
+SA_FL_004SMR_THT_FMU_FWA,2,,,,2,,,,,,,,1,
+SA_FL_004LSR_FMU_FWA_SOUTH,2,,,,1,,,,,,,,1,
+SA_FL_004SMR_FMU_SMR_EAST_FWA,2,,,,2,,,,,,,,1,
+SA_FL_004CHR_FMU_FWA,2,,,,1,,,,,,,,,
+SA_FL_004SMR_FMU_SMR_WEST_FWA,2,,,,2,,,,,,,,1,
+SA_FL_004FS_Mixed_Ownership,2,,,,2,,,,,,,,1,
+SA_FL_004FS_Wilderness,2,,,,1,,,,1,,,,,
+SA_FL_004FS_General_Forest,2,,,0,1,,,,,,,,1,
+SA_GA_001Oconee,2,,,1,1,,,0,1,,,,0,
+SA_GA_001Piedmont,2,,,0,1,,,0,0,,,,1,
+SA_KY_001Mammoth Cave,2,,,,1,,,,,,,,,
+SA_KY_001NPS CUGA,2,,,,1,,,,,,,,,
+SA_KY_001NPS BISO,2,,,,1,,,,,,,,,
+SA_KY_001FS Wilderness,2,,2,,1,,,,,,,,,
+SA_KY_001FS General,2,,2,1,1,,,,1,,,,,
+SA_KY_001FS LBL,2,,,0,2,,,,,,,,,
+SA_LA_001BBR1,2,,,,2,,1,,,,,,1,
+SA_LA_003NO-Plow_NO_Penetrat,2,,2,0,2,,,,1,,,,,
+SA_LA_003Kisatchie General,2,,1,1,1,,,,1,,,,,
+SA_LA_003No Entry,2,,0,0,1,,,,1,,,,,
+SA_LA_003FWSGEN,2,,,2,1,,,,,,,,,
+SA_LA_003Kisatchie Wilderness,2,,2,0,2,,,,1,,,,,
+SA_MD_001Dismal Logic,2,0,1,1,1,,,0,0,,,,0,0
+SA_MD_001FPU Initialization,2,0,1,1,2,,,0,0,,,,2,1
+SA_MS_001USFS Wilderness,2,,,0,1,,,,,,,,0,
+SA_MS_001USFS,2,,,1,1,,,,,,,,0,
+SA_MS_001FWS,2,,,2,2,,,,,,,,0,
+SA_MS_002Homochitto FWA,2,,,1,2,,,,,,,,0,
+SA_MS_002Bienville WA,2,,,1,2,,,,,,,,1,
+SA_MS_002Natchez FWA,2,,,1,1,,,,,,,,,
+SA_MS_002Tombigbee FWA,2,,,1,1,,,,,,,,1,
+SA_MS_002Noxubee,2,,,1,1,,,,,,,,,
+SA_MS_002Natchez Threat FWA,2,,,1,1,,,,,,,,,
+SA_MS_002Holly Springs FWA,2,,,1,2,,,,,,,,,
+SA_MS_002Natchez Trace FWA,2,,,,1,,,,,,,,,
+SA_NC_001Pee Dee,2,,,,1,,,,1,,,,2,
+SA_NC_001Carolina Sandhills,2,,,,3,,,,1,,,,2,
+SA_NC_001Birkhead Wilderness,2,,,0,2,,,,1,,,,,
+SA_NC_001Uwharrie WUI,2,,,1,3,,,,1,,,,,
+SA_NC_002FWS with helicopter,2,,,,2,,,,,,,,2,
+SA_NC_002Croatan,2,,,,1,,,,,,,,1,
+SA_NC_002Currituck aviation,2,,,,2,1,,,,,,,2,
+SA_NC_002Ocracoke,2,,,,3,,,,,,,,0,
+SA_NC_002Cape Hatteras,2,,,,2,,,,,,,,2,
+SA_NC_002Cape Lookout,2,,,,1,,1,,,,,,,
+SA_OK_001OUF WILDERNESS,2,,0,0,4,,,,0,,,,,0
+SA_OK_001fws dispatch,2,0,1,0,3,,,,1,,,,,1
+SA_OK_001Overall,2,,0,1,3,,,,1,,,,,1
+SA_OK_002overall,2,,,0,3,,,,,,,,,1
+SA_OK_002fws interest,2,0,,2,4,,,,,,,,,1
+SA_OK_003Overall,2,,,2,2,,,,,,,,,1
+SA_OK_005Fish and Wildlife,2,,,,4,,,,,,,,,2
+SA_PR_001Test,2,,,1,2,,,,0,,,,,
+SA_SC_001FS Wild,2,,,,2,,,,,,,,,
+SA_SC_001FWS_Mainland,2,,,1,2,,,,,,,,2,
+SA_SC_001FWS IS,2,,,1,2,,,,1,,,,1,
+SA_SC_001FWS Wild,2,,,,2,,,,1,,,,,
+SA_SC_001SRF,2,,,2,2,,,,1,,,,,
+SA_SC_001FS_FWA,2,,,2,2,,,,,,,,2,
+SA_SC_001NPS,2,,,,2,,,0,1,,,,,
+SA_TN_001Cherokee Wild North,2,,1,,1,,,,,,,,,
+SA_TN_001Appalachian MO,2,,1,1,1,,,,,,,,,
+SA_TN_001Chattahoochee NF,2,,1,2,2,,,,1,,,,,
+SA_TN_001Grandfather MO,2,,1,0,1,,,,,,,,,
+SA_TN_001Cherokee Disp. Logic,2,,2,1,3,,,,1,1,,,,
+SA_TN_001NPS BRP,2,,1,1,1,,,,,,,,,
+SA_TN_001NPS GSP,2,,,,1,,,,,,,,,
+SA_TN_001FS Wilderness,2,,2,,2,,,,1,,,,,
+SA_TN_001Nat Pisg MO,2,,1,0,1,,,,0,,,,,
+SA_TN_001Cherokee MO,2,,,1,1,,,,1,,,,,
+SA_TN_001Cherokee North MO,2,,0,1,2,,,,1,,,,,
+SA_TX_001LBJ,2,0,0,0,2,,,0,0,,,,,2
+SA_TX_002Balcones,2,0,0,0,2,0,0,0,0,0,0,0,0,1
+SA_TX_003FS_WILD,2,0,0,0,2,0,0,0,0,0,0,0,0,0
+SA_TX_003DCNF,2,0,0,1,2,0,0,0,0,0,0,0,0,0
+SA_TX_003BITH 2,2,0,0,1,2,0,0,0,0,0,0,0,0,0
+SA_TX_003TXACA-ENG Only,2,0,0,0,2,0,0,0,0,0,0,0,0,0
+SA_TX_003BITH,2,0,0,1,2,0,0,0,0,0,0,0,0,0
+SA_TX_004San 3,2,,,,2,,,,,,,,,
+SA_TX_004SanTHT,2,,,,2,,,,,,,,,
+SA_TX_004BrazoTHT,2,,,,2,,,,,,,,,
+SA_TX_004BBGTHT,2,,,,2,,,,,,,,,
+SA_TX_004SWLA,2,,,,1,,1,,,,,,,
+SA_TX_004Brazoria 04,2,,,,2,,,,,,,,,1
+SA_TX_004Brazoria05,2,,,,2,,,,,,,,,
+SA_TX_004BBG 001,2,,,,2,,,,,,,,,
+SA_TX_004San 2,2,,,,2,,,,,,,,,
+SA_TX_004AHR-MCR 5,2,,,,3,2,1,,,,,,,1
+SA_TX_005Matagorda,2,,,0,1,,,,,,,,0,
+SA_TX_005Padre Island,2,,,0,1,,,,,,,,0,
+SA_TX_005Santa Ana Staffing,2,,,0,1,,,,,,,,,1
+SA_TX_005Falcon Staffing,2,,,0,2,,,,,,,,,1
+SA_TX_005Palmview Staffing,2,,,0,1,,,,,,,,,1
+SA_TX_005Aransas,2,,,0,2,,,,,,,,0,
+SA_TX_005Laguna Staffing,2,,,0,1,,,,,,,,,1
+SA_VA_001Shen,2,,1,,2,,,,1,,,,,
+SA_VA_001MTTS,2,,1,,2,,,,1,,,,,
+SA_VA_001NCR,2,,1,,2,,,,1,,,,,
+SA_VA_001BLRI,2,,1,,2,,,,1,,,,,
+SA_VA_001FS Wilderness,2,,2,,2,,,,1,,,,,
+SA_VA_001FS,2,,0,1,2,,,,1,,,,,
+SA_VA_001Unassigned,2,,0,1,2,,,,1,,,,,
+SA_VA_001FS: 4,2,,0,0,2,,,,1,,,,,
+SA_VA_001SHEN: 4,2,,1,,2,,,,1,,,,,
+CA_CA_006.enf_urban1,2,0,2,1,5,,,1,1,0,,,,1
+CA_CA_006.blm_wui,2,0,2,1,5,,,1,1,0,,,,1
+CA_CA_006.tmu_wui,2,0,1,,3,,,1,1,0,,,,1
+CA_CA_006.tnf_wilderness,2,,1,,1,,,1,1,,,,,
+CA_CA_006.enf_wild,2,,1,,0,,,1,1,,,,,
+CA_CA_006.tnf_supp,2,1,1,0,3,,,1,1,0,,,,1
+CA_CA_006.tmu_wilderness,2,,1,,0,,,1,1,,,,,
+AK_AK_001Alaska Standard,2,2,1,0,3,0,0,2,1,1,1,8,0,1
+AK_AK_001Alaska Aerial Only,2,2,0,0,0,0,0,2,1,1,1,8,0,0
+AK_AK_001Alaska Southeast,2,0,2,0,2,0,0,3,1,0,0,0,0,1
+SW_AZ_002FM 1 Normal,2,,1,,3,,,2,1,1,,,,1
+SW_AZ_003WMAT_East,2,0,1,1,2,0,0,1,1,0,,,,1
+SW_AZ_003Clifton_RD,2,0,2,1,2,0,0,1,1,0,,,,0
+SW_AZ_003Springerville_RD,2,1,1,2,3,0,0,1,1,0,,,,1
+SW_AZ_003Black Mesa_RD,2,0,1,2,4,0,0,1,1,0,,,,1
+SW_AZ_003Alpine_RD,2,0,1,2,3,0,0,1,1,0,,,,1
+SW_AZ_003WMAT_West,2,0,0,0,2,0,0,1,1,1,,,,0
+SW_AZ_003Lakeside_RD,2,0,1,2,3,0,0,1,1,0,,,,1
+SW_AZ_004RIPARIAN BP ADJ,2,0,1,1,5,,1,0,0,0,,,,1
+SW_AZ_004UPLAND,2,0,0,0,3,,,0,0,0,,,,1
+SW_AZ_004WILDERNESS,2,0,1,0,2,,,0,1,1,,,,0
+SW_AZ_005Timber,2,,,1,2,,,2,1,,,,,1
+SW_AZ_005Grass-Brush-PJ,2,1,1,1,3,,,1,1,1,,,,1
+SW_AZ_005Mojave Desert,2,1,1,1,4,,,1,1,1,,,,1
+SW_AZ_005Wilderness and Park,2,,,,3,,,2,1,,,,,1
+SW_AZ_006desert,2,1,1,0,4,0,0,2,1,0,0,0,0,1
+SW_AZ_006timber,2,0,2,0,7,0,0,1,1,0,0,0,0,0
+SW_AZ_006wilderness,2,1,2,0,7,0,0,2,1,0,0,0,0,0
+SW_AZ_006brush,2,1,2,0,7,0,0,1,1,1,0,0,0,0
+SW_AZ_006riparian,2,0,1,0,2,0,0,0,0,0,0,0,0,0
+SW_NM_001Wilderness,2,0,1,0,2,,,2,2,,,,,
+SW_NM_001Farm-Jia Dispatch,2,,1,0,2,,,1,1,1,,,,2
+SW_NM_001Rattlesnake,2,,2,1,3,,,1,1,1,,,,2
+SW_NM_001East Carson_WUI,2,1,2,1,6,0,0,2,2,1,0,0,0,2
+SW_NM_002Non WUI,2,,1,0,5,,,1,1,,,,,1
+SW_NM_002Smokey Bear WUI,2,,1,1,6,,,1,1,,,,,1
+SW_NM_002WUI,2,,2,2,6,,,1,1,,,,,1
+SW_NM_003LCDO fils,2,,,,3,,,,,,,,,1
+SW_NM_004Wilderness,2,1,3,,0,,,5,1,,1,6,,
+SW_NM_004BLM Brush/Grass,2,,1,,3,,,2,1,0,0,0,,1
+SW_NM_004Timber,2,1,2,,2,,,8,1,,1,5,,1
+SW_NM_004WUI,2,1,1,1,2,,,2,2,,1,2,,2
+SW_NM_004PJ/Grass,2,1,2,1,3,,,1,2,,1,2,,1
+SW_NM_005Pondo,2,,1,,2,,,0,0,,,,,
+SW_NM_005PondoWUI,2,1,2,1,3,,,2,1,1,,,,2
+SW_NM_005ABQ,2,0,1,0,3,,,0,0,,,,,
+SW_NM_005BLM EAST,2,,1,0,2,,,,1,,,,,1
+SW_NM_005Socorro,2,,1,1,2,,,,,,,,,
+SW_NM_005BLM NPS,2,,1,0,3,,,,0,,,,,0
+SW_NM_005Bia North,2,0,1,0,3,,,,,,,,,
+SW_NM_007NAA-Grass,2,0,2,1,3,,,1,1,,,,,1
+SW_NM_007TCA-GRASS,2,0,1,1,3,,,1,1,0,0,0,0,1
+SW_NM_007KNF WUI-D1,2,0,0,0,2,,,0,0,,,,,1
+SW_NM_007TCA-Canyon,2,0,1,0,2,,,1,1,0,0,0,0,0
+SW_NM_007cof wilderness,2,0,1,0,2,,,0,0,0,0,0,0,0
+SW_NM_007cof nonwui,2,0,1,0,3,,,0,0,0,0,0,0,1
+SW_NM_007TCA-WUI,2,0,1,1,3,,,1,1,0,0,0,0,1
+SW_NM_007cof wui,2,0,1,0,3,,,0,0,0,0,0,0,1
+SW_NM_007NAA-TimberPJ,2,0,2,0,3,,,1,1,,,,,1
+SW_NM_007TCA-FOR,2,0,1,1,3,,,1,1,1,0,0,0,1
+SW_NM_007HOA-All FWA's,2,0,1,0,3,,,0,0,0,0,0,0,1
+SW_NM_007KNF Non WUI-D4,2,0,0,0,3,,,0,0,,,,,
+SW_NM_007KNF Non WUI-D1,2,0,0,0,3,,,0,0,,,,,1
+SW_NM_007KNF Wilderness,2,0,0,0,2,,,0,0,,,,,
+SW_NM_007GCP-Backcountry,2,0,0,0,3,0,0,2,1,0,0,0,0,1
+SW_NM_007PNF WUI,2,0,1,0,3,0,0,0,0,0,0,0,0,1
+SW_NM_007PNF Non-WUI,2,0,1,0,3,0,0,1,1,0,0,0,0,1
+SW_NM_007PNF Wilderness,2,0,1,0,2,0,0,1,1,0,0,0,0,0
+SW_NM_007GCP-WUI,2,0,0,0,2,0,0,1,1,0,0,0,0,1
+SW_TX_002fws interest,2,0,,0,3,,,,,,,,0,1
+SW_TX_002SW_TX_002_DispLog_1,2,,,,5,,,,,,,,,1
+SW_TX_002BLM_Sabinoso,2,,1,,,,,,,,,,,
+SW_TX_004WFU,2,,2,,3,,,,,,,,,1
+SW_TX_004AMR,2,,2,,3,,,,,,,,,1
+SW_TX_004Non_BIBE,2,,2,,3,,1,,,,,,,1
+CA_CA_013Handcrew,2,,2,,2,,,,1,,,,,0
+CA_CA_013Engine,2,,1,,2,,,,1,,,,,1
+NR_MT_010Lolo Limited Acc.,2,0,1,,2,,,2,1,,1,0,,
+NR_MT_010Lolo Developed,2,0,3,,4,,,2,1,,1,0,,
+NR_MT_010Lolo WUI,2,1,2,,5,,,2,1,,0,0,,
+NW_WA_005Juniper Wilderness,2,,,,3,,,,,1,,,,1
+NW_WA_005Basin 2,2,,,,3,,,,,,,,,1
+NR_MT_009ST LAA RAA,2,0,0,,5,,,1,1,0,0,0,,0
+NR_MT_009GNP MCD,2,,1,,1,,,,,,0,0,,
+NR_MT_009FNF DEV,2,,,0,1,,,1,1,,0,0,,
+NR_MT_009KNF RAA,2,0,2,1,4,,,1,1,0,1,1,,1
+NR_MT_009KNF LAA,2,0,1,,3,,,1,1,0,1,1,,0
+NR_MT_009ST DEV,2,0,0,0,5,,,1,1,0,0,0,,1
+NR_MT_009FNF LAA,2,,1,,1,,,1,1,,0,0,,
+NR_MT_009FNF RAA,2,,1,,1,,,1,1,,0,0,,
+NR_MT_009KNF DEV,2,0,2,1,4,,,1,1,1,0,0,,1
+NR_MT_009GNP LAA,2,,1,,1,,,1,1,0,0,0,,
+NR_MT_009GNP EAST,2,,1,,1,,,,,0,0,0,,
+GB_ID_001FAIRFIELD RESPONSE,2,,5,,3,,,,,,,,,
+GB_ID_001WILDERNESS RESPONSE,2,,,,2,,,5,1,,,,,
+GB_ID_001SNRA RESPONSE,2,,,,3,,,,,,,,,
+GB_ID_001STANDARD RESPONSE,2,,,1,6,,,10,1,1,,,,1
+GB_NV_002Char_HT_IR,2,1,1,0,4,0,0,2,2,0,1,3,0,0
+GB_NV_002Owy_FMU_IR,2,0,0,0,3,0,0,2,1,0,1,2,0,0
+GB_NV_002Wild_FMU_IR,2,0,1,0,3,0,0,4,2,0,1,4,0,0
+GB_NV_002Cort_FMU_IR,2,1,0,0,4,0,0,3,2,0,1,3,0,0
+GB_NV_002Ruby_RLR_IR,2,1,1,0,4,0,0,3,1,0,1,2,0,1
+GB_NV_002Gosh_FMU_IR,2,0,0,0,2,0,0,2,1,0,1,3,0,0
+GB_NV_002Tusc_FMU_IR,2,1,1,0,4,0,0,3,2,0,1,3,0,0
+GB_NV_002Del_FMU_IR,2,1,1,1,4,0,0,4,2,0,1,3,0,1
+GB_NV_002Owy_DVT_IR,2,0,1,0,3,0,0,0,0,0,1,2,0,0
+GB_NV_002Char_FMU_IR,2,1,1,0,4,0,0,2,2,0,1,4,0,0
+GB_NV_002Ruby_FMU_IR,2,1,1,1,5,0,0,4,2,0,1,3,0,0
+GB_NV_002Ruby_HT_IR,2,1,1,0,4,0,0,3,2,0,1,4,0,0
+GB_NV_002Char_Pri_Mix_IR,2,1,1,1,4,0,0,2,2,0,1,3,0,0
+GB_NV_005Park,2,,,0,3,,,1,1,1,1,3,,1
+GB_NV_005North 5,2,,,,2,,,1,1,,1,2,,
+GB_NV_005South 3,2,,,,3,,,1,1,1,1,3,,1
+GB_NV_005South 5,2,,,,2,,,1,1,,1,2,,
+GB_NV_005North 3,2,,,,3,,,1,1,1,1,3,,1
+NR_ND_001Missouri Logic Table,2,0,0,0,3,0,0,0,0,0,0,0,0,1
+NR_ND_001Badlands Logic Table,2,0,0,0,5,0,0,0,0,0,0,0,0,1
+GB_UT_001Park Service SWT,2,0,1,,1,,,1,1,0,0,0,,1
+GB_UT_001Richfield SWT,2,0,1,,4,,,1,1,1,1,1,,1
+GB_UT_001Filmore SWT,2,1,0,,3,,,1,1,1,0,0,,1
+GB_UT_001Teasdale SWT,2,1,1,,2,,,1,1,1,0,0,,1
+GB_UT_003Camp William,2,,,,0,,,,,,,,,
+GB_UT_003BLM Other,2,1,1,,2,,,1,1,2,,,,1
+GB_UT_003WUI_FS,2,1,1,,1,,,1,1,,,,,
+GB_UT_003Mountains,2,,1,,1,,,,1,,,,,
+GB_UT_003Wilderness SJ,2,,2,,2,,,1,1,,1,4,,
+GB_UT_003BLM_Bonne_Carring,2,1,1,,1,,,1,1,2,,,,
+GB_UT_003Desert 5,2,1,1,,1,,,1,1,1,,,,1
+GB_UT_003FS_West5 5,2,1,1,,2,,,1,1,2,1,4,,1
+GB_UT_003WUI_FS 5,2,1,1,,1,,,1,1,,,,,1
+GB_UT_003FS_West,2,1,1,,2,,,1,1,2,,,,1
+GB_UT_003Wilderness,2,,2,,2,,,1,1,,,,,
+GB_UT_003Desert,2,1,1,,1,,,1,1,1,,,,1
+GB_UT_003DOD_LAND,2,1,,,1,,,1,1,2,,,,
+NR_MT_011CSKT Wilderness,2,0,2,0,2,0,0,3,1,0,0,0,0,0
+NR_MT_011CSKT Developed,2,0,1,0,3,0,0,2,1,1,0,0,0,0
+NR_MT_011CSKT Limited Acc.,2,0,2,0,3,0,0,3,1,0,0,0,0,0
+NR_MT_011CSKT WUI,2,0,1,0,4,0,0,2,1,1,0,0,0,0
+CA_CA_008WUI_Lake_I_Threat,2,1,4,1,7,,,2,2,1,,,,2
+CA_CA_008Wilderness_Timber,2,,1,,1,,,2,1,,,,,
+CA_CA_008WUI_Timber,2,1,2,1,5,,,2,1,1,,,,1
+CA_CA_008General_Kaweah,2,,1,1,3,,,1,1,0,,,,1
+CA_CA_008Wilderness_Grass/Shr,2,,2,,3,,,3,2,,,,,
+CA_CA_008WUI_Grass/Shrub,2,1,4,1,6,,,2,2,1,,,,2
+CA_CA_008General _Timber,2,,1,1,3,,,1,1,1,,,,1
+CA_CA_008General_Grass/Shrub,2,,2,1,4,,,2,2,1,,,,2
+EA_IA_001CL-PC Changes,2,,,,1,,,,,,,,,1
+EA_IN_001Southeastern,2,,,,2,,,,,,,,,
+EA_IN_001Northern Indiana,2,,,,1,,,,,,,,,
+EA_IN_001Southwestern Indiana,2,,0,,2,,,,0,,,,,
+EA_MI_001WUI response,2,,,,2,,,,,,,,,
+EA_MI_001General response,2,,,,2,,,,,,,,,
+EA_MI_001wilderness response,2,,,,2,0,,,,,,,,
+EA_MI_002Huron,2,,,2,4,,,1,1,,,,,1
+EA_MI_002Manistee,2,,,2,4,,,1,1,,,,,
+EA_MN_001SUP-_Non_Blowdown,2,,1,,0,,1,1,1,,,,,
+EA_MN_001SUP-East -Blowdown,2,,1,,0,,1,1,1,,,,,
+EA_MN_001SUP_West-Blowdown,2,,,,1,,1,2,2,,,,,
+EA_MN_001Crane Medows,2,,,,3,,,,,,,,,
+EA_MN_001SUP_West-Ely,2,,,,2,,1,0,0,,1,1,,
+EA_MN_001SUP_West-Laurention,2,,,,2,,1,0,0,,,,,1
+EA_MN_001Fond Du Lac,2,,,,1,,,,,,,,,
+EA_MN_001SUP-East,2,,1,,2,,1,1,1,,,,,1
+EA_MN_001Chippewa,2,,,,2,,,,,,,,,2
+EA_MN_001Sherburne,2,,,,3,,,,1,,,,,1
+EA_MN_001BIA Woodland,2,,,,1,,,,,,,,,
+EA_MN_001Voygers,2,,1,,0,,1,1,1,,,,,
+EA_MN_001Rice Lake,2,,,,3,,,,,,,,,
+EA_MN_002FWS-SE,2,,,0,1,,,,0,,,,,
+EA_MN_002FWS_Morris,2,,,0,2,,,,0,,,,,
+EA_MN_002Red Lake,2,,,1,4,,,,1,,,,,2
+EA_MN_002White Earth,2,,,0,4,,,,0,,,,,2
+EA_MN_002FWS_Litchfield,2,,,0,3,,,,0,,,,,2
+EA_MN_002FWS_Fergus Fall,2,,,0,2,,,,0,,,,,
+EA_MN_002FWS-MNBND,2,,,0,2,,,,0,,,,,
+EA_MN_002Agassiz,2,,,1,3,,,,1,,,,,1
+EA_MN_002FWS_Windom,2,,,0,2,,,,0,,,,,
+EA_MN_002FWS-MNMVR,2,,,0,3,,,,0,,,,,
+EA_NJ_001NY Logic 5 FDL,2,,,,3,,,,1,,,,,0
+EA_NJ_001North NJ Logic 5 FDL,2,,0,,3,,,0,0,1,,,,1
+EA_NJ_001South NJ Logic 5 FDL,2,,,,3,,,,0,0,,,0,1
+RM_CO_007Deadman South,2,0,2,,3,,,,1,1,1,2,,1
+RM_CO_007Clear Creek,2,0,2,,3,,,,1,1,1,2,,1
+RM_CO_007Divide North,2,0,2,,3,,,,1,,1,2,,1
+RM_CO_007Boulder Flats South,2,0,2,,3,,,,1,1,1,2,,1
+RM_CO_007Big Thompson North,2,0,2,,3,,,,1,1,1,2,,1
+RM_CO_007Deadman North,2,0,2,,3,,,,1,1,1,2,,1
+RM_CO_007Sulphur North,2,0,2,,3,,,,1,,1,2,,1
+RM_CO_007Grasslands,2,0,1,,3,,,,1,,,,,1
+RM_CO_007Boulder Flats North,2,0,2,,3,,,,1,1,1,2,,1
+RM_CO_007Sulphur South,2,0,2,,3,,,,1,1,1,2,,1
+RM_CO_007Divide South,2,0,2,,3,,,,1,,1,2,,1
+RM_CO_007Big Thompson South,2,0,2,,3,,,,1,1,1,2,,1
+EA_OH_001WNF1,2,,1,,2,,,,,,,,,
+EA_OH_001Basic,2,,,,2,,,,,,,,,
+EA_PA_001Test,2,,,,2,,,,,,,,,
+EA_PA_001Allegheny,2,,,,2,,,,,,,,,
+EA_PA_001NPS,2,,,,2,,,,,,,,,0
+EA_PA_001FWS Erie,2,,,,2,,,,,,,,,0
+EA_WI_002NW FMU FWS,2,,,,1,,,,,,,,,0
+EA_WI_002So_FMU_BIA_W,2,,,,1,,,,,,,,1,1
+EA_WI_002So FMU FWS FWA,2,,,,1,,,,,,,,0,0
+EA_WI_002NW_FMU_BIA_E_FWA,2,,,,1,,,,,,,,1,1
+EA_WI_002NW_FMU_BIA_W_FWA,2,,,,1,,,,,,,,1,1
+GB_ID_004Critical,2,0,0,0,4,0,0,3,1,1,0,0,0,1
+GB_ID_004Urban Interface,2,1,0,0,4,0,0,3,1,1,0,0,0,1
+GB_ID_004Conditional,2,0,0,0,2,0,0,3,1,0,0,0,0,1
+RM_CO_002standard,2,1,1,1,3,,,1,1,1,,,,1
+RM_CO_002Minimum Impact,2,1,1,,3,,,1,1,1,,,,1
+RM_CO_003ENG 2nd at FDL2,2,,0,,2,,,1,1,,,,,
+RM_CO_003HELI+ENG at FDL1,2,,0,,2,,,1,1,,,,,0
+RM_CO_003MVP Area,2,,0,,2,,,1,1,,,,,1
+RM_CO_003Dolores North,2,,0,,2,,,0,0,,,,,
+RM_CO_003CRW 2nd at FDL2,2,,1,,1,,,1,1,,,,,
+RM_CO_003HELI+ENG FDL1 COL,2,,1,,1,,,1,1,,,,,0
+RM_CO_004General Forest,2,,2,,2,,,2,1,1,,,,1
+RM_CO_004WUI,2,1,2,,4,,,2,1,1,,,,1
+RM_CO_004WFU,2,,2,,2,,,2,1,,,,,1
+RM_CO_005Standard,2,,1,,2,,,6,1,1,1,4,,1
+RM_CO_005Douglas Pass,2,1,2,,3,,,6,1,2,1,8,,0
+RM_CO_005Interface,2,,1,,3,,,3,1,1,0,0,,1
+RM_CO_0052 eng low fil,2,,1,,2,,,3,1,1,1,2,,1
+RM_CO_005Routt,2,,2,,3,,,3,1,2,1,4,,1
+RM_CO_005DinoNPS,2,,2,,2,,,6,1,1,1,8,,0
+RM_CO_005WSA,2,,2,,1,,,6,1,0,1,8,,0
+RM_CO_006Standard,2,,,,1,,,1,1,1,1,1,,
+RM_CO_006Test2,2,2,3,,14,,,2,2,1,1,1,,2
+RM_CO_006WalkIns,2,1,1,,1,,,1,1,1,1,1,,1
+RM_CO_006pj_sig_3_level,2,,,,1,,,1,1,1,1,2,,
+RM_CO_008All BIA Ramp 2,2,0,1,0,4,,,2,1,1,,,,1
+RM_KS_001BI FM L 5 FDL,2,,,,6,,,,,,,,,0
+RM_NE_001Niobrara Suppress,2,,,,4,,,,,,,,,1
+RM_NE_001Bessey Suppress,2,,,,4,,,,,,,,,1
+RM_NE_001Crescent Suppress,2,,,,4,,,,,,,,,1
+RM_NE_001Suppression,2,,,,4,,,,,1,,,,1
+RM_NE_001NE State Suppress NW,2,,,,4,,,,,1,,,,
+RM_NE_001McKelvie Suppress,2,,,,4,,,,,,,,,1
+RM_NE_001ONG Suppression,2,,,,6,,,,,1,,,,1
+RM_NE_001Soldier Cr Suppress,2,,2,,6,,,,,1,,,,1
+RM_NE_001Valentine Suppress,2,,,,4,,,,,,,,,1
+RM_NE_001Agate Suppress,2,,,,4,,,,,1,,,,1
+RM_NE_001Scottsbluff Suppress,2,,2,,6,,,,,1,,,,1
+RM_NE_001North Platte Suppres,2,,,,4,,,,,1,,,,1
+RM_NE_001NE State Supp. Other,2,,,,4,,,,,1,,,,
+RM_SD_001Suppression,2,,2,,3,,,1,1,,,0,,1
+RM_SD_001Suppression_WIn,2,1,2,,3,,,1,1,1,,0,,1
+RM_SD_00301-24-12,2,,,,7,,,,,,,,,1
+EA_WI_001AIP_1,2,,,,,,2,,,,,,,
+EA_WI_001MTE_1,2,,,2,6,,,,,,,,,1
+EA_WI_001WDNR_1,2,,,2,8,,,,,,,,,2
+EA_WI_001Cheni,2,,,,4,,,0,1,,,,,
+EA_WI_001Cheni_2,2,,,,3,,,0,1,,,,,
+EA_IL_001Test 1,2,,,,2,,,,,,,,1,3
+EA_IL_001Southern FMU,2,,,0,2,,,,,,,,1,1
+EA_IL_001Midewin,2,,1,,2,,,,,,,,0,1
+NR_MT_008Northern Cheyenne BI,2,0,0,1,3,0,0,0,0,0,0,0,0,0
+NR_MT_008Options Run,2,0,0,1,2,0,0,2,1,2,1,2,0,1
+RM_CO_001Wilderness,2,,,,2,,,,,,,,,
+RM_CO_001FLENGTH_Suppression,2,1,1,,4,,,2,1,2,,,,2
+RM_CO_001ROS Suppression,2,1,1,,4,,,2,1,2,,,,2
+RM_WY_003Timber/Grass mix,2,,1,,3,,,1,1,,1,1,,0
+RM_WY_003Sage/Grass,2,,1,,3,,,1,1,,,,,0
+RM_WY_003Timber,2,,2,,3,,,1,1,,1,1,,0
+EA_MO_001Mark Twain,3,,3,1,2,,,2,1,,,,1,
+EA_NH_001FPU16 General Logic,3,,2,0,4,,,,1,,,,,0
+EA_WV_001MOF_all,3,,6,1,8,,,,1,,,,,
+EA_WV_001MOF_limited Eq use,3,,6,1,6,,,,1,,,,,
+EA_WV_001MOF_wilderness_CRV,3,,6,0,3,,,,1,,,,,
+EA_WV_001NPS all,3,,6,,8,,,,1,,,,,
+NW_WA_004TBR Dispatch,3,,1,,3,,,,1,1,0,,,1
+NW_WA_004COF Roaded,3,1,3,,3,,,3,1,2,,,,
+NW_WA_004COF WILD/Roadless,3,1,3,,3,,,3,1,2,1,3,,
+CA_CA_002Limited Access,3,3,3,0,5,0,0,2,2,0,2,10,0,1
+CA_CA_002LVNP Wilderness,3,1,1,0,3,0,0,1,1,0,1,2,0,0
+CA_CA_002LVNP General Forest,3,1,1,1,5,0,0,1,1,0,0,0,0,1
+CA_CA_002High Wilderness,3,2,4,0,4,0,0,2,2,0,2,10,0,0
+CA_CA_002General Forest/Range,3,2,4,2,6,0,0,1,2,0,0,0,0,2
+CA_CA_007High Elev NonWild,3,0,2,0,3,0,0,1,1,0,0,,,1
+CA_CA_007Other,3,1,2,1,4,0,0,1,1,0,0,,,1
+CA_CA_007Wilderness,3,0,2,0,0,0,0,1,1,0,0,,,0
+CA_CA_007WUI,3,3,3,2,6,0,0,1,2,0,0,,,2
+CA_CA_015CA FPU 15 WUI,3,2,4,3,25,0,0,2,2,4,0,0,0,3
+CA_CA_011WUI,3,3,4,2,10,,,3,3,4,,,,4
+CA_CA_011Other,3,3,3,2,8,,,3,3,4,0,0,,4
+CA_CA_011Wilderness,3,2,3,0,8,,,3,3,2,0,0,,4
+NW_OR_001Siuslaw North,3,1,,0,5,0,,0,1,,,,,1
+NW_OR_001Siuslaw South,3,1,,0,5,0,,,1,,,,,1
+NW_OR_001Forest Access 2,3,1,6,,3,,,,1,,0,0,,
+NW_OR_001Wilderness 2,3,,6,,2,,,0,1,,2,8,,
+NW_OR_001Northwest 2,3,0,,1,5,0,,0,0,,,,,1
+NW_OR_001Southwest 2,3,0,,1,5,0,,0,0,,,,,1
+NW_OR_004Wild Study Area,3,,1,0,3,,,,,,,,,1
+NW_OR_004WS WUI,3,,,1,2,,,1,1,,,,,1
+NW_OR_004WS Timber,3,,,,3,,,1,1,,,,,1
+NW_OR_004General Forest,3,1,2,1,5,,,3,1,,1,2,,1
+NW_OR_004WUI,3,1,2,1,3,,,,,,,,,1
+NW_OR_004Juniper Sage,3,1,1,,2,,,,,,,,,1
+NW_OR_004Wilderness,3,,2,,2,,,2,1,,1,2,,
+NW_OR_004WS ConditionUse,3,,,,2,,,,1,,,,,
+NW_OR_005H1-SP,3,2,4,2,5,,,3,2,1,,,,1
+NW_OR_005P1/P2,3,2,5,2,5,,,4,2,1,1,4,,1
+NW_OR_005NF-1/NF-1SP,3,1,4,2,5,,,4,1,1,,,,1
+NW_OR_005WW-1,3,2,5,,1,,,5,2,1,1,5,,
+NW_OR_005WildernessUMF,3,1,4,,2,,,3,2,1,1,4,,
+NW_OR_005PDT-1,3,1,3,2,7,,,2,1,1,,,,2
+NW_OR_005Mission WUI,3,1,2,1,8,,,0,1,1,,,,2
+NW_OR_005WW2/2A,3,2,5,2,4,,,3,2,1,1,4,,1
+NW_OR_006base2,3,1,1,1,4,,,4,1,1,,,,1
+NW_OR_006brown,3,1,1,1,4,,,4,1,1,,,,1
+NW_OR_006OE SMA,3,1,1,0,4,,,4,1,1,,,,1
+NW_OR_006base,3,1,1,1,4,,,4,1,1,,,,1
+NW_OR_006Ironside,3,1,1,1,4,,,4,1,2,,,,1
+NW_OR_007Silver,3,1,1,1,2,,,2,1,1,,,,1
+NW_OR_007Alvord North,3,,1,1,4,,,3,1,2,,,,1
+NW_OR_007Diamond,3,,,1,3,,,3,1,2,,,,1
+NW_OR_007Guano,3,,,1,4,,,2,1,1,,,,1
+NW_OR_007Thousand/Virgin,3,,,1,2,,,2,1,2,,,,1
+NW_OR_007Upper Malheur,3,,1,1,3,,,2,1,1,,,,1
+NW_OR_007Home Creek,3,,2,,2,,,5,1,1,1,3,,
+NW_OR_007Lakes,3,1,1,1,3,,,2,1,2,,,,1
+NW_OR_007Silvies,3,,1,1,3,,,3,1,1,,,,1
+NW_OR_007Snow Mountian North,3,1,1,1,3,,,3,1,1,1,3,,1
+NW_OR_007Snow Mountain South,3,,1,1,3,,,4,1,2,,,,1
+NW_OR_007Steens,3,,2,,2,,,4,1,2,1,3,,
+NW_OR_008Desert,3,1,1,0,5,,,1,1,1,0,0,,1
+NW_OR_008Timber Special,3,1,2,2,6,,,1,1,1,0,0,,1
+NW_OR_008Timber,3,0,1,1,6,,,1,1,1,1,2,,1
+NW_OR_008Timber West,3,1,1,1,6,,,1,1,1,0,0,,1
+NW_OR_008State and Private,3,1,1,3,6,,,2,2,1,0,0,,1
+CA_CA_005CA-CA-05,3,2,3,2,7,,,2,2,,2,2,,2
+CA_CA_005Bay Area Parks,3,2,3,2,6,,,2,2,,0,0,,2
+CA_CA_005Wilderness,3,3,3,0,6,,,2,2,,2,4,,2
+CA_CA_003Wilderness,3,0,2,0,4,,,1,1,,,,,0
+CA_CA_003General suppression,3,2,2,2,8,,,1,1,,,,,1
+CA_CA_003High resource values,3,3,3,2,8,,,1,1,1,,,,2
+CA_CA_003SW Wilderness,3,0,3,0,4,,,1,1,,1,8,,0
+CA_CA_001KNFnotWild,3,3,4,2,8,,,2,3,,2,16,,4
+CA_CA_001KNFWild,3,3,3,0,4,,,2,3,,2,16,,0
+CA_CA_001Other sensitive,3,2,2,,2,,,2,2,,0,0,,1
+CA_CA_001Wilderness,3,2,2,,0,,,14,2,,1,2,,0
+CA_CA_001SRFWild,3,3,2,,2,,,2,2,,2,16,,
+CA_CA_001WUI,3,3,4,2,6,,,14,2,,0,0,,2
+CA_CA_001SRFWUI_HIA_YIA,3,3,3,2,6,,,2,2,,1,4,,2
+CA_CA_001SRFGen,3,3,2,1,4,,,2,1,,,,,2
+CA_CA_001RWPALL,3,0,2,0,3,,,1,1,,,,,0
+NW_OR_009Block Card B-14,3,,2,,4,,,2,1,,,,,
+NW_OR_009Block Card B-5,3,1,3,1,4,,,2,1,,,,,0
+NW_OR_009Block Card W-1,3,1,2,1,2,,,4,2,1,,,,0
+NW_OR_009Block Card W-2,3,1,1,1,3,,,2,1,1,,,,0
+NW_OR_009Block Card B-3,3,1,3,1,4,,,2,1,,,,,0
+NW_OR_009State,3,1,2,1,4,,,2,1,1,,,,0
+NW_OR_009Block Card L-7,3,,2,,4,,,4,2,,,,,
+NW_OR_009Block Card L-6,3,1,2,1,4,,,0,1,,,,,0
+NW_OR_009Block Card B-16,3,1,4,,2,,,4,2,1,1,4,,
+NW_OR_009FMU - Eagle Cap,3,1,3,,0,,,4,2,,1,4,,
+NW_OR_009Block Card B-10,3,1,4,1,5,,,1,2,,,,,0
+NW_OR_009Block Card W-17,3,1,1,1,2,,,4,2,1,0,0,0,1
+NW_OR_009Block Card B-7,3,1,2,1,5,,,2,1,,1,2,,1
+NW_OR_009Block Card W-7,3,1,2,,3,,,4,2,,1,4,,
+NW_OR_009Block Card W-9,3,1,1,,2,,,4,2,2,1,4,,
+NW_OR_009Block Card W-10,3,1,4,0,0,,,2,4,,,,,0
+NW_OR_009Block Card W-18,3,1,2,,1,,,4,2,1,1,4,,
+NW_OR_009Block Card B-11,3,,2,,2,,,2,1,,,,,
+NW_OR_009Block Card L-5,3,1,2,2,5,,,0,1,2,,,,1
+NW_OR_010Wilderness,3,1,2,,2,,,8,1,1,1,2,,
+NW_OR_010General Forest,3,,2,,2,,,1,1,1,,,,1
+NW_OR_011WUI type,3,1,3,3,8,,,,1,,,,,3
+NW_OR_011general forest type,3,1,2,2,5,,,,1,,,,,2
+NW_WA_001San Juan NW001,3,,1,,3,,,,,,,,,1
+NW_WA_001Lewis NW001,3,,,,3,,,,,,,,,1
+NW_WA_001Olympic Crew NW001,3,,1,,3,,,0,1,,1,1,,0
+NW_WA_001Standard NW001,3,,1,,3,,,,1,0,1,1,,0
+NW_WA_002NZ SZ Protection,3,0,2,,3,,,,1,,,,,
+NW_WA_002NZ GF Revision 1,3,,2,,3,,,1,1,,1,3,,
+NW_WA_002SZ Wild Rev 1,3,,2,,1,,,3,1,,1,3,,
+NW_WA_002NZ SZ Protect Rev 1,3,0,2,,3,,,,1,,,,,
+NW_WA_002NZ Wild Rev 1,3,,2,,1,,,3,1,,1,3,,
+NW_WA_002SZ GF Revision 1,3,,2,,3,,,3,1,,1,1,,
+NW_WA_003Non-Wilderness,3,2,6,1,4,,,3,3,2,,,,1
+NW_WA_003ROLA Wilderness,3,2,0,,,,,6,2,,1,2,,
+NW_WA_003WEN-Wilderness,3,2,4,,,,,6,2,0,1,2,,
+NW_WA_003OKA-Wilderness,3,2,4,,,,,3,1,,1,2,,
+NW_WA_003Ste-Suppression,3,2,6,1,2,,,3,3,2,,,,1
+NW_WA_003RED Zone,3,2,0,,,,,6,3,,1,2,,
+NW_WA_007MHF_Wilderness S,3,1,6,,2,,,4,2,,1,8,,
+NW_WA_007MHF_Wilderness,3,1,6,,2,,,4,2,,1,8,,
+NW_WA_007MHF_Unit 4,3,1,3,1,3,,,1,1,,1,4,,1
+NW_WA_007GP_CV_North,3,1,3,1,3,,,1,1,,1,4,,1
+NW_WA_007MHF_Unit 1,3,1,3,1,4,,,1,1,,1,4,,1
+NW_WA_007MHF_Unit 2,3,1,3,1,3,,,1,1,,1,4,,1
+NW_WA_007MHF_Unit 3,3,1,3,1,4,,,1,1,,1,4,,1
+NW_WA_007Gorge East,3,1,8,2,8,,,2,2,,,,,3
+NW_WA_007MHF_Wilderness E,3,1,6,,2,,,4,2,,1,8,,
+NW_WA_007GP_MTA_East,3,1,3,1,4,,,1,1,,1,4,,1
+NW_WA_007YAA-SP,3,3,2,3,4,,,,,,1,4,,1
+NW_WA_007YAA-MC,3,3,2,3,4,,,,,,,0,,1
+NW_WA_007YAA-HB,3,1,1,1,2,,,,,,,,,1
+NW_WA_007GP_MSH_West,3,1,3,1,3,,,1,1,,1,4,,1
+NW_WA_007GP_Wilderness,3,1,6,1,2,,,1,1,,1,8,,0
+SA_AL_001BH_Primary,3,,2,2,2,,,,,,,,,
+SA_AL_001LIRI Canyon,3,0,3,0,1,,,,,,,,,
+SA_AL_001Talladega_FWA,3,,1,2,1,,,,,,,,,
+SA_AL_001Dugger_Wild,3,,1,0,1,,,,,,,,,
+SA_AL_001HOBE,3,,1,0,1,,,,,,,,,
+SA_AL_001FWS,3,,1,2,1,,,,,,,,,
+SA_AL_001RUCA,3,0,1,0,2,,,,,,,,,
+SA_AL_001Sipsey FWA,3,,1,0,1,,,,,,,,,
+SA_AL_001CON_Primary,3,,1,2,2,,,,,,,,,
+SA_AL_001Cheaha_Wild,3,,1,0,1,,,,,,,,,
+SA_AL_001SC_FWA,3,,1,1,2,,,,,,,,,
+SA_AL_001LIRI Upland,3,0,2,0,2,,,,,,,,,
+SA_AL_001Tuskegee_FWA,3,,1,2,1,,,,,,,,,
+SA_AL_001Oakmulgee_FWA,3,,1,1,1,,,,,,,,,
+SW_AZ_001SCA EE,3,2,2,2,6,,,4,2,2,,,,2
+SW_AZ_001SCA Sonora,3,2,2,2,5,,,4,2,2,,,,1
+"SW_AZ_001NPS_SAP > 4,500'",3,1,2,,,,,3,2,2,,,,
+SW_AZ_001Low Potential,3,1,1,,2,,,,,1,,,,1
+SW_AZ_001Moderate Potential,3,1,3,1,4,,,2,2,1,,,,3
+SW_AZ_001High Potential,3,2,3,2,6,,,2,2,1,,,,4
+SW_AZ_001SCA WUI,3,2,2,,6,,,4,2,2,,,,2
+RM_SD_002Mark Browning,3,,1,,6,,,,,1,,,,1
+RM_WY_002Esterbrook,3,,1,1,4,,,1,1,,,,,
+RM_WY_002High Desert District,3,1,1,0,4,,,1,1,1,,,,1
+RM_WY_002Eastern Counties,3,,1,0,3,,,1,1,,,,,1
+RM_WY_002MBF_Snowy,3,,1,1,2,,,1,1,,,,,
+RM_WY_002North Counties,3,1,2,1,7,,,2,2,1,,,,
+RM_WY_002North Casper,3,0,1,1,4,,,2,2,1,,,,
+NW_OR_003Wilderness,3,0,3,0,2,,,2,1,,2,4,,0
+NW_OR_003FS Protection,3,0,2,0,3,,,2,1,,2,4,,0
+NW_OR_003ODF Protection,3,0,2,1,4,0,0,0,2,0,0,0,0,0
+NW_OR_003Private/WUI,3,2,3,2,5,,,2,2,,,,,0
+CA_CA_014BDF Wilderness FMU,3,3,4,,6,,,2,4,,,,,
+CA_CA_014BIA Suppression FMU,3,3,4,1,11,1,,2,4,,,,,3
+CA_CA_014BDF Suppression FMU,3,3,4,1,11,1,,2,4,,,,,3
+CA_CA_014BLM CDD FMU's,3,3,4,1,11,1,,2,4,,,,,3
+CA_CA_014BDF Threat FMU,3,,2,,6,,,,,,,,,
+CA_CA_009OVICC 4,3,3,3,0,5,,,2,1,1,,,,2
+CA_CA_004NPS WUI,3,2,2,0,6,0,0,1,1,0,0,0,0,2
+CA_CA_004Wilderness,3,2,3,0,5,0,0,3,2,0,2,8,0,0
+CA_CA_004Non DPA,3,2,2,1,8,0,0,2,2,0,0,0,0,2
+CA_CA_004USFS,3,2,2,1,6,0,0,2,1,0,0,0,0,2
+CA_CA_010BLM West Valley,3,3,3,2,5,,,4,4,1,,,,4
+CA_CA_010Wilderness,3,2,4,,5,,,3,3,1,,,,2
+CA_CA_010WUI,3,3,4,2,5,,,4,4,1,,,,3
+CA_CA_010Island,3,2,5,,1,,,5,5,,,,,
+CA_CA_012ANF Mutual Aid Resp,3,2,7,2,20,0,0,0,2,,,,,3
+CA_CA_012Standard ANF Resp,3,2,5,1,15,0,0,1,2,,,,,3
+CA_CA_012ANF Response Wilder,3,2,5,0,10,0,0,1,2,,,,,0
+GB_ID_002Non WUI Non Timber,3,1,1,1,4,,,3,2,,1,3,,1
+GB_ID_002WUI Timber,3,1,1,2,5,,,4,3,,1,2,,1
+GB_ID_002Non-WUI timber,3,1,1,1,4,,,3,2,,1,3,,1
+GB_ID_002WFU logic,3,,1,,3,,,4,2,,1,2,,
+GB_ID_002WUI Non-Timber,3,1,1,2,5,,,4,3,,1,2,,1
+GB_ID_003WFU,3,,1,,1,,,8,2,,3,30,,
+GB_ID_003Desert/Range,3,1,1,,2,,,8,2,1,1,8,,
+GB_ID_003Mountain,3,1,2,,2,,,8,2,1,1,8,,
+GB_NV_001Pine Forest S. East,3,1,1,1,5,,,,,2,1,4,,2
+GB_NV_001I-80,3,2,2,1,6,,,,,2,1,4,,2
+GB_NV_001Elliott Wrencing,3,2,2,1,8,,,,,2,1,4,,2
+GB_NV_003Mt Rose Wilderness,3,0,2,,2,,,2,1,0,0,0,,
+GB_NV_003Carson River,3,2,2,1,7,,,2,1,2,0,0,,
+GB_NV_003Aurora no dozer,3,1,2,0,5,,,2,1,2,0,0,,
+GB_NV_003Carson River ND,3,2,2,0,7,,,2,1,2,0,0,,
+GB_NV_003Como,3,1,2,1,3,,,2,1,2,1,3,,
+GB_NV_003Churchill Ranges,3,2,3,1,5,,,2,1,2,1,4,,
+GB_NV_003Lyon Basin,3,1,2,1,5,,,2,1,2,1,2,,
+GB_NV_003Fish Springs,3,1,2,2,5,,,2,1,2,1,3,,
+GB_NV_003CCD SE ND,3,0,2,0,3,,,2,1,2,1,0,,
+GB_NV_003Churchill Basin,3,2,3,1,7,,,2,1,2,1,4,,
+GB_NV_003Reno/Sparks ND,3,2,1,0,9,,,2,1,2,0,0,,
+GB_NV_003Reno/Sparks,3,2,1,2,9,,,2,1,2,0,0,,
+GB_NV_003Bridgeport WUI,3,1,2,0,5,,,2,1,2,0,0,,
+GB_NV_003Fish Springs ND,3,1,2,0,5,,,2,1,2,0,0,,
+GB_NV_003CCD SE,3,0,2,1,3,,,2,1,2,1,3,,
+GB_NV_004Master,3,1,,,6,,,,,2,1,4,,1
+GB_NV_004WUI,3,3,,1,6,,,,,3,1,4,,2
+GB_NV_004WFU/WSA,3,,,,4,,,,,1,1,4,,0
+GB_NV_006FWS Sensitive,3,2,2,,4,,,3,1,2,1,8,,1
+GB_NV_006Military Response,3,2,2,,5,,,3,1,2,,,,1
+GB_NV_006Grass WUI,3,2,2,,6,,,6,1,2,,,,1
+GB_NV_006Critical Tort,3,2,2,0,5,,,3,1,2,1,4,,1
+GB_NV_006High Juniper,3,2,2,,6,,,3,1,2,1,4,,1
+GB_UT_002SWT No Retardant,3,0,2,,4,,,1,1,2,2,2,,1
+GB_UT_002SWT Four,3,1,2,,4,,,1,1,2,2,3,,1
+GB_UT_004Low Risk,3,1,1,,3,,,4,1,2,1,2,,2
+GB_UT_004Moderate Risk,3,1,2,,4,,,4,2,2,2,4,,2
+GB_UT_004High Risk,3,3,2,,4,,,4,2,3,1,2,,3
+GB_UT_005All Zones HIEL,3,1,2,,3,,,9,2,1,2,4,,2
+GB_UT_005All Zones LOEL,3,2,2,,4,,,9,1,1,2,6,,2
+GB_WY_001WFU,3,,2,,2,,,4,2,,1,3,,
+GB_WY_001NZ Protection,3,1,1,,3,,,4,2,,,,,1
+GB_WY_001EZ Protection,3,,1,,3,,,4,2,,,,,
+GB_WY_001NZ BCR,3,,1,,3,,,2,1,,1,1,,
+GB_WY_001WZ BCR,3,,2,,3,,,2,1,,1,4,,
+GB_WY_001EZ BCR,3,,1,,3,,,2,1,,1,1,,
+GB_WY_001WZ Protection,3,,1,,3,,,4,2,,,,,
+NR_ID_001Roadless,3,2,4,,,,,4,4,6,3,6,,
+NR_ID_001General_response,3,2,3,2,4,0,0,3,2,4,1,4,,2
+NR_ID_001WUI,3,1,2,1,4,,,3,2,3,,,,2
+NR_ID_001Wilderness,3,1,4,,,,,4,4,4,2,6,,
+NR_MT_002FMU1/2,3,0,3,,2,,,3,2,,0,0,,0
+NR_MT_002FMU3,3,0,3,,2,,,3,2,,1,3,,
+NR_MT_002FMU4,3,0,3,,2,,,3,2,,1,3,,
+NR_MT_003FMU_WUI_Other,3,1,2,1,4,,,2,2,2,1,2,0,3
+NR_MT_003FMU_Wild,3,1,3,,3,,,2,2,,1,3,,
+NR_MT_003FMU2_RES,3,1,2,1,4,,,3,2,1,1,3,0,3
+NR_MT_004FMU1_WUI,3,2,3,1,6,,,3,2,2,1,1,,3
+NR_MT_004BIA_BFA,3,1,2,1,5,,,2,1,1,0,,0,2
+NR_MT_004FMU3,3,2,2,,3,,,3,2,1,1,4,,1
+NR_MT_004FMU2,3,2,3,1,5,,,3,2,2,1,4,,2
+NR_MT_004FMU4_WFU,3,,3,,2,,,2,1,1,1,3,,1
+NR_MT_005Modified,3,1,3,,3,,,2,2,1,1,4,,
+NR_MT_005Limited Park,3,0,2,,4,,,3,3,0,1,8,,
+NR_MT_005Full,3,1,2,,4,,,2,2,2,1,8,,
+NR_MT_005North Modified,3,2,3,,3,,,2,2,2,1,4,,
+NR_MT_005Limited,3,1,2,,3,,,2,2,2,1,8,,
+NR_MT_006NR_MT_006_FMU2_Wild,3,,2,,,,,1,1,,1,1,,
+NR_MT_006NR_MT_006_FMU3,3,,2,,2,,,1,1,,,,,1
+NR_MT_006NR_MT_006_FMU1,3,1,4,1,5,,,1,2,0,2,2,,2
+NR_MT_006NR_MT_006_FMU2,3,1,4,,5,,,2,2,,2,2,,1
+NR_MT_006NR_MT_006_FMU3_Wild,3,,1,,0,,,1,1,,1,1,,
+"NR_MT_007DPA BLM (BO, SP)",3,2,1,,6,,,1,1,3,,,,2
+"NR_MT_007BRKS, LR",3,,1,1,4,,,1,1,3,,,,2
+NR_MT_007VFD IA Response,3,,,3,8,,,1,1,2,,,,3
+"NR_MT_007PF, IR, MON",3,1,,1,5,,,1,1,3,,,,3
+NR_MT_007Rocky Boy,3,,,1,5,,,,,,,,,1
+NR_MT_007CMR,3,,,,8,,,0,1,2,,,,2
+NR_MT_007Fort Belknap,3,,,0,5,,,,,,,,,1
+NR_MT_001WUI,3,1,,1,5,,,1,1,1,1,1,,1
+NR_MT_001Wilderness,3,1,1,,3,,,1,1,1,1,2,,
+NR_MT_001BIA Non WUI,3,1,2,1,6,,,1,1,1,1,2,,2
+NR_MT_001Non WUI,3,1,,1,5,,,1,1,1,,,,1
+NR_MT_001BIA WUI,3,2,2,1,6,,,1,1,2,,,,2
+NW_OR_002UPF GF LSR DL TL,3,1,6,1,6,,,4,1,,1,4,,1
+NW_OR_002UPF GF LSR CG NU,3,1,6,,5,,,4,1,,1,2,,1
+NW_OR_002UPF Wilderness,3,1,8,,3,,,4,1,,1,4,,
+NW_WA_008SPA Dispatch,3,2,0,2,2,0,0,1,1,2,0,0,0,1
+NW_WA_008COA 4 FMZ 1-2 4 Lev.,3,1,2,1,3,0,0,2,1,2,0,0,0,1
+SA_AR_001pcr general,3,1,,2,5,,,,1,,,,,1
+SA_AR_001GenFor IR AR01,3,1,,1,2,,,,,,,,,0
+SA_AR_001GenFor IR AR02,3,1,,3,4,,,,1,,,,,1
+SA_AR_001Wilderness IR,3,1,,0,5,,,,1,,,,,1
+SA_FL_001BICY Racoon Point,3,,,,3,,,2,1,1,,,,
+SA_FL_001BICY-THRT-DOZERS,3,,,2,3,,,2,1,1,,,,
+SA_FL_001EVER,3,,,,3,,,2,1,1,,,,
+SA_FL_001FPR,3,,,1,2,,,1,1,1,,,,0
+SA_FL_001LXR,3,,,,0,2,0,1,2,1,,,,
+SA_FL_001NKR,3,,,1,3,,,1,2,,,,,1
+SA_FL_001FLSEA Dispatch Log 1,3,,,2,2,,,,1,,,,1,
+SA_FL_001JNR,3,,,,2,,,1,1,,,,,0
+SA_FL_002OKR_Uplands,3,0,,0,1,,,0,1,,,,1,
+SA_FL_002FS_Wilderness,3,1,,,3,,,,1,,,,0,
+SA_FL_002FS_Mixed_Ownership,3,1,,,3,,,,1,,,,3,1
+SA_FL_002FS_General_Forest,3,1,,,3,,,,1,,,,3,
+SA_FL_002OKR_Wilderness,3,0,,0,2,,,0,1,,,,0,
+SA_FL_002FS_Pinhook,3,1,,,3,,,,1,,,,3,
+SA_FL_002NPS,3,0,,0,3,,,0,1,,,,0,1
+SA_FL_002Cumberland_Island,3,0,,0,2,,,0,1,,,,0,1
+SA_FL_003Non_Particpating,3,,,,,,,,,,,,2,
+SA_FL_003FS_Bombing_Range,3,1,,,2,,,,1,,,,,1
+SA_FL_003FS_General_Forest,3,,,,2,,,,1,,,,2,1
+SA_FL_003FS_Mixed_Ownership,3,1,,,4,,,,1,,,,3,1
+SA_FL_003FS_Wilderrness,3,2,,,4,,,,2,,,,,1
+SA_FL_003FWS_LRR,3,,,,3,,,,1,,,,2,
+SA_FL_003FWS_LWR_Marsh,3,,,,1,,,,1,,,,,
+SA_FL_003FWS_LWR_Upland,3,,,,3,,,,1,,,,1,
+SA_FL_003FWS_MI_North,3,,,,4,,,,1,,,,2,
+SA_FL_003FWS_MI_South,3,0,,,5,,,,1,,,,2,
+SA_FL_003FWS_ST_Johns,3,,,,3,,,,1,,,,2,
+SA_FL_003FWS_Threat,3,,,,2,,,,,,,,1,
+SA_FL_003NPS_Can_North,3,,,,4,,,,1,,,,1,
+SA_FL_003NPS_Can_South,3,,,,3,,,,1,,,,,
+SA_FL_003FS_Artillery Range,3,1,,,3,,,,2,,,,,1
+SA_FL_004SVR_FMU_FWA,3,,,,1,,,,0,,,,1,
+SA_FL_004EGR_FMU_FWA,3,,,,2,,,0,0,,,,,
+SA_FL_004FS_Threat,3,,,,2,,,0,1,,,,2,
+SA_FL_004FS_Military,3,,,,2,,,,1,,,,,
+SA_FL_004LSR_FMU_FWA_NORTH,3,,,,2,,,0,0,,,,1,
+SA_FL_004SMR_THT_FMU_FWA,3,,,,2,,,0,1,,,,2,
+SA_FL_004LSR_FMU_FWA_SOUTH,3,,,,2,,,,0,,,,1,
+SA_FL_004SMR_FMU_SMR_EAST_FWA,3,,,,2,,,,,,,,1,
+SA_FL_004CHR_FMU_FWA,3,,,,1,,,,,,,,,
+SA_FL_004SMR_FMU_SMR_WEST_FWA,3,,,,2,,,,,,,,2,
+SA_FL_004FS_Mixed_Ownership,3,,,,2,,,,1,,,,2,
+SA_FL_004FS_Wilderness,3,,,,2,,,,1,,,,,
+SA_FL_004FS_General_Forest,3,,,0,2,,,,1,,,,1,
+SA_GA_001Oconee,3,,,1,1,,,0,1,,,,0,
+SA_GA_001Piedmont,3,,,0,2,,,0,0,,,,1,
+SA_KY_001Mammoth Cave,3,,,,1,,,,,,,,,
+SA_KY_001NPS CUGA,3,,1,,2,,,,,,,,,
+SA_KY_001NPS BISO,3,1,,,2,,,,,,,,,
+SA_KY_001FS Wilderness,3,,2,,2,,,,,,,,,
+SA_KY_001FS General,3,1,2,1,2,,,,1,,,,,
+SA_KY_001FS LBL,3,,,0,2,,,,,,,,,
+SA_LA_001BBR1,3,,,,3,,2,,,,,,1,
+SA_LA_003NO-Plow_NO_Penetrat,3,,3,0,3,,,,1,,,,,
+SA_LA_003Kisatchie General,3,,2,2,3,,,,2,,,,,
+SA_LA_003No Entry,3,,0,0,1,,,,1,,,,,
+SA_LA_003FWSGEN,3,1,,3,4,,,0,1,,,,,
+SA_LA_003Kisatchie Wilderness,3,,3,0,3,,,,1,,,,,
+SA_MD_001Dismal Logic,3,0,2,1,2,,,0,1,0,,,1,0
+SA_MD_001FPU Initialization,3,0,1,2,3,,,0,1,,,,2,1
+SA_MS_001USFS Wilderness,3,,,0,2,,,1,1,,,,0,
+SA_MS_001USFS,3,,,2,2,,,1,1,,,,0,
+SA_MS_001FWS,3,,,2,3,,,,,,,,0,
+SA_MS_002Homochitto FWA,3,,,2,2,,,2,1,,,,1,
+SA_MS_002Bienville WA,3,,,2,2,,,2,1,,,,2,
+SA_MS_002Natchez FWA,3,,,1,1,,,,,,,,,0
+SA_MS_002Tombigbee FWA,3,,,2,2,,,2,1,,,,1,
+SA_MS_002Noxubee,3,,,2,2,,,2,1,,,,,1
+SA_MS_002Natchez Threat FWA,3,,,1,1,,,,,,,,,0
+SA_MS_002Holly Springs FWA,3,,,2,2,,,2,1,,,,,
+SA_MS_002Natchez Trace FWA,3,,,,1,,,,,,,,,
+SA_NC_001Pee Dee,3,,,,2,,,,1,,,,3,
+SA_NC_001Carolina Sandhills,3,,,,4,,,,1,,,,3,
+SA_NC_001Birkhead Wilderness,3,1,,0,3,,,,1,,,,,
+SA_NC_001Uwharrie WUI,3,1,,1,4,,,,1,,,,,
+SA_NC_002FWS with helicopter,3,,,,2,,,,,,,,2,
+SA_NC_002Croatan,3,,,,2,,,,,,,,2,
+SA_NC_002Currituck aviation,3,,,,2,1,,,,,,,2,
+SA_NC_002Ocracoke,3,,,,3,,,,,,,,0,
+SA_NC_002Cape Hatteras,3,,,,2,,,,,,,,2,
+SA_NC_002Cape Lookout,3,,,,2,,1,,,,,,,
+SA_OK_001OUF WILDERNESS,3,0,0,0,5,,,,0,,,,,0
+SA_OK_001fws dispatch,3,0,1,1,4,,,,1,,,,,1
+SA_OK_001Overall,3,1,1,2,4,,,,1,,,,,1
+SA_OK_002overall,3,,1,0,3,,,,,,,,,1
+SA_OK_002fws interest,3,0,1,4,5,,,,,,,,,1
+SA_OK_003Overall,3,,1,3,4,,,,,,,,,1
+SA_OK_005Fish and Wildlife,3,,,,5,,,,,,,,,2
+SA_PR_001Test,3,,,1,2,,,,0,,,,,
+SA_SC_001FS Wild,3,,,0,3,,,,2,,,,,
+SA_SC_001FWS_Mainland,3,,,2,3,,,,2,,,,3,
+SA_SC_001FWS IS,3,,,1,2,,,,2,,,,1,
+SA_SC_001FWS Wild,3,,,0,2,,,,2,,,,0,
+SA_SC_001SRF,3,,,3,3,,,,1,,,,,
+SA_SC_001FS_FWA,3,,,3,3,,,,2,,,,3,
+SA_SC_001NPS,3,,,,3,,,0,1,,,,,
+SA_TN_001Cherokee Wild North,3,0,1,0,2,,,,,,,,,
+SA_TN_001Appalachian MO,3,1,2,1,2,,,0,1,,,,,
+SA_TN_001Chattahoochee NF,3,,2,2,2,,,,1,,,,,
+SA_TN_001Grandfather MO,3,0,1,1,1,,,,0,,,,,
+SA_TN_001Cherokee Disp. Logic,3,1,2,2,4,,,,2,2,,,,
+SA_TN_001NPS BRP,3,,2,1,2,,,0,1,,,,,
+SA_TN_001NPS GSP,3,,,,2,,,,,,,,,
+SA_TN_001FS Wilderness,3,1,2,,2,,,,1,,,,,
+SA_TN_001Nat Pisg MO,3,,1,1,2,,,,1,,,,,
+SA_TN_001Cherokee MO,3,,1,1,2,,,,1,,,,,
+SA_TN_001Cherokee North MO,3,1,1,1,2,,,,1,,,,,
+SA_TX_001LBJ,3,0,0,1,2,,,0,1,,,,,2
+SA_TX_002Balcones,3,0,0,0,2,0,0,0,0,0,0,0,0,1
+SA_TX_003FS_WILD,3,0,0,0,3,0,0,0,1,0,0,0,0,0
+SA_TX_003DCNF,3,0,0,2,3,0,0,0,1,0,0,0,0,0
+SA_TX_003BITH 2,3,0,0,1,3,0,0,0,0,0,0,0,0,0
+SA_TX_003TXACA-ENG Only,3,0,0,0,3,0,0,0,0,0,0,0,0,0
+SA_TX_003BITH,3,0,0,1,3,0,0,0,0,0,0,0,0,0
+SA_TX_004San 3,3,,,,3,,,,1,,,,,1
+SA_TX_004SanTHT,3,,,,3,,,,1,,,,,1
+SA_TX_004BrazoTHT,3,,,,3,,,,1,,,,,1
+SA_TX_004BBGTHT,3,,,,3,,,,1,,,,,1
+SA_TX_004SWLA,3,,,,2,1,1,,,,,,,1
+SA_TX_004Brazoria 04,3,,,,3,,,,1,,,,,1
+SA_TX_004Brazoria05,3,,,,3,,,,1,,,,,1
+SA_TX_004BBG 001,3,,,,3,,,,1,,,,,1
+SA_TX_004San 2,3,,,,3,,,,1,,,,,1
+SA_TX_004AHR-MCR 5,3,,,,4,2,1,,,,,,,1
+SA_TX_005Matagorda,3,,,0,1,,,,,,,,0,
+SA_TX_005Padre Island,3,,,0,2,,,,,,,,0,
+SA_TX_005Santa Ana Staffing,3,,,1,2,,,,,0,,,,1
+SA_TX_005Falcon Staffing,3,,,1,3,,,,,0,,,,1
+SA_TX_005Palmview Staffing,3,,,1,2,,,,,0,,,,1
+SA_TX_005Aransas,3,,,1,3,,,,,,,,1,
+SA_TX_005Laguna Staffing,3,,,1,2,,,,,0,,0,,1
+SA_VA_001Shen,3,1,2,,3,,,,2,,,,,
+SA_VA_001MTTS,3,1,2,,3,,,,1,,,,,
+SA_VA_001NCR,3,0,2,,3,,,,1,,,,,
+SA_VA_001BLRI,3,1,2,,3,,,,1,,,,,
+SA_VA_001FS Wilderness,3,1,3,,3,,,,2,,,,,
+SA_VA_001FS,3,1,1,2,3,,,,2,,,,,
+SA_VA_001Unassigned,3,1,1,2,3,,,,2,,,,,
+SA_VA_001FS: 4,3,0,0,1,2,,,,1,,,,,
+SA_VA_001SHEN: 4,3,0,1,,3,,,,1,,,,,
+CA_CA_006.enf_urban1,3,2,4,2,8,,,2,2,0,,,,2
+CA_CA_006.blm_wui,3,2,4,2,8,,,2,2,0,,,,2
+CA_CA_006.tmu_wui,3,2,3,,8,,,1,1,0,,,,2
+CA_CA_006.tnf_wilderness,3,,1,,1,,,1,1,,,,,
+CA_CA_006.enf_wild,3,,1,,0,,,1,1,,,,,
+CA_CA_006.tnf_supp,3,2,1,1,5,,,1,1,0,,,,2
+CA_CA_006.tmu_wilderness,3,,1,,0,,,1,1,,,,,
+AK_AK_001Alaska Standard,3,2,2,0,5,0,0,3,2,2,2,12,0,1
+AK_AK_001Alaska Aerial Only,3,2,0,0,0,0,0,3,2,2,2,12,0,0
+AK_AK_001Alaska Southeast,3,0,2,0,3,0,0,6,2,0,0,0,0,1
+SW_AZ_002FM 1 Normal,3,,2,,6,,,2,1,1,,,,1
+SW_AZ_003WMAT_East,3,0,2,2,3,0,0,2,2,1,,,,1
+SW_AZ_003Clifton_RD,3,2,3,1,2,0,0,1,1,1,,,,1
+SW_AZ_003Springerville_RD,3,2,2,2,4,0,0,1,1,1,,,,1
+SW_AZ_003Black Mesa_RD,3,2,2,2,5,0,0,1,1,1,,,,1
+SW_AZ_003Alpine_RD,3,2,3,2,4,0,0,1,1,1,,,,1
+SW_AZ_003WMAT_West,3,0,2,2,3,0,0,2,2,1,,,,1
+SW_AZ_003Lakeside_RD,3,2,2,2,4,0,0,1,1,1,,,,1
+SW_AZ_004RIPARIAN BP ADJ,3,1,1,1,6,,2,1,1,1,,,,1
+SW_AZ_004UPLAND,3,0,1,0,4,,,0,0,0,,,,1
+SW_AZ_004WILDERNESS,3,0,1,0,3,,,0,1,1,,,,0
+SW_AZ_005Timber,3,,1,1,3,,,2,1,,,,,1
+SW_AZ_005Grass-Brush-PJ,3,1,1,2,4,,,2,2,2,,,,1
+SW_AZ_005Mojave Desert,3,2,1,1,5,,,2,2,1,1,1,,1
+SW_AZ_005Wilderness and Park,3,,1,1,4,,,2,1,,,,,1
+SW_AZ_006desert,3,1,2,0,9,0,0,3,1,1,0,0,0,1
+SW_AZ_006timber,3,1,3,0,9,0,0,1,1,1,0,0,0,1
+SW_AZ_006wilderness,3,1,3,0,9,0,0,3,1,0,0,0,0,0
+SW_AZ_006brush,3,2,3,0,9,0,0,1,1,1,0,0,0,1
+SW_AZ_006riparian,3,1,2,0,6,0,0,1,1,1,0,0,0,1
+SW_NM_001Wilderness,3,0,2,0,3,,,2,2,,,,,
+SW_NM_001Farm-Jia Dispatch,3,1,2,1,5,,,1,1,2,,,,3
+SW_NM_001Rattlesnake,3,1,2,1,5,,,1,2,2,,,,3
+SW_NM_001East Carson_WUI,3,1,2,1,6,0,0,2,2,1,0,0,0,2
+SW_NM_002Non WUI,3,0,2,1,7,,,1,1,1,1,2,,1
+SW_NM_002Smokey Bear WUI,3,2,2,1,10,,,1,1,1,4,1,,1
+SW_NM_002WUI,3,1,2,3,8,,,2,2,1,1,6,,1
+SW_NM_003LCDO fils,3,1,,,4,,,,,,,,,1
+SW_NM_004Wilderness,3,2,5,,0,,,6,2,,1,7,,0
+SW_NM_004BLM Brush/Grass,3,1,2,,4,,,3,2,1,0,0,,1
+SW_NM_004Timber,3,1,3,,3,,,10,2,,1,6,,2
+SW_NM_004WUI,3,2,2,1,3,,,3,3,,1,3,,2
+SW_NM_004PJ/Grass,3,2,3,1,4,,,2,3,,1,3,,1
+SW_NM_005Pondo,3,1,2,1,5,,,2,1,,,,,
+SW_NM_005PondoWUI,3,2,2,2,4,,,2,1,2,,,,2
+SW_NM_005ABQ,3,1,1,1,5,,,2,1,0,,,,
+SW_NM_005BLM EAST,3,1,1,0,3,,,,1,,,,,1
+SW_NM_005Socorro,3,1,2,1,4,,,2,1,,,,,1
+SW_NM_005BLM NPS,3,1,2,1,5,,,2,1,,,,,0
+SW_NM_005Bia North,3,1,1,1,4,,,1,1,0,,,,
+SW_NM_007NAA-Grass,3,1,2,1,4,,,2,1,,,,,1
+SW_NM_007TCA-GRASS,3,1,2,2,6,,,1,1,1,0,0,0,1
+SW_NM_007KNF WUI-D1,3,1,1,1,5,,,1,1,,,,,3
+SW_NM_007TCA-Canyon,3,1,1,0,3,,,2,1,1,0,0,0,1
+SW_NM_007cof wilderness,3,2,2,1,4,,,1,1,0,0,0,0,1
+SW_NM_007cof nonwui,3,2,1,0,5,,,1,1,0,0,0,0,3
+SW_NM_007TCA-WUI,3,1,2,2,6,,,2,1,1,0,0,0,1
+SW_NM_007cof wui,3,2,1,1,6,,,0,1,0,0,0,0,1
+SW_NM_007NAA-TimberPJ,3,1,2,1,4,,,2,1,,,,,1
+SW_NM_007TCA-FOR,3,1,2,2,6,,,2,1,1,0,0,0,1
+SW_NM_007HOA-All FWA's,3,0,3,1,8,,,1,1,1,0,0,0,1
+SW_NM_007KNF Non WUI-D4,3,0,0,0,5,,,0,0,,,,,
+SW_NM_007KNF Non WUI-D1,3,0,0,1,5,,,0,0,,,,,1
+SW_NM_007KNF Wilderness,3,0,0,0,2,,,0,0,,,,,
+SW_NM_007GCP-Backcountry,3,1,1,0,5,0,0,2,3,3,1,1,0,2
+SW_NM_007PNF WUI,3,1,2,1,7,0,0,1,1,2,0,0,0,3
+SW_NM_007PNF Non-WUI,3,1,2,0,5,0,0,1,1,1,0,0,0,1
+SW_NM_007PNF Wilderness,3,1,2,0,2,0,0,1,1,1,0,0,0,0
+SW_NM_007GCP-WUI,3,1,1,0,5,0,0,2,3,0,0,0,0,2
+SW_TX_002fws interest,3,0,,0,10,,,,,2,,,0,2
+SW_TX_002SW_TX_002_DispLog_1,3,,,0,10,,,,,2,,,1,2
+SW_TX_002BLM_Sabinoso,3,,1,,,,,,,,,,,
+SW_TX_004WFU,3,,3,,4,,,1,1,,,,,1
+SW_TX_004AMR,3,,3,,4,,,1,1,,,,,1
+SW_TX_004Non_BIBE,3,,3,,4,,1,1,1,,,,,1
+CA_CA_013Handcrew,3,,2,,2,,,,2,,,,,0
+CA_CA_013Engine,3,,2,,3,,,,2,,,,,1
+NR_MT_010Lolo Limited Acc.,3,1,2,0,3,,,3,2,1,1,3,,0
+NR_MT_010Lolo Developed,3,1,4,0,6,,,3,2,1,1,3,,0
+NR_MT_010Lolo WUI,3,2,4,1,7,,,4,2,1,0,0,,0
+NW_WA_005Juniper Wilderness,3,1,1,0,4,,,,1,1,,,,1
+NW_WA_005Basin 2,3,,,1,4,,,,,1,,,,1
+NR_MT_009ST LAA RAA,3,0,0,0,7,,,1,1,1,1,1,,1
+NR_MT_009GNP MCD,3,,2,,2,,,0,0,,0,0,,
+NR_MT_009FNF DEV,3,1,1,0,2,,,1,1,,0,0,,1
+NR_MT_009KNF RAA,3,2,2,1,5,,,1,1,1,1,1,,2
+NR_MT_009KNF LAA,3,0,2,0,4,,,1,1,0,2,2,,0
+NR_MT_009ST DEV,3,0,0,1,7,,,1,1,0,0,0,,1
+NR_MT_009FNF LAA,3,0,2,,1,,,1,1,,0,0,,1
+NR_MT_009FNF RAA,3,0,2,0,1,,,1,1,,0,0,,1
+NR_MT_009KNF DEV,3,1,3,2,5,,,1,1,1,1,1,,2
+NR_MT_009GNP LAA,3,0,1,,1,,,1,2,0,0,0,,
+NR_MT_009GNP EAST,3,1,1,,2,,,1,1,0,0,0,,
+GB_ID_001FAIRFIELD RESPONSE,3,,5,,4,,,5,1,1,,,,
+GB_ID_001WILDERNESS RESPONSE,3,,,,4,,,5,1,1,,,,
+GB_ID_001SNRA RESPONSE,3,,,,4,,,5,1,2,,,,
+GB_ID_001STANDARD RESPONSE,3,,,1,6,,,10,1,2,,,,2
+GB_NV_002Char_HT_IR,3,1,2,1,5,0,0,4,2,1,1,4,0,1
+GB_NV_002Owy_FMU_IR,3,1,1,1,4,0,0,4,1,1,1,4,0,1
+GB_NV_002Wild_FMU_IR,3,1,1,0,4,0,0,5,2,0,1,5,0,0
+GB_NV_002Cort_FMU_IR,3,1,1,1,5,0,0,4,2,1,1,4,0,1
+GB_NV_002Ruby_RLR_IR,3,1,1,1,5,0,0,4,1,1,1,4,0,1
+GB_NV_002Gosh_FMU_IR,3,1,1,1,3,0,0,4,1,1,1,4,0,1
+GB_NV_002Tusc_FMU_IR,3,1,1,1,5,0,0,4,2,1,1,4,0,1
+GB_NV_002Del_FMU_IR,3,2,1,1,5,0,0,5,2,1,1,4,0,1
+GB_NV_002Owy_DVT_IR,3,1,1,1,4,0,0,0,0,0,1,3,0,1
+GB_NV_002Char_FMU_IR,3,1,1,1,5,0,0,3,2,1,1,5,0,1
+GB_NV_002Ruby_FMU_IR,3,1,1,1,6,0,0,6,2,1,1,4,0,1
+GB_NV_002Ruby_HT_IR,3,1,1,1,5,0,0,4,2,1,1,5,0,1
+GB_NV_002Char_Pri_Mix_IR,3,1,2,1,5,0,0,4,2,1,1,4,0,1
+GB_NV_005Park,3,,1,0,4,,,1,1,2,1,5,,1
+GB_NV_005North 5,3,,0,,3,,,1,1,1,1,3,,1
+GB_NV_005South 3,3,1,1,,4,,,1,1,2,1,5,,1
+GB_NV_005South 5,3,,,,3,,,1,1,1,1,3,,1
+GB_NV_005North 3,3,,1,1,4,,,1,1,2,1,5,,1
+NR_ND_001Missouri Logic Table,3,0,0,1,5,0,0,0,0,1,0,0,0,1
+NR_ND_001Badlands Logic Table,3,0,0,1,7,0,0,0,0,0,0,0,0,1
+GB_UT_001Park Service SWT,3,0,2,,1,,,1,1,1,1,2,,1
+GB_UT_001Richfield SWT,3,1,2,,7,,,2,2,2,1,2,,1
+GB_UT_001Filmore SWT,3,1,0,,6,,,1,1,2,1,2,,1
+GB_UT_001Teasdale SWT,3,1,2,,4,,,1,2,2,1,2,,1
+GB_UT_003Camp William,3,0,,,1,,,,0,0,,,,0
+GB_UT_003BLM Other,3,1,1,,2,,,1,1,2,,,,1
+GB_UT_003WUI_FS,3,1,1,,2,,,1,1,2,,,,0
+GB_UT_003Mountains,3,1,1,,2,,,,1,2,,,,0
+GB_UT_003Wilderness SJ,3,0,3,,3,,,1,2,0,1,4,,0
+GB_UT_003BLM_Bonne_Carring,3,1,1,,1,,,1,1,2,,,,0
+GB_UT_003Desert 5,3,1,1,,2,,,1,1,1,,,,1
+GB_UT_003FS_West5 5,3,1,2,,3,,,1,1,2,1,4,,1
+GB_UT_003WUI_FS 5,3,1,1,,2,,,1,1,2,,,,1
+GB_UT_003FS_West,3,1,2,,3,,,1,1,2,,,,1
+GB_UT_003Wilderness,3,0,3,,3,,,1,2,0,,,,0
+GB_UT_003Desert,3,1,1,,2,,,1,1,1,,,,1
+GB_UT_003DOD_LAND,3,1,,,1,,,1,1,2,,,,0
+NR_MT_011CSKT Wilderness,3,0,2,0,2,0,0,4,1,1,0,0,0,0
+NR_MT_011CSKT Developed,3,1,2,1,4,0,0,3,1,1,0,0,0,0
+NR_MT_011CSKT Limited Acc.,3,0,2,0,4,0,0,4,1,1,0,0,0,0
+NR_MT_011CSKT WUI,3,1,1,1,9,0,0,4,1,1,0,0,0,0
+CA_CA_008WUI_Lake_I_Threat,3,2,6,1,9,,,4,3,1,,,,2
+CA_CA_008Wilderness_Timber,3,,2,,2,,,2,1,,,,,
+CA_CA_008WUI_Timber,3,2,4,1,7,,,4,2,1,,,,2
+CA_CA_008General_Kaweah,3,2,2,1,5,,,2,2,0,,,,1
+CA_CA_008Wilderness_Grass/Shr,3,,3,,4,,,4,2,,,,,
+CA_CA_008WUI_Grass/Shrub,3,2,6,1,8,,,4,2,1,,,,2
+CA_CA_008General _Timber,3,2,2,1,5,,,2,2,1,,,,1
+CA_CA_008General_Grass/Shrub,3,2,3,1,6,,,3,2,1,,,,2
+EA_IA_001CL-PC Changes,3,0,0,,2,,,,,,,,,1
+EA_IN_001Southeastern,3,,,,2,,,,,,,,,
+EA_IN_001Northern Indiana,3,,,,2,,,,,,,,,
+EA_IN_001Southwestern Indiana,3,,0,,4,,,6,1,,,0,,2
+EA_MI_001WUI response,3,,,1,3,1,,,,,,,,
+EA_MI_001General response,3,,,1,3,1,,,,,,,,
+EA_MI_001wilderness response,3,,,0,2,0,,,,,,,,
+EA_MI_002Huron,3,,,3,6,,,1,1,,,,,1
+EA_MI_002Manistee,3,,,3,8,,,1,1,,,,,
+EA_MN_001SUP-_Non_Blowdown,3,,1,,0,,1,2,2,2,,,,
+EA_MN_001SUP-East -Blowdown,3,,1,,0,,1,2,2,2,,,,
+EA_MN_001SUP_West-Blowdown,3,,1,,2,,1,3,3,1,,,,
+EA_MN_001Crane Medows,3,,,,4,,,,1,,,,,
+EA_MN_001SUP_West-Ely,3,,0,,3,,1,2,2,0,1,1,,
+EA_MN_001SUP_West-Laurention,3,,0,,3,,1,2,2,0,,,,1
+EA_MN_001Fond Du Lac,3,,0,,1,,,,,,,,,
+EA_MN_001SUP-East,3,,1,,3,,1,2,2,,,,,1
+EA_MN_001Chippewa,3,,1,,4,,,,,1,,,,2
+EA_MN_001Sherburne,3,,,,4,,,,2,1,,,,1
+EA_MN_001BIA Woodland,3,,0,,2,,,,,,,,,
+EA_MN_001Voygers,3,,1,,0,,1,2,2,1,,,,
+EA_MN_001Rice Lake,3,,,,4,,,,1,,,,,
+EA_MN_002FWS-SE,3,,,0,2,,,,0,0,,,,
+EA_MN_002FWS_Morris,3,,,0,4,,,,0,0,,,,
+EA_MN_002Red Lake,3,,,1,5,,,,1,1,,,,2
+EA_MN_002White Earth,3,,,0,6,,,,0,0,,,,2
+EA_MN_002FWS_Litchfield,3,,,0,4,,,,0,0,,,,2
+EA_MN_002FWS_Fergus Fall,3,,,0,4,,,,0,0,,,,
+EA_MN_002FWS-MNBND,3,,,0,4,,,,0,0,,,,
+EA_MN_002Agassiz,3,,,1,4,,,,1,1,,,,2
+EA_MN_002FWS_Windom,3,,,0,3,,,,0,0,,,,
+EA_MN_002FWS-MNMVR,3,,,0,4,,,,0,0,,,,
+EA_NJ_001NY Logic 5 FDL,3,,,,6,,,,1,,,,,1
+EA_NJ_001North NJ Logic 5 FDL,3,,1,0,4,,,0,1,1,,,,1
+EA_NJ_001South NJ Logic 5 FDL,3,,,,6,,,,1,1,,,1,1
+RM_CO_007Deadman South,3,0,3,,4,,,,1,1,1,3,,2
+RM_CO_007Clear Creek,3,0,3,,4,,,,1,1,1,3,,2
+RM_CO_007Divide North,3,0,3,,4,,,,1,1,1,3,,2
+RM_CO_007Boulder Flats South,3,0,3,,4,,,,1,1,1,3,,2
+RM_CO_007Big Thompson North,3,0,3,,4,,,,1,1,1,3,,2
+RM_CO_007Deadman North,3,0,3,,4,,,,1,1,1,3,,2
+RM_CO_007Sulphur North,3,0,3,,4,,,,1,1,1,3,,2
+RM_CO_007Grasslands,3,0,2,,4,,,,1,,,,,2
+RM_CO_007Boulder Flats North,3,0,3,,4,,,,1,1,1,3,,2
+RM_CO_007Sulphur South,3,0,3,,4,,,,1,1,1,3,,2
+RM_CO_007Divide South,3,0,3,,4,,,,1,1,1,3,,2
+RM_CO_007Big Thompson South,3,0,3,,4,,,,1,1,1,3,,2
+EA_OH_001WNF1,3,,1,0,3,,,,,,,,,
+EA_OH_001Basic,3,,1,,3,,,,,,,,,
+EA_PA_001Test,3,,,,4,,,,,,,,,
+EA_PA_001Allegheny,3,,2,,4,,,,,1,,,,
+EA_PA_001NPS,3,,,,4,,,,,,,,,1
+EA_PA_001FWS Erie,3,,,,4,,,,,1,,,,1
+EA_WI_002NW FMU FWS,3,,,,2,,,,,,,,1,1
+EA_WI_002So_FMU_BIA_W,3,,,,2,,,,,,,,1,1
+EA_WI_002So FMU FWS FWA,3,,,,1,,,,,,,,1,1
+EA_WI_002NW_FMU_BIA_E_FWA,3,,,,2,,,,,,,,1,1
+EA_WI_002NW_FMU_BIA_W_FWA,3,,,,2,,,,,,,,1,1
+GB_ID_004Critical,3,1,1,1,5,0,0,3,1,1,0,0,0,1
+GB_ID_004Urban Interface,3,1,1,1,5,0,0,3,1,1,0,0,0,1
+GB_ID_004Conditional,3,0,1,1,3,0,0,3,1,1,0,0,0,1
+RM_CO_002standard,3,1,1,2,3,,,1,1,1,,,,1
+RM_CO_002Minimum Impact,3,1,1,0,3,,,1,1,1,,,,1
+RM_CO_003ENG 2nd at FDL2,3,,1,,3,,,1,1,1,,,,
+RM_CO_003HELI+ENG at FDL1,3,,1,,3,,,1,1,1,,,,0
+RM_CO_003MVP Area,3,,1,,3,,,1,1,1,,,,1
+RM_CO_003Dolores North,3,,1,,3,,,1,1,1,,,,
+RM_CO_003CRW 2nd at FDL2,3,,2,,2,,,1,1,1,,,,
+RM_CO_003HELI+ENG FDL1 COL,3,,2,,2,,,1,1,1,,,,0
+RM_CO_004General Forest,3,1,3,,4,,,2,1,1,,,,1
+RM_CO_004WUI,3,1,3,,6,,,2,1,1,,,,2
+RM_CO_004WFU,3,1,3,,3,,,2,1,,,,,1
+RM_CO_005Standard,3,1,3,,4,,0,6,1,2,1,8,,1
+RM_CO_005Douglas Pass,3,1,3,,3,,0,6,1,2,2,12,,0
+RM_CO_005Interface,3,1,3,,5,,0,6,1,2,0,0,,2
+RM_CO_0052 eng low fil,3,1,3,,4,,0,6,1,2,2,4,,1
+RM_CO_005Routt,3,1,4,,4,,0,6,1,2,1,8,,1
+RM_CO_005DinoNPS,3,1,3,,3,,0,6,2,2,2,12,,0
+RM_CO_005WSA,3,0,3,,2,,0,6,1,0,2,12,,0
+RM_CO_006Standard,3,1,1,,2,,,1,1,1,1,2,,1
+RM_CO_006Test2,3,2,4,,16,,,3,3,3,2,2,,3
+RM_CO_006WalkIns,3,1,1,,1,,,1,1,1,1,2,,1
+RM_CO_006pj_sig_3_level,3,1,1,,2,,,1,1,1,1,3,,1
+RM_CO_008All BIA Ramp 2,3,1,1,1,6,,,2,1,1,,,,1
+RM_KS_001BI FM L 5 FDL,3,,,,6,,,,,,,,,1
+RM_NE_001Niobrara Suppress,3,,,,8,,,,,,,,,1
+RM_NE_001Bessey Suppress,3,,1,,8,,,,,,,,,1
+RM_NE_001Crescent Suppress,3,,,,8,,,,,,,,,1
+RM_NE_001Suppression,3,,1,,8,,,,,1,,,,1
+RM_NE_001NE State Suppress NW,3,,,,4,,,,,1,,,,
+RM_NE_001McKelvie Suppress,3,,1,,8,,,,,,,,,1
+RM_NE_001ONG Suppression,3,,1,,10,,,,,1,,,,1
+RM_NE_001Soldier Cr Suppress,3,,2,,10,,,,,1,,,,1
+RM_NE_001Valentine Suppress,3,,,,8,,,,,,,,,1
+RM_NE_001Agate Suppress,3,,1,,4,,,,,1,,,,1
+RM_NE_001Scottsbluff Suppress,3,,2,,10,,,,,1,,,,1
+RM_NE_001North Platte Suppres,3,,,,8,,,,,1,,,,1
+RM_NE_001NE State Supp. Other,3,,,,4,,,,,1,,,,
+RM_SD_001Suppression,3,1,3,,4,,,1,1,1,,0,,2
+RM_SD_001Suppression_WIn,3,1,3,,4,,,1,1,1,,0,,2
+RM_SD_00301-24-12,3,,,,7,,,,,1,,,,1
+EA_WI_001AIP_1,3,,,,0,,2,,,,,,,
+EA_WI_001MTE_1,3,,,3,8,,,,,,,,,1
+EA_WI_001WDNR_1,3,,,8,15,,,,,,,,,8
+EA_WI_001Cheni,3,,,1,9,,,0,1,,,,,0
+EA_WI_001Cheni_2,3,,,1,7,,,0,1,,,,,0
+EA_IL_001Test 1,3,,1,,3,,,,,,,,1,7
+EA_IL_001Southern FMU,3,,1,0,3,,,,,,,,1,1
+EA_IL_001Midewin,3,,1,0,4,,,,,,,,0,1
+NR_MT_008Northern Cheyenne BI,3,0,0,1,4,0,0,3,1,0,0,0,0,0
+NR_MT_008Options Run,3,1,0,1,2,0,0,3,1,4,1,4,0,1
+RM_CO_001Wilderness,3,,0,,2,,,0,0,,,,,
+RM_CO_001FLENGTH_Suppression,3,1,2,,6,,,3,1,2,,,,2
+RM_CO_001ROS Suppression,3,1,2,,6,,,3,1,2,,,,2
+RM_WY_003Timber/Grass mix,3,1,2,,4,,,1,1,,2,2,,1
+RM_WY_003Sage/Grass,3,1,2,,4,,,1,1,,,,,1
+RM_WY_003Timber,3,1,3,,4,,,1,1,,2,2,,1
+EA_MO_001Mark Twain,4,,4,1,3,,,2,1,,,,1,
+EA_NH_001FPU16 General Logic,4,,2,1,8,,,,1,,,,,1
+EA_WV_001MOF_all,4,,6,1,8,,,,1,,,,,
+EA_WV_001MOF_limited Eq use,4,,6,1,8,,,,1,,,,,
+EA_WV_001MOF_wilderness_CRV,4,,8,,4,,,,1,,,,,
+EA_WV_001NPS all,4,,6,0,9,,,,1,,,,,
+NW_WA_004TBR Dispatch,4,,,,,,,,,,,,,
+NW_WA_004COF Roaded,4,,,,,,,,,,,,,
+NW_WA_004COF WILD/Roadless,4,,,,,,,,,,,,,
+CA_CA_002Limited Access,4,,,,,,,,,,,,,
+CA_CA_002LVNP Wilderness,4,,,,,,,,,,,,,
+CA_CA_002LVNP General Forest,4,,,,,,,,,,,,,
+CA_CA_002High Wilderness,4,,,,,,,,,,,,,
+CA_CA_002General Forest/Range,4,,,,,,,,,,,,,
+CA_CA_007High Elev NonWild,4,,,,,,,,,,,,,
+CA_CA_007Other,4,,,,,,,,,,,,,
+CA_CA_007Wilderness,4,,,,,,,,,,,,,
+CA_CA_007WUI,4,,,,,,,,,,,,,
+CA_CA_015CA FPU 15 WUI,4,,,,,,,,,,,,,
+CA_CA_011WUI,4,,,,,,,,,,,,,
+CA_CA_011Other,4,,,,,,,,,,,,,
+CA_CA_011Wilderness,4,,,,,,,,,,,,,
+NW_OR_001Siuslaw North,4,,,,,,,,,,,,,
+NW_OR_001Siuslaw South,4,,,,,,,,,,,,,
+NW_OR_001Forest Access 2,4,2,8,,4,,,,1,,,,,
+NW_OR_001Wilderness 2,4,,8,,3,,,,1,,2,8,,
+NW_OR_001Northwest 2,4,1,,1,6,,,,1,,,,,1
+NW_OR_001Southwest 2,4,1,,1,6,,,,1,,,,,1
+NW_OR_004Wild Study Area,4,,2,0,3,,,,,,,,,1
+NW_OR_004WS WUI,4,,1,1,4,,,1,1,,,,,1
+NW_OR_004WS Timber,4,,,,5,,,2,1,,,,,1
+NW_OR_004General Forest,4,1,3,2,5,,,3,1,,1,4,,2
+NW_OR_004WUI,4,1,2,2,3,,,3,1,,,,,1
+NW_OR_004Juniper Sage,4,2,1,1,2,,,3,1,,,,,2
+NW_OR_004Wilderness,4,,2,,2,,,3,1,,1,4,,
+NW_OR_004WS ConditionUse,4,,,,2,,,3,1,,1,2,,
+NW_OR_005H1-SP,4,2,5,2,6,,,4,2,1,,,,1
+NW_OR_005P1/P2,4,2,5,2,5,,,5,2,1,1,5,,1
+NW_OR_005NF-1/NF-1SP,4,1,5,2,6,,,4,1,1,,,,1
+NW_OR_005WW-1,4,2,6,,2,,,5,2,1,1,5,,
+NW_OR_005WildernessUMF,4,1,5,,2,,,4,2,1,1,5,,
+NW_OR_005PDT-1,4,2,4,2,9,,,2,1,1,,,,2
+NW_OR_005Mission WUI,4,1,2,1,10,,,0,1,1,,,,2
+NW_OR_005WW2/2A,4,2,5,2,5,,,4,2,1,1,5,,1
+NW_OR_006base2,4,1,1,1,4,,,4,1,1,,,,1
+NW_OR_006brown,4,1,1,1,4,,,4,1,1,,,,1
+NW_OR_006OE SMA,4,1,1,0,4,,,4,1,1,,,,1
+NW_OR_006base,4,1,1,1,4,,,4,1,1,,,,1
+NW_OR_006Ironside,4,2,1,1,6,,,4,1,2,,,,1
+NW_OR_007Silver,4,1,2,2,4,,,3,1,2,,,,1
+NW_OR_007Alvord North,4,1,2,2,5,,,4,1,2,,,,1
+NW_OR_007Diamond,4,,1,1,4,,,3,1,2,,,,1
+NW_OR_007Guano,4,,,2,4,,,3,1,1,,,,1
+NW_OR_007Thousand/Virgin,4,,,1,4,,,3,1,2,,,,1
+NW_OR_007Upper Malheur,4,1,2,2,4,,,3,1,1,,,,1
+NW_OR_007Home Creek,4,,2,,2,,,5,1,1,1,4,,
+NW_OR_007Lakes,4,1,1,2,4,,,3,1,2,,,,1
+NW_OR_007Silvies,4,1,2,2,5,,,4,1,2,,,,1
+NW_OR_007Snow Mountian North,4,1,2,2,4,,,4,1,2,1,4,,1
+NW_OR_007Snow Mountain South,4,1,2,2,4,,,4,1,2,,,,1
+NW_OR_007Steens,4,,2,,,,,5,1,2,1,4,,
+NW_OR_008Desert,4,,,,,,,,,,,,,
+NW_OR_008Timber Special,4,,,,,,,,,,,,,
+NW_OR_008Timber,4,,,,,,,,,,,,,
+NW_OR_008Timber West,4,,,,,,,,,,,,,
+NW_OR_008State and Private,4,,,,,,,,,,,,,
+CA_CA_005CA-CA-05,4,,,,,,,,,,,,,
+CA_CA_005Bay Area Parks,4,,,,,,,,,,,,,
+CA_CA_005Wilderness,4,,,,,,,,,,,,,
+CA_CA_003Wilderness,4,,,,,,,,,,,,,
+CA_CA_003General suppression,4,,,,,,,,,,,,,
+CA_CA_003High resource values,4,,,,,,,,,,,,,
+CA_CA_003SW Wilderness,4,,,,,,,,,,,,,
+CA_CA_001KNFnotWild,4,,,,,,,,,,,,,
+CA_CA_001KNFWild,4,,,,,,,,,,,,,
+CA_CA_001Other sensitive,4,,,,,,,,,,,,,
+CA_CA_001Wilderness,4,,,,,,,,,,,,,
+CA_CA_001SRFWild,4,,,,,,,,,,,,,
+CA_CA_001WUI,4,,,,,,,,,,,,,
+CA_CA_001SRFWUI_HIA_YIA,4,,,,,,,,,,,,,
+CA_CA_001SRFGen,4,,,,,,,,,,,,,
+CA_CA_001RWPALL,4,,,,,,,,,,,,,
+NW_OR_009Block Card B-14,4,,4,,6,,,4,2,,,,,
+NW_OR_009Block Card B-5,4,1,4,1,5,,,4,2,,0,0,,0
+NW_OR_009Block Card W-1,4,1,2,1,3,,,4,2,1,0,0,,0
+NW_OR_009Block Card W-2,4,1,2,1,4,,,2,2,1,1,4,,0
+NW_OR_009Block Card B-3,4,1,4,1,6,,,4,2,,0,0,,0
+NW_OR_009State,4,1,2,1,6,,,2,2,1,1,4,,0
+NW_OR_009Block Card L-7,4,,4,,4,,,6,2,,1,8,,
+NW_OR_009Block Card L-6,4,1,4,1,5,,,0,2,,0,0,,0
+NW_OR_009Block Card B-16,4,1,4,,2,,,6,2,1,1,8,,
+NW_OR_009FMU - Eagle Cap,4,1,4,,0,,,4,2,,1,8,,
+NW_OR_009Block Card B-10,4,1,4,1,5,,,2,4,,1,4,,0
+NW_OR_009Block Card W-17,4,1,2,1,2,,,6,2,1,0,0,0,1
+NW_OR_009Block Card B-7,4,1,4,1,6,,,2,2,,1,4,,1
+NW_OR_009Block Card W-7,4,1,2,,4,,,6,2,,1,8,,
+NW_OR_009Block Card W-9,4,1,2,,2,,,8,2,2,1,8,,
+NW_OR_009Block Card W-10,4,1,4,0,0,,,2,4,,1,4,,0
+NW_OR_009Block Card W-18,4,1,2,,1,,,6,2,2,1,4,,
+NW_OR_009Block Card B-11,4,,4,,3,,,2,1,,,,,
+NW_OR_009Block Card L-5,4,1,4,2,6,,,0,2,2,0,0,,1
+NW_OR_010Wilderness,4,2,2,,2,,,8,1,1,1,4,,
+NW_OR_010General Forest,4,1,4,1,4,,,2,1,1,1,1,,1
+NW_OR_011WUI type,4,,,,,,,,,,,,,
+NW_OR_011general forest type,4,,,,,,,,,,,,,
+NW_WA_001San Juan NW001,4,,,,,,,,,,,,,
+NW_WA_001Lewis NW001,4,,,,,,,,,,,,,
+NW_WA_001Olympic Crew NW001,4,,1,,4,,,0,1,,1,1,,0
+NW_WA_001Standard NW001,4,,1,,4,,,,1,0,1,1,,0
+NW_WA_002NZ SZ Protection,4,1,3,0,3,,,,1,,,,,
+NW_WA_002NZ GF Revision 1,4,1,3,0,3,,,2,1,,1,4,,
+NW_WA_002SZ Wild Rev 1,4,0,3,0,1,,,4,1,,1,4,,
+NW_WA_002NZ SZ Protect Rev 1,4,1,3,0,3,,,,1,,,,,
+NW_WA_002NZ Wild Rev 1,4,0,3,0,1,,,4,1,,1,4,,
+NW_WA_002SZ GF Revision 1,4,1,2,0,3,,,4,1,,1,2,,
+NW_WA_003Non-Wilderness,4,,,,,,,,,,,,,
+NW_WA_003ROLA Wilderness,4,,,,,,,,,,,,,
+NW_WA_003WEN-Wilderness,4,,,,,,,,,,,,,
+NW_WA_003OKA-Wilderness,4,,,,,,,,,,,,,
+NW_WA_003Ste-Suppression,4,,,,,,,,,,,,,
+NW_WA_003RED Zone,4,,,,,,,,,,,,,
+NW_WA_007MHF_Wilderness S,4,2,8,,2,,,8,3,,2,16,,
+NW_WA_007MHF_Wilderness,4,2,8,,2,,,8,2,,2,16,,
+NW_WA_007MHF_Unit 4,4,2,4,2,5,,,1,1,,1,8,,1
+NW_WA_007GP_CV_North,4,1,4,2,5,,,1,1,,1,8,,1
+NW_WA_007MHF_Unit 1,4,2,4,2,6,,,1,1,,2,8,,1
+NW_WA_007MHF_Unit 2,4,2,4,2,5,,,1,1,,1,8,,1
+NW_WA_007MHF_Unit 3,4,2,4,2,6,,,2,2,,1,8,,1
+NW_WA_007Gorge East,4,,,,,,,,,,,,,
+NW_WA_007MHF_Wilderness E,4,2,8,,2,,,8,2,,2,16,,
+NW_WA_007GP_MTA_East,4,2,4,2,6,,,1,1,,2,8,,1
+NW_WA_007YAA-SP,4,,,,,,,,,,,,,
+NW_WA_007YAA-MC,4,,,,,,,,,,,,,
+NW_WA_007YAA-HB,4,2,2,2,3,,,,,,,,,1
+NW_WA_007GP_MSH_West,4,2,4,2,5,,,1,1,,1,8,,1
+NW_WA_007GP_Wilderness,4,3,8,2,2,,,3,3,,2,16,,0
+SA_AL_001BH_Primary,4,,3,3,2,,,,,,,,,
+SA_AL_001LIRI Canyon,4,0,3,0,1,,,,,,,,,
+SA_AL_001Talladega_FWA,4,,2,2,2,,,,,,,,,
+SA_AL_001Dugger_Wild,4,,2,0,1,,,,,,,,,
+SA_AL_001HOBE,4,,1,0,1,,,,,,,,,
+SA_AL_001FWS,4,,1,2,2,,,,,,,,,
+SA_AL_001RUCA,4,0,2,0,2,,,,,,,,,
+SA_AL_001Sipsey FWA,4,,1,0,1,,,,,,,,,
+SA_AL_001CON_Primary,4,,1,2,2,,,,,,,,,
+SA_AL_001Cheaha_Wild,4,,2,0,1,,,,,,,,,
+SA_AL_001SC_FWA,4,,2,2,3,,,,,,,,,
+SA_AL_001LIRI Upland,4,0,2,0,3,,,,,,,,,
+SA_AL_001Tuskegee_FWA,4,,1,2,1,,,,,,,,,
+SA_AL_001Oakmulgee_FWA,4,,2,2,1,,,,,,,,,
+SW_AZ_001SCA EE,4,,,,,,,,,,,,,
+SW_AZ_001SCA Sonora,4,,,,,,,,,,,,,
+"SW_AZ_001NPS_SAP > 4,500'",4,,,,,,,,,,,,,
+SW_AZ_001Low Potential,4,,,,,,,,,,,,,
+SW_AZ_001Moderate Potential,4,,,,,,,,,,,,,
+SW_AZ_001High Potential,4,,,,,,,,,,,,,
+SW_AZ_001SCA WUI,4,,,,,,,,,,,,,
+RM_SD_002Mark Browning,4,,1,,8,,,,,2,,,,1
+RM_WY_002Esterbrook,4,1,2,1,4,,,1,1,,,,,
+RM_WY_002High Desert District,4,1,1,0,4,,,1,1,1,,,,1
+RM_WY_002Eastern Counties,4,1,1,0,4,,,1,1,1,,,,1
+RM_WY_002MBF_Snowy,4,1,1,1,3,,,1,1,,,,,
+RM_WY_002North Counties,4,1,2,1,9,,,2,2,1,,,,
+RM_WY_002North Casper,4,1,2,1,4,,,2,2,1,,,,
+NW_OR_003Wilderness,4,0,4,0,2,,,3,1,,2,4,,0
+NW_OR_003FS Protection,4,1,2,0,3,,,3,1,,2,4,,0
+NW_OR_003ODF Protection,4,1,2,2,5,0,0,0,2,0,0,0,0,0
+NW_OR_003Private/WUI,4,2,3,2,6,,,3,3,,1,4,,0
+CA_CA_014BDF Wilderness FMU,4,,,,,,,,,,,,,
+CA_CA_014BIA Suppression FMU,4,,,,,,,,,,,,,
+CA_CA_014BDF Suppression FMU,4,,,,,,,,,,,,,
+CA_CA_014BLM CDD FMU's,4,,,,,,,,,,,,,
+CA_CA_014BDF Threat FMU,4,,,,,,,,,,,,,
+CA_CA_009OVICC 4,4,3,4,0,5,,,4,2,1,,,,3
+CA_CA_004NPS WUI,4,,,,,,,,,,,,,
+CA_CA_004Wilderness,4,,,,,,,,,,,,,
+CA_CA_004Non DPA,4,,,,,,,,,,,,,
+CA_CA_004USFS,4,,,,,,,,,,,,,
+CA_CA_010BLM West Valley,4,3,4,3,6,,,4,4,1,,,,5
+CA_CA_010Wilderness,4,,,,,,,,,,,,,
+CA_CA_010WUI,4,,,,,,,,,,,,,
+CA_CA_010Island,4,,,,,,,,,,,,,
+CA_CA_012ANF Mutual Aid Resp,4,,,,,,,,,,,,,
+CA_CA_012Standard ANF Resp,4,,,,,,,,,,,,,
+CA_CA_012ANF Response Wilder,4,,,,,,,,,,,,,
+GB_ID_002Non WUI Non Timber,4,1,2,1,5,,,4,3,,1,4,,1
+GB_ID_002WUI Timber,4,2,2,2,6,,,6,4,,1,4,,2
+GB_ID_002Non-WUI timber,4,1,2,1,5,,,4,3,,1,4,,1
+GB_ID_002WFU logic,4,1,2,,3,,,8,3,,1,4,,
+GB_ID_002WUI Non-Timber,4,2,2,2,6,,,6,4,,1,4,,2
+GB_ID_003WFU,4,,,,,,,,,,,,,
+GB_ID_003Desert/Range,4,,,,,,,,,,,,,
+GB_ID_003Mountain,4,,,,,,,,,,,,,
+GB_NV_001Pine Forest S. East,4,,,,,,,,,,,,,
+GB_NV_001I-80,4,,,,,,,,,,,,,
+GB_NV_001Elliott Wrencing,4,,,,,,,,,,,,,
+GB_NV_003Mt Rose Wilderness,4,0,2,,2,,,2,1,0,0,0,,
+GB_NV_003Carson River,4,2,2,1,9,,,2,1,2,0,0,,
+GB_NV_003Aurora no dozer,4,2,2,0,7,,,2,1,2,0,0,,
+GB_NV_003Carson River ND,4,2,2,0,9,,,2,1,2,0,0,,
+GB_NV_003Como,4,1,3,1,5,,,2,1,2,1,4,,
+GB_NV_003Churchill Ranges,4,2,3,1,6,,,2,1,2,1,5,,
+GB_NV_003Lyon Basin,4,,,,,,,,,,,,,
+GB_NV_003Fish Springs,4,2,2,2,7,,,2,1,2,1,5,,
+GB_NV_003CCD SE ND,4,,,,,,,,,,,,,
+GB_NV_003Churchill Basin,4,2,3,1,9,,,2,1,2,1,5,,
+GB_NV_003Reno/Sparks ND,4,2,1,0,9,,,2,1,2,0,0,,
+GB_NV_003Reno/Sparks,4,2,1,2,9,,,2,1,2,0,0,,
+GB_NV_003Bridgeport WUI,4,2,2,0,7,,,2,1,2,0,0,,
+GB_NV_003Fish Springs ND,4,2,2,0,7,,,2,1,2,0,0,,
+GB_NV_003CCD SE,4,,,,,,,,,,,,,
+GB_NV_004Master,4,2,,1,8,,,,,3,1,6,,2
+GB_NV_004WUI,4,3,,1,10,,,,,3,1,6,,2
+GB_NV_004WFU/WSA,4,,,,6,,,,,1,1,4,,0
+GB_NV_006FWS Sensitive,4,,,,,,,,,,,,,
+GB_NV_006Military Response,4,,,,,,,,,,,,,
+GB_NV_006Grass WUI,4,,,,,,,,,,,,,
+GB_NV_006Critical Tort,4,,,,,,,,,,,,,
+GB_NV_006High Juniper,4,,,,,,,,,,,,,
+GB_UT_002SWT No Retardant,4,0,4,,6,,,2,2,4,2,4,,1
+GB_UT_002SWT Four,4,1,2,,6,,,2,2,4,2,4,,1
+GB_UT_004Low Risk,4,1,2,,4,,,5,1,3,2,4,,2
+GB_UT_004Moderate Risk,4,2,3,,5,,,5,2,3,2,4,,2
+GB_UT_004High Risk,4,3,3,,6,,,5,2,4,2,4,,4
+GB_UT_005All Zones HIEL,4,2,3,,5,,,9,2,1,2,5,,3
+GB_UT_005All Zones LOEL,4,3,2,,4,,,18,2,1,2,8,,3
+GB_WY_001WFU,4,,,,,,,,,,,,,
+GB_WY_001NZ Protection,4,2,2,,4,,,6,3,,,,,1
+GB_WY_001EZ Protection,4,1,2,,4,,,6,3,,,,,
+GB_WY_001NZ BCR,4,1,2,,4,,,4,2,,1,2,,1
+GB_WY_001WZ BCR,4,,3,,4,,,4,2,,1,5,,
+GB_WY_001EZ BCR,4,1,2,,4,,,4,2,,1,2,,
+GB_WY_001WZ Protection,4,1,2,,4,,,6,3,,,,,
+NR_ID_001Roadless,4,2,5,,,,,4,4,6,3,9,,
+NR_ID_001General_response,4,2,3,2,4,,,3,2,6,2,6,,3
+NR_ID_001WUI,4,2,2,2,6,,,3,2,3,,,,2
+NR_ID_001Wilderness,4,1,5,,,,,4,4,4,2,9,,
+NR_MT_002FMU1/2,4,3,4,,3,,,3,3,1,0,0,,0
+NR_MT_002FMU3,4,3,4,,2,,,3,3,1,2,5,,
+NR_MT_002FMU4,4,3,4,,2,,,3,3,1,2,5,,
+NR_MT_003FMU_WUI_Other,4,1,3,2,5,,,4,3,2,1,3,,4
+NR_MT_003FMU_Wild,4,1,4,,4,,,3,2,,1,4,,
+NR_MT_003FMU2_RES,4,2,3,2,5,,,4,3,2,1,4,,4
+NR_MT_004FMU1_WUI,4,3,4,2,7,,,4,3,2,2,2,,4
+NR_MT_004BIA_BFA,4,2,2,2,6,,,2,2,2,0,,0,2
+NR_MT_004FMU3,4,3,4,,4,,,5,3,2,1,8,,2
+NR_MT_004FMU2,4,3,4,2,6,,,4,3,3,2,6,,3
+NR_MT_004FMU4_WFU,4,,4,,3,,,2,2,2,2,4,,1
+NR_MT_005Modified,4,1,3,,4,,,3,3,1,1,8,,
+NR_MT_005Limited Park,4,,,,,,,,,,,,,
+NR_MT_005Full,4,1,2,,4,,,3,3,2,1,8,,
+NR_MT_005North Modified,4,2,3,,4,,,3,3,2,1,8,,
+NR_MT_005Limited,4,,,,,,,,,,,,,
+NR_MT_006NR_MT_006_FMU2_Wild,4,1,3,,,,,2,1,,1,2,,
+NR_MT_006NR_MT_006_FMU3,4,1,2,,3,,,2,2,1,1,1,,1
+NR_MT_006NR_MT_006_FMU1,4,1,4,1,6,,,2,2,1,2,2,,2
+NR_MT_006NR_MT_006_FMU2,4,1,4,1,6,,,2,2,1,2,2,,1
+NR_MT_006NR_MT_006_FMU3_Wild,4,,2,,1,,,2,1,,1,2,,
+"NR_MT_007DPA BLM (BO, SP)",4,,,,,,,,,,,,,
+"NR_MT_007BRKS, LR",4,,,,,,,,,,,,,
+NR_MT_007VFD IA Response,4,,,,,,,,,,,,,
+"NR_MT_007PF, IR, MON",4,,,,,,,,,,,,,
+NR_MT_007Rocky Boy,4,,,,,,,,,,,,,
+NR_MT_007CMR,4,,,,,,,,,,,,,
+NR_MT_007Fort Belknap,4,,,,,,,,,,,,,
+NR_MT_001WUI,4,,,,,,,,,,,,,
+NR_MT_001Wilderness,4,,,,,,,,,,,,,
+NR_MT_001BIA Non WUI,4,,,,,,,,,,,,,
+NR_MT_001Non WUI,4,,,,,,,,,,,,,
+NR_MT_001BIA WUI,4,,,,,,,,,,,,,
+NW_OR_002UPF GF LSR DL TL,4,1,8,1,8,,,6,1,,1,6,,1
+NW_OR_002UPF GF LSR CG NU,4,1,8,0,7,,,6,1,,1,6,,1
+NW_OR_002UPF Wilderness,4,1,10,,4,,,6,1,,1,6,,
+NW_WA_008SPA Dispatch,4,,,,,,,,,,,,,
+NW_WA_008COA 4 FMZ 1-2 4 Lev.,4,2,3,2,4,0,0,2,1,2,0,0,0,1
+SA_AR_001pcr general,4,1,,2,7,,,,1,,,,,1
+SA_AR_001GenFor IR AR01,4,1,,2,4,,,,,,,,,0
+SA_AR_001GenFor IR AR02,4,1,,5,6,,,,1,,,,,1
+SA_AR_001Wilderness IR,4,1,,0,7,,,,1,,,,,1
+SA_FL_001BICY Racoon Point,4,,,,3,,,2,1,2,,,,
+SA_FL_001BICY-THRT-DOZERS,4,,,2,3,,,2,2,2,,,,
+SA_FL_001EVER,4,,,,3,,,2,2,2,,,,
+SA_FL_001FPR,4,,,2,3,,,1,2,2,,,,1
+SA_FL_001LXR,4,,,,0,2,0,1,2,2,,,,
+SA_FL_001NKR,4,,,1,4,,,1,2,,,,,1
+SA_FL_001FLSEA Dispatch Log 1,4,,,3,3,,,,1,,,,1,
+SA_FL_001JNR,4,,,,3,,,1,2,,,,,1
+SA_FL_002OKR_Uplands,4,1,,0,2,,,0,1,,,,2,
+SA_FL_002FS_Wilderness,4,1,,,4,,,,1,,,,0,
+SA_FL_002FS_Mixed_Ownership,4,1,,,4,,,,2,,,,4,1
+SA_FL_002FS_General_Forest,4,1,,,4,,,,1,,,,4,
+SA_FL_002OKR_Wilderness,4,0,,0,2,,,0,1,,,,0,
+SA_FL_002FS_Pinhook,4,1,,,4,,,,1,,,,4,
+SA_FL_002NPS,4,,,,,,,,,,,,,
+SA_FL_002Cumberland_Island,4,,,,,,,,,,,,,
+SA_FL_003Non_Particpating,4,,,,,,,,,,,,3,
+SA_FL_003FS_Bombing_Range,4,2,,,2,,,,2,,,,,1
+SA_FL_003FS_General_Forest,4,1,,,3,,,,1,,,,3,1
+SA_FL_003FS_Mixed_Ownership,4,1,,,5,,,,2,,,,4,2
+SA_FL_003FS_Wilderrness,4,2,,,2,,,,2,,,,,1
+SA_FL_003FWS_LRR,4,,,,5,,,,1,,,,3,1
+SA_FL_003FWS_LWR_Marsh,4,,,,2,,,,1,,,,,
+SA_FL_003FWS_LWR_Upland,4,,,,4,,,,1,,,,2,
+SA_FL_003FWS_MI_North,4,,,,6,,,,1,,,,3,1
+SA_FL_003FWS_MI_South,4,0,,,6,,,,2,,,,3,1
+SA_FL_003FWS_ST_Johns,4,,,,5,,,,1,,,,2,1
+SA_FL_003FWS_Threat,4,,,,2,,,,1,,,,1,1
+SA_FL_003NPS_Can_North,4,,,,5,,,,1,,,,2,
+SA_FL_003NPS_Can_South,4,,,,5,,,,1,,,,1,
+SA_FL_003FS_Artillery Range,4,2,,,2,,,,2,,,,,1
+SA_FL_004SVR_FMU_FWA,4,,,,2,,,,0,,,,1,
+SA_FL_004EGR_FMU_FWA,4,,,,2,,,0,0,,,,,
+SA_FL_004FS_Threat,4,,,,3,,,0,1,,,,3,
+SA_FL_004FS_Military,4,,,,2,,,,1,,,,0,
+SA_FL_004LSR_FMU_FWA_NORTH,4,,,1,2,,,0,0,,,,2,
+SA_FL_004SMR_THT_FMU_FWA,4,,,,2,,,0,1,,,,2,
+SA_FL_004LSR_FMU_FWA_SOUTH,4,,,1,2,,,,0,,,,2,
+SA_FL_004SMR_FMU_SMR_EAST_FWA,4,,,,2,,,,,,,,2,
+SA_FL_004CHR_FMU_FWA,4,,,,2,,,,,,,,,
+SA_FL_004SMR_FMU_SMR_WEST_FWA,4,,,,2,,,,,,,,2,
+SA_FL_004FS_Mixed_Ownership,4,,,,3,,,,1,,,,3,1
+SA_FL_004FS_Wilderness,4,,,,2,,,,1,,,,,
+SA_FL_004FS_General_Forest,4,,,0,3,,,,1,,,,2,1
+SA_GA_001Oconee,4,,,2,2,,,,1,,,,,
+SA_GA_001Piedmont,4,,,0,2,,,0,0,,,,2,
+SA_KY_001Mammoth Cave,4,,,,2,,,,,,,,,
+SA_KY_001NPS CUGA,4,,1,,2,,,,,,,,,
+SA_KY_001NPS BISO,4,1,,,3,,,,,,,,,
+SA_KY_001FS Wilderness,4,,2,,2,,,,,,,,,
+SA_KY_001FS General,4,1,2,2,3,,,,1,,,,,
+SA_KY_001FS LBL,4,,,,,,,,,,,,,
+SA_LA_001BBR1,4,,,,,,,,,,,,,
+SA_LA_003NO-Plow_NO_Penetrat,4,1,3,0,4,,,,2,,,,,
+SA_LA_003Kisatchie General,4,1,3,4,4,,,,2,,,,,
+SA_LA_003No Entry,4,1,0,0,1,,,,2,,,,,
+SA_LA_003FWSGEN,4,1,,3,4,,,0,1,,,,,
+SA_LA_003Kisatchie Wilderness,4,1,3,0,4,,,,2,,,,,
+SA_MD_001Dismal Logic,4,0,4,2,3,,,,1,1,,,2,1
+SA_MD_001FPU Initialization,4,,2,2,3,,,,1,,,,3,1
+SA_MS_001USFS Wilderness,4,,,0,2,,,1,1,,,,0,
+SA_MS_001USFS,4,,,2,3,,,1,1,,,,0,
+SA_MS_001FWS,4,,,2,3,,,,,,,,0,
+SA_MS_002Homochitto FWA,4,,,,,,,,,,,,,
+SA_MS_002Bienville WA,4,,,,,,,,,,,,,
+SA_MS_002Natchez FWA,4,,0,2,2,,,2,1,,,,0,1
+SA_MS_002Tombigbee FWA,4,,,,,,,,,,,,,
+SA_MS_002Noxubee,4,,,,,,,,,,,,,
+SA_MS_002Natchez Threat FWA,4,,0,2,2,,,2,1,,,,0,1
+SA_MS_002Holly Springs FWA,4,,,,,,,,,,,,,
+SA_MS_002Natchez Trace FWA,4,,,,2,,,,,,,,,
+SA_NC_001Pee Dee,4,,,,,,,,,,,,,
+SA_NC_001Carolina Sandhills,4,,,,,,,,,,,,,
+SA_NC_001Birkhead Wilderness,4,,,,,,,,,,,,,
+SA_NC_001Uwharrie WUI,4,,,,,,,,,,,,,
+SA_NC_002FWS with helicopter,4,,,,3,,,,1,,,,4,
+SA_NC_002Croatan,4,,,,3,,,,1,,,,2,
+SA_NC_002Currituck aviation,4,,,,3,1,,,1,,,,2,
+SA_NC_002Ocracoke,4,,,,4,,,,1,,,,0,
+SA_NC_002Cape Hatteras,4,,,,3,,,,1,,,,4,
+SA_NC_002Cape Lookout,4,,1,,2,,1,,1,,,,,
+SA_OK_001OUF WILDERNESS,4,0,0,0,5,,,,0,,,,,0
+SA_OK_001fws dispatch,4,0,1,2,6,,,,1,,,,,2
+SA_OK_001Overall,4,1,1,3,4,,,,1,,,,,2
+SA_OK_002overall,4,1,2,1,4,,,0,1,2,,,,1
+SA_OK_002fws interest,4,0,2,5,6,,,,1,2,,,,1
+SA_OK_003Overall,4,,2,4,6,,,,,2,,,,1
+SA_OK_005Fish and Wildlife,4,,,,6,,,,,,,,,3
+SA_PR_001Test,4,,,1,2,,,,0,,,,,
+SA_SC_001FS Wild,4,,,,,,,,,,,,,
+SA_SC_001FWS_Mainland,4,,,,,,,,,,,,,
+SA_SC_001FWS IS,4,,,,,,,,,,,,,
+SA_SC_001FWS Wild,4,,,,,,,,,,,,,
+SA_SC_001SRF,4,,,,,,,,,,,,,
+SA_SC_001FS_FWA,4,,,,,,,,,,,,,
+SA_SC_001NPS,4,,,,,,,,,,,,,
+SA_TN_001Cherokee Wild North,4,,,,,,,,,,,,,
+SA_TN_001Appalachian MO,4,1,2,1,2,,,0,1,,,,,1
+SA_TN_001Chattahoochee NF,4,,2,3,3,,,,1,,,,,
+SA_TN_001Grandfather MO,4,1,2,1,2,,,0,1,,,,,0
+SA_TN_001Cherokee Disp. Logic,4,,,,,,,,,,,,,
+SA_TN_001NPS BRP,4,1,2,1,2,,,,1,,,,,
+SA_TN_001NPS GSP,4,1,1,,3,,,,,,,,,
+SA_TN_001FS Wilderness,4,,,,,,,,,,,,,
+SA_TN_001Nat Pisg MO,4,0,1,2,2,,,,1,,,,,1
+SA_TN_001Cherokee MO,4,1,2,2,2,,,,1,,,,,
+SA_TN_001Cherokee North MO,4,1,1,2,3,,,0,1,,,,,0
+SA_TX_001LBJ,4,1,0,2,2,,,0,1,,,,,2
+SA_TX_002Balcones,4,0,0,1,3,0,0,0,0,0,0,0,0,1
+SA_TX_003FS_WILD,4,0,0,0,4,0,0,1,1,0,0,0,0,0
+SA_TX_003DCNF,4,0,1,2,4,0,0,1,1,0,0,0,0,1
+SA_TX_003BITH 2,4,0,0,1,4,0,0,0,0,0,0,0,0,0
+SA_TX_003TXACA-ENG Only,4,0,0,0,4,0,0,0,0,0,0,0,0,0
+SA_TX_003BITH,4,0,0,1,4,0,0,0,0,0,0,0,0,0
+SA_TX_004San 3,4,,,,4,,,,1,,,,,1
+SA_TX_004SanTHT,4,,,,4,,,,1,,,,,1
+SA_TX_004BrazoTHT,4,,,,4,,,,1,,,,,1
+SA_TX_004BBGTHT,4,,,,4,,,,1,,,,,1
+SA_TX_004SWLA,4,,,,3,1,2,,1,,,,,1
+SA_TX_004Brazoria 04,4,,,,4,,,,1,,,,,1
+SA_TX_004Brazoria05,4,,,,4,,,,1,,,,,1
+SA_TX_004BBG 001,4,,,,4,,,,1,,,,,1
+SA_TX_004San 2,4,,,,4,,,,1,,,,,1
+SA_TX_004AHR-MCR 5,4,,,,5,2,,,1,,,,,1
+SA_TX_005Matagorda,4,,,,,,,,,,,,,
+SA_TX_005Padre Island,4,,,,,,,,,,,,,
+SA_TX_005Santa Ana Staffing,4,,,1,3,,,,,0,,,,1
+SA_TX_005Falcon Staffing,4,,,1,4,,,,,0,,,,1
+SA_TX_005Palmview Staffing,4,,,1,3,,,,,0,,,,1
+SA_TX_005Aransas,4,,,,,,,,,,,,,
+SA_TX_005Laguna Staffing,4,,,1,3,,,,,0,,0,,1
+SA_VA_001Shen,4,,,,,,,,,,,,,
+SA_VA_001MTTS,4,,,,,,,,,,,,,
+SA_VA_001NCR,4,,,,,,,,,,,,,
+SA_VA_001BLRI,4,,,,,,,,,,,,,
+SA_VA_001FS Wilderness,4,,,,,,,,,,,,,
+SA_VA_001FS,4,,,,,,,,,,,,,
+SA_VA_001Unassigned,4,,,,,,,,,,,,,
+SA_VA_001FS: 4,4,1,1,2,3,,,,2,,,,,
+SA_VA_001SHEN: 4,4,1,2,,3,,,,2,,,,,
+CA_CA_006.enf_urban1,4,,,,,,,,,,,,,
+CA_CA_006.blm_wui,4,,,,,,,,,,,,,
+CA_CA_006.tmu_wui,4,,,,,,,,,,,,,
+CA_CA_006.tnf_wilderness,4,,,,,,,,,,,,,
+CA_CA_006.enf_wild,4,,,,,,,,,,,,,
+CA_CA_006.tnf_supp,4,,,,,,,,,,,,,
+CA_CA_006.tmu_wilderness,4,,,,,,,,,,,,,
+AK_AK_001Alaska Standard,4,3,2,0,6,0,0,4,3,2,2,14,0,1
+AK_AK_001Alaska Aerial Only,4,3,0,0,0,0,0,4,3,2,2,14,0,0
+AK_AK_001Alaska Southeast,4,,2,,4,,,8,2,,,,,1
+SW_AZ_002FM 1 Normal,4,2,2,,7,,,2,1,2,,,,2
+SW_AZ_003WMAT_East,4,,,,,,,,,,,,,
+SW_AZ_003Clifton_RD,4,,,,,,,,,,,,,
+SW_AZ_003Springerville_RD,4,,,,,,,,,,,,,
+SW_AZ_003Black Mesa_RD,4,,,,,,,,,,,,,
+SW_AZ_003Alpine_RD,4,,,,,,,,,,,,,
+SW_AZ_003WMAT_West,4,,,,,,,,,,,,,
+SW_AZ_003Lakeside_RD,4,,,,,,,,,,,,,
+SW_AZ_004RIPARIAN BP ADJ,4,1,1,2,8,,4,1,1,1,,,,1
+SW_AZ_004UPLAND,4,0,1,0,5,,,1,1,1,,,,1
+SW_AZ_004WILDERNESS,4,0,1,0,4,,,1,1,2,,,,1
+SW_AZ_005Timber,4,,1,1,4,,,2,1,,,,,2
+SW_AZ_005Grass-Brush-PJ,4,1,1,2,5,,,2,2,2,,,,1
+SW_AZ_005Mojave Desert,4,2,1,1,5,,,2,2,2,1,1,,1
+SW_AZ_005Wilderness and Park,4,,2,1,5,,,2,1,,1,1,,2
+SW_AZ_006desert,4,2,4,0,12,0,0,4,2,1,0,0,0,2
+SW_AZ_006timber,4,2,4,2,12,0,0,2,2,1,0,0,0,2
+SW_AZ_006wilderness,4,2,4,0,12,0,0,4,2,0,0,0,0,0
+SW_AZ_006brush,4,3,4,0,12,0,0,2,2,1,0,0,0,2
+SW_AZ_006riparian,4,2,4,0,10,0,0,2,2,1,0,0,0,2
+SW_NM_001Wilderness,4,0,2,0,5,,,4,4,,,,,
+SW_NM_001Farm-Jia Dispatch,4,2,3,2,6,,,2,2,2,,,,4
+SW_NM_001Rattlesnake,4,2,3,2,6,,,2,2,2,,,,4
+SW_NM_001East Carson_WUI,4,1,3,2,8,0,0,2,2,2,0,0,0,2
+SW_NM_002Non WUI,4,1,3,1,10,,,2,2,2,1,3,,2
+SW_NM_002Smokey Bear WUI,4,3,4,3,13,,,2,2,1,6,1,,2
+SW_NM_002WUI,4,1,4,4,10,,,2,2,1,1,8,,2
+SW_NM_003LCDO fils,4,1,0,,5,,,,,,,,,1
+SW_NM_004Wilderness,4,3,6,0,0,,,7,3,,1,8,,0
+SW_NM_004BLM Brush/Grass,4,2,2,0,5,,,4,3,2,0,0,,2
+SW_NM_004Timber,4,2,4,0,4,,,12,3,,1,7,,2
+SW_NM_004WUI,4,3,3,1,4,,,4,3,,1,4,,3
+SW_NM_004PJ/Grass,4,3,4,1,5,,,3,4,,1,4,,2
+SW_NM_005Pondo,4,2,3,1,6,,,3,1,,,,,1
+SW_NM_005PondoWUI,4,3,4,3,6,,,3,1,,,,,3
+SW_NM_005ABQ,4,1,3,1,8,,,4,1,0,,,,
+SW_NM_005BLM EAST,4,2,2,0,3,,,,1,1,,,,2
+SW_NM_005Socorro,4,1,3,2,5,,,4,2,,,,,1
+SW_NM_005BLM NPS,4,2,3,1,6,,,3,1,0,,,,1
+SW_NM_005Bia North,4,2,2,1,5,,,2,1,0,,,,
+SW_NM_007NAA-Grass,4,1,3,1,10,,,3,1,,,,,1
+SW_NM_007TCA-GRASS,4,2,3,2,8,,,2,2,2,0,0,0,2
+SW_NM_007KNF WUI-D1,4,2,2,2,7,,,1,1,,,,,4
+SW_NM_007TCA-Canyon,4,2,2,0,4,,,3,2,2,0,0,0,2
+SW_NM_007cof wilderness,4,3,4,1,6,,,1,1,0,0,0,0,2
+SW_NM_007cof nonwui,4,3,2,1,8,,,1,1,0,0,0,0,4
+SW_NM_007TCA-WUI,4,2,3,2,8,,,4,2,2,0,0,0,2
+SW_NM_007cof wui,4,3,2,1,8,,,0,1,0,0,0,0,2
+SW_NM_007NAA-TimberPJ,4,1,3,1,10,,,3,1,,,,,1
+SW_NM_007TCA-FOR,4,2,3,2,8,,,3,2,2,0,0,0,2
+SW_NM_007HOA-All FWA's,4,1,5,2,12,,,2,1,2,0,0,0,2
+SW_NM_007KNF Non WUI-D4,4,0,1,1,7,,,1,1,,,,,1
+SW_NM_007KNF Non WUI-D1,4,1,2,2,6,,,1,1,1,,,,2
+SW_NM_007KNF Wilderness,4,1,1,0,2,,,1,1,,,,,
+SW_NM_007GCP-Backcountry,4,2,2,1,5,0,0,4,3,4,1,1,0,2
+SW_NM_007PNF WUI,4,3,3,2,10,0,0,2,2,3,0,0,0,4
+SW_NM_007PNF Non-WUI,4,1,3,1,6,0,0,2,2,1,0,0,0,2
+SW_NM_007PNF Wilderness,4,2,3,0,3,0,0,2,2,1,0,0,0,0
+SW_NM_007GCP-WUI,4,2,2,1,5,0,0,4,3,0,0,0,0,2
+SW_TX_002fws interest,4,0,1,0,15,,,,,3,,,0,3
+SW_TX_002SW_TX_002_DispLog_1,4,1,1,0,15,,,,,3,,,2,3
+SW_TX_002BLM_Sabinoso,4,,,,,,,,,,,,,
+SW_TX_004WFU,4,,,,,,,,,,,,,
+SW_TX_004AMR,4,,,,,,,,,,,,,
+SW_TX_004Non_BIBE,4,,,,,,,,,,,,,
+CA_CA_013Handcrew,4,,,,,,,,,,,,,
+CA_CA_013Engine,4,,,,,,,,,,,,,
+NR_MT_010Lolo Limited Acc.,4,2,3,0,4,,,4,2,1,2,5,,0
+NR_MT_010Lolo Developed,4,1,4,0,7,,,4,2,1,2,5,,0
+NR_MT_010Lolo WUI,4,3,4,1,9,,,4,2,1,0,0,,0
+NW_WA_005Juniper Wilderness,4,1,1,0,6,,,,1,1,,,,2
+NW_WA_005Basin 2,4,,,1,6,,,,1,1,,,,2
+NR_MT_009ST LAA RAA,4,0,2,1,9,,,1,1,1,1,1,,1
+NR_MT_009GNP MCD,4,1,2,,2,,,1,1,,1,1,,
+NR_MT_009FNF DEV,4,2,1,1,4,,,2,2,,0,0,,1
+NR_MT_009KNF RAA,4,2,3,2,5,,,1,1,1,1,1,,2
+NR_MT_009KNF LAA,4,0,3,,5,,,2,2,,2,2,,1
+NR_MT_009ST DEV,4,1,1,1,9,,,1,1,1,,,,1
+NR_MT_009FNF LAA,4,0,2,,1,,,2,1,,0,0,,1
+NR_MT_009FNF RAA,4,0,2,0,1,,,2,2,,0,0,,1
+NR_MT_009KNF DEV,4,2,3,3,5,,,2,2,1,1,1,,2
+NR_MT_009GNP LAA,4,1,1,,1,,,1,2,0,1,1,,
+NR_MT_009GNP EAST,4,1,1,,2,,,1,2,0,1,1,,
+GB_ID_001FAIRFIELD RESPONSE,4,,5,,4,,,5,1,1,,,,
+GB_ID_001WILDERNESS RESPONSE,4,,,,4,,,5,1,1,,,,
+GB_ID_001SNRA RESPONSE,4,,,,4,,,5,1,2,,,,
+GB_ID_001STANDARD RESPONSE,4,1,,1,8,,,10,1,2,,,,4
+GB_NV_002Char_HT_IR,4,2,2,2,6,,,5,2,,1,5,,2
+GB_NV_002Owy_FMU_IR,4,1,2,1,5,,,5,1,1,1,5,,1
+GB_NV_002Wild_FMU_IR,4,1,2,,5,,,5,2,,1,5,,
+GB_NV_002Cort_FMU_IR,4,2,2,2,6,,,5,3,1,1,5,,1
+GB_NV_002Ruby_RLR_IR,4,2,2,1,5,,,5,1,1,1,5,,1
+GB_NV_002Gosh_FMU_IR,4,1,2,1,5,,,5,1,1,1,5,,1
+GB_NV_002Tusc_FMU_IR,4,1,2,1,6,,,5,2,1,1,5,,1
+GB_NV_002Del_FMU_IR,4,2,2,2,6,,,6,3,1,1,5,,1
+GB_NV_002Owy_DVT_IR,4,1,2,1,5,,,,,,11,4,,1
+GB_NV_002Char_FMU_IR,4,2,2,2,6,,,4,2,,1,6,,2
+GB_NV_002Ruby_FMU_IR,4,1,2,2,7,,,8,2,,1,5,,1
+GB_NV_002Ruby_HT_IR,4,2,2,1,6,,,5,2,1,1,5,,1
+GB_NV_002Char_Pri_Mix_IR,4,2,2,2,6,,,5,3,,1,5,,2
+GB_NV_005Park,4,,,,,,,,,,,,,
+GB_NV_005North 5,4,,1,1,4,,,1,1,1,1,4,,1
+GB_NV_005South 3,4,,,,,,,,,,,,,
+GB_NV_005South 5,4,,1,1,4,,,1,1,1,1,4,,1
+GB_NV_005North 3,4,,,,,,,,,,,,,
+NR_ND_001Missouri Logic Table,4,0,0,2,7,0,0,0,0,1,0,0,0,1
+NR_ND_001Badlands Logic Table,4,0,0,2,9,0,0,0,0,1,0,0,0,1
+GB_UT_001Park Service SWT,4,0,3,,2,,,2,2,2,1,2,,1
+GB_UT_001Richfield SWT,4,2,3,,10,,,2,2,2,2,4,,1
+GB_UT_001Filmore SWT,4,1,0,,9,,,2,2,2,1,2,,1
+GB_UT_001Teasdale SWT,4,1,2,,6,,,2,2,2,1,2,,1
+GB_UT_003Camp William,4,0,,,1,,,,0,0,,,,0
+GB_UT_003BLM Other,4,1,1,,3,,,1,1,2,,,,2
+GB_UT_003WUI_FS,4,1,2,,3,,,2,2,2,,,,0
+GB_UT_003Mountains,4,1,1,,3,,,,1,2,,,,0
+GB_UT_003Wilderness SJ,4,0,4,,4,,,4,2,0,1,6,,0
+GB_UT_003BLM_Bonne_Carring,4,1,1,,2,,,1,1,2,,,,0
+GB_UT_003Desert 5,4,1,1,,3,,,1,1,1,,,,2
+GB_UT_003FS_West5 5,4,2,2,,5,,,1,1,2,1,4,,1
+GB_UT_003WUI_FS 5,4,1,2,,5,,,2,2,2,,,,2
+GB_UT_003FS_West,4,2,2,,4,,,1,1,2,,,,1
+GB_UT_003Wilderness,4,0,3,,3,,,1,2,0,,,,0
+GB_UT_003Desert,4,1,1,,3,,,1,1,1,,,,2
+GB_UT_003DOD_LAND,4,1,,,1,,,1,1,2,,,,0
+NR_MT_011CSKT Wilderness,4,0,2,0,3,0,0,4,1,1,0,0,0,0
+NR_MT_011CSKT Developed,4,1,2,1,5,0,0,4,1,1,0,0,0,0
+NR_MT_011CSKT Limited Acc.,4,0,2,0,3,0,0,4,1,1,0,0,0,0
+NR_MT_011CSKT WUI,4,1,2,1,11,0,0,4,1,1,0,0,0,0
+CA_CA_008WUI_Lake_I_Threat,4,,,,,,,,,,,,,
+CA_CA_008Wilderness_Timber,4,,,,,,,,,,,,,
+CA_CA_008WUI_Timber,4,,,,,,,,,,,,,
+CA_CA_008General_Kaweah,4,,,,,,,,,,,,,
+CA_CA_008Wilderness_Grass/Shr,4,,,,,,,,,,,,,
+CA_CA_008WUI_Grass/Shrub,4,,,,,,,,,,,,,
+CA_CA_008General _Timber,4,,,,,,,,,,,,,
+CA_CA_008General_Grass/Shrub,4,,,,,,,,,,,,,
+EA_IA_001CL-PC Changes,4,0,0,,2,,,,,,,,,1
+EA_IN_001Southeastern,4,,,,3,,,,,,,,,
+EA_IN_001Northern Indiana,4,,,,3,,,,,,,,,
+EA_IN_001Southwestern Indiana,4,,2,,4,,,6,1,,,0,,2
+EA_MI_001WUI response,4,,,1,3,1,,1,1,,,,,1
+EA_MI_001General response,4,,,1,3,1,,1,1,,,,,1
+EA_MI_001wilderness response,4,,1,0,3,0,,1,1,,,,,1
+EA_MI_002Huron,4,,2,4,8,,,1,1,,,,,1
+EA_MI_002Manistee,4,,4,4,5,,,1,1,,,,,
+EA_MN_001SUP-_Non_Blowdown,4,,1,,0,,1,2,2,2,,,,
+EA_MN_001SUP-East -Blowdown,4,0,1,,0,,1,2,2,2,,,,
+EA_MN_001SUP_West-Blowdown,4,,1,,3,,1,3,3,2,,,,
+EA_MN_001Crane Medows,4,,,,5,,,,1,1,,,,1
+EA_MN_001SUP_West-Ely,4,,1,,4,,1,2,2,1,1,2,,
+EA_MN_001SUP_West-Laurention,4,,1,1,4,,1,2,2,1,,,,2
+EA_MN_001Fond Du Lac,4,,0,1,1,,,0,1,1,,,,
+EA_MN_001SUP-East,4,,1,,4,,1,2,2,2,,,,2
+EA_MN_001Chippewa,4,,1,,6,,,,1,1,,,,2
+EA_MN_001Sherburne,4,,,,6,,,,2,1,,,,2
+EA_MN_001BIA Woodland,4,,0,1,3,,,0,1,1,,,,
+EA_MN_001Voygers,4,0,1,,0,,1,2,2,1,,,,
+EA_MN_001Rice Lake,4,,,0,5,,,0,1,1,,,,1
+EA_MN_002FWS-SE,4,,,0,3,,,,0,0,,,,1
+EA_MN_002FWS_Morris,4,,,0,6,,,,0,0,,,,1
+EA_MN_002Red Lake,4,,,2,6,,,,2,2,,,,2
+EA_MN_002White Earth,4,,,1,8,,,,1,1,,,,2
+EA_MN_002FWS_Litchfield,4,,,0,6,,,,0,0,,,,2
+EA_MN_002FWS_Fergus Fall,4,,,0,6,,,,0,0,,,,1
+EA_MN_002FWS-MNBND,4,,,0,6,,,,0,0,,,,1
+EA_MN_002Agassiz,4,,,2,6,,,,2,2,,,,2
+EA_MN_002FWS_Windom,4,,,0,4,,,,0,0,,,,1
+EA_MN_002FWS-MNMVR,4,,,0,6,,,,1,1,,,,2
+EA_NJ_001NY Logic 5 FDL,4,,,,8,,,,2,,,,,1
+EA_NJ_001North NJ Logic 5 FDL,4,,2,0,8,,,0,1,2,,,,1
+EA_NJ_001South NJ Logic 5 FDL,4,,,,8,,,,1,2,,,2,1
+RM_CO_007Deadman South,4,1,4,,5,,,,1,1,1,4,,2
+RM_CO_007Clear Creek,4,1,4,,5,,,1,1,1,1,4,,2
+RM_CO_007Divide North,4,0,4,,5,,,,1,1,1,4,,2
+RM_CO_007Boulder Flats South,4,1,4,,5,,,1,1,1,1,4,,2
+RM_CO_007Big Thompson North,4,1,4,,5,,,,1,1,1,4,,2
+RM_CO_007Deadman North,4,1,4,,5,,,0,1,1,1,4,,2
+RM_CO_007Sulphur North,4,1,4,,5,,,,1,1,1,4,,2
+RM_CO_007Grasslands,4,0,3,,5,,,,1,1,,,,2
+RM_CO_007Boulder Flats North,4,1,4,,5,,,1,1,1,1,4,,2
+RM_CO_007Sulphur South,4,1,4,,5,,,,1,1,1,4,,2
+RM_CO_007Divide South,4,0,4,,5,,,,1,1,1,4,,2
+RM_CO_007Big Thompson South,4,1,4,,5,,,,1,1,1,4,,2
+EA_OH_001WNF1,4,,1,0,4,,,,,,,,,
+EA_OH_001Basic,4,,1,,4,,,,,,,,,
+EA_PA_001Test,4,,,,,,,,,,,,,
+EA_PA_001Allegheny,4,,3,,6,,,,,1,,,,2
+EA_PA_001NPS,4,,,,,,,,,,,,,
+EA_PA_001FWS Erie,4,,,,,,,,,,,,,
+EA_WI_002NW FMU FWS,4,,,,2,,,,,,,,1,1
+EA_WI_002So_FMU_BIA_W,4,,,,3,,,,,,,,2,1
+EA_WI_002So FMU FWS FWA,4,,,,3,,,,,,,,1,1
+EA_WI_002NW_FMU_BIA_E_FWA,4,,,,3,,,,,,,,2,1
+EA_WI_002NW_FMU_BIA_W_FWA,4,,,,3,,,,,,,,2,1
+GB_ID_004Critical,4,2,1,2,7,0,0,6,2,2,0,0,0,2
+GB_ID_004Urban Interface,4,2,1,2,7,0,0,6,2,2,0,0,0,2
+GB_ID_004Conditional,4,0,1,1,4,0,0,3,1,1,0,0,0,1
+RM_CO_002standard,4,,,,,,,,,,,,,
+RM_CO_002Minimum Impact,4,,,,,,,,,,,,,
+RM_CO_003ENG 2nd at FDL2,4,1,2,,4,,,1,1,1,,,,
+RM_CO_003HELI+ENG at FDL1,4,1,2,,4,,,1,1,1,,,,0
+RM_CO_003MVP Area,4,1,2,1,4,,,1,1,1,,,,1
+RM_CO_003Dolores North,4,1,2,1,4,,,1,1,1,,,,
+RM_CO_003CRW 2nd at FDL2,4,1,2,,4,,,1,1,1,,,,
+RM_CO_003HELI+ENG FDL1 COL,4,1,2,,4,,,1,1,1,,,,0
+RM_CO_004General Forest,4,,,,,,,,,,,,,
+RM_CO_004WUI,4,,,,,,,,,,,,,
+RM_CO_004WFU,4,,,,,,,,,,,,,
+RM_CO_005Standard,4,,,,,,,,,,,,,
+RM_CO_005Douglas Pass,4,,,,,,,,,,,,,
+RM_CO_005Interface,4,,,,,,,,,,,,,
+RM_CO_0052 eng low fil,4,,,,,,,,,,,,,
+RM_CO_005Routt,4,,,,,,,,,,,,,
+RM_CO_005DinoNPS,4,,,,,,,,,,,,,
+RM_CO_005WSA,4,,,,,,,,,,,,,
+RM_CO_006Standard,4,1,1,,2,,,2,1,1,1,4,,1
+RM_CO_006Test2,4,3,4,,18,,,3,3,3,3,3,,3
+RM_CO_006WalkIns,4,2,1,,1,,,2,1,2,1,4,,1
+RM_CO_006pj_sig_3_level,4,,,,,,,,,,,,,
+RM_CO_008All BIA Ramp 2,4,1,1,1,8,,,3,1,1,,,,1
+RM_KS_001BI FM L 5 FDL,4,,,,8,,,,,,,,,1
+RM_NE_001Niobrara Suppress,4,,,,,,,,,,,,,
+RM_NE_001Bessey Suppress,4,,,,,,,,,,,,,
+RM_NE_001Crescent Suppress,4,,,,,,,,,,,,,
+RM_NE_001Suppression,4,,,,,,,,,,,,,
+RM_NE_001NE State Suppress NW,4,,,,,,,,,,,,,
+RM_NE_001McKelvie Suppress,4,,,,,,,,,,,,,
+RM_NE_001ONG Suppression,4,,,,,,,,,,,,,
+RM_NE_001Soldier Cr Suppress,4,,,,,,,,,,,,,
+RM_NE_001Valentine Suppress,4,,,,,,,,,,,,,
+RM_NE_001Agate Suppress,4,,,,,,,,,,,,,
+RM_NE_001Scottsbluff Suppress,4,,,,,,,,,,,,,
+RM_NE_001North Platte Suppres,4,,,,,,,,,,,,,
+RM_NE_001NE State Supp. Other,4,,,,,,,,,,,,,
+RM_SD_001Suppression,4,,,,,,,,,,,,,
+RM_SD_001Suppression_WIn,4,,,,,,,,,,,,,
+RM_SD_00301-24-12,4,,,,8,,,,,2,,,,1
+EA_WI_001AIP_1,4,,,,0,,3,,,,,,,
+EA_WI_001MTE_1,4,,,3,8,,,,,,,,,1
+EA_WI_001WDNR_1,4,,,8,16,,,,,,,,,8
+EA_WI_001Cheni,4,,,3,9,,,0,1,,,,,0
+EA_WI_001Cheni_2,4,,,3,7,,,0,1,,,,,0
+EA_IL_001Test 1,4,,2,,5,,,,,,,,1,7
+EA_IL_001Southern FMU,4,,1,0,4,,,,,,,,1,1
+EA_IL_001Midewin,4,,1,0,4,,,,,,,,0,1
+NR_MT_008Northern Cheyenne BI,4,0,1,2,7,0,0,6,1,0,0,0,0,1
+NR_MT_008Options Run,4,1,1,2,2,0,0,6,2,6,1,6,0,2
+RM_CO_001Wilderness,4,1,1,0,3,0,,2,1,1,,,,
+RM_CO_001FLENGTH_Suppression,4,2,2,1,6,0,,3,1,2,,,,2
+RM_CO_001ROS Suppression,4,2,2,1,6,0,,3,1,2,,,,2
+RM_WY_003Timber/Grass mix,4,2,3,,5,,,3,3,,2,3,,2
+RM_WY_003Sage/Grass,4,2,2,,5,,,2,2,,,0,,2
+RM_WY_003Timber,4,2,4,,5,,,3,3,,2,3,,2
+EA_MO_001Mark Twain,5,,5,2,4,,,2,1,,,,2,
+EA_NH_001FPU16 General Logic,5,,,,,,,,,,,,,
+EA_WV_001MOF_all,5,,6,1,8,,,,1,,,,,
+EA_WV_001MOF_limited Eq use,5,,6,1,8,,,,1,,,,,
+EA_WV_001MOF_wilderness_CRV,5,,8,,4,,,,1,,,,,
+EA_WV_001NPS all,5,,6,0,9,,,,1,,,,,
+NW_WA_004TBR Dispatch,5,,,,,,,,,,,,,
+NW_WA_004COF Roaded,5,,,,,,,,,,,,,
+NW_WA_004COF WILD/Roadless,5,,,,,,,,,,,,,
+CA_CA_002Limited Access,5,,,,,,,,,,,,,
+CA_CA_002LVNP Wilderness,5,,,,,,,,,,,,,
+CA_CA_002LVNP General Forest,5,,,,,,,,,,,,,
+CA_CA_002High Wilderness,5,,,,,,,,,,,,,
+CA_CA_002General Forest/Range,5,,,,,,,,,,,,,
+CA_CA_007High Elev NonWild,5,,,,,,,,,,,,,
+CA_CA_007Other,5,,,,,,,,,,,,,
+CA_CA_007Wilderness,5,,,,,,,,,,,,,
+CA_CA_007WUI,5,,,,,,,,,,,,,
+CA_CA_015CA FPU 15 WUI,5,,,,,,,,,,,,,
+CA_CA_011WUI,5,,,,,,,,,,,,,
+CA_CA_011Other,5,,,,,,,,,,,,,
+CA_CA_011Wilderness,5,,,,,,,,,,,,,
+NW_OR_001Siuslaw North,5,,,,,,,,,,,,,
+NW_OR_001Siuslaw South,5,,,,,,,,,,,,,
+NW_OR_001Forest Access 2,5,2,10,,6,,,,1,,,,,
+NW_OR_001Wilderness 2,5,,12,,4,,,,1,,2,8,,
+NW_OR_001Northwest 2,5,2,,1,6,,,,1,,,,,1
+NW_OR_001Southwest 2,5,2,,1,6,,,,1,,,,,1
+NW_OR_004Wild Study Area,5,,,,,,,,,,,,,
+NW_OR_004WS WUI,5,,2,1,4,,,1,1,,,,,1
+NW_OR_004WS Timber,5,,,1,4,,,3,1,,,,,1
+NW_OR_004General Forest,5,,,,,,,,,,,,,
+NW_OR_004WUI,5,,,,,,,,,,,,,
+NW_OR_004Juniper Sage,5,,,,,,,,,,,,,
+NW_OR_004Wilderness,5,,,,,,,,,,,,,
+NW_OR_004WS ConditionUse,5,,,,3,,,3,1,,1,3,,
+NW_OR_005H1-SP,5,,,,,,,,,,,,,
+NW_OR_005P1/P2,5,,,,,,,,,,,,,
+NW_OR_005NF-1/NF-1SP,5,,,,,,,,,,,,,
+NW_OR_005WW-1,5,,,,,,,,,,,,,
+NW_OR_005WildernessUMF,5,,,,,,,,,,,,,
+NW_OR_005PDT-1,5,,,,,,,,,,,,,
+NW_OR_005Mission WUI,5,,,,,,,,,,,,,
+NW_OR_005WW2/2A,5,,,,,,,,,,,,,
+NW_OR_006base2,5,2,1,1,6,,,4,1,1,,,,1
+NW_OR_006brown,5,2,1,1,5,,,4,1,1,,,,1
+NW_OR_006OE SMA,5,1,1,0,6,,,4,1,1,,,,1
+NW_OR_006base,5,2,1,1,8,,,4,1,1,,,,1
+NW_OR_006Ironside,5,2,1,1,6,,,4,1,2,,,,1
+NW_OR_007Silver,5,1,2,2,5,,,4,1,2,,,,1
+NW_OR_007Alvord North,5,1,2,2,6,,,5,1,2,,,,1
+NW_OR_007Diamond,5,1,1,1,5,,,5,1,2,,,,1
+NW_OR_007Guano,5,,,2,5,,,3,1,2,,,,1
+NW_OR_007Thousand/Virgin,5,,,1,5,,,3,1,2,,,,1
+NW_OR_007Upper Malheur,5,1,2,2,5,,,3,1,2,,,,1
+NW_OR_007Home Creek,5,,2,,2,,,5,1,1,1,5,,
+NW_OR_007Lakes,5,1,2,2,5,,,3,1,2,,,,1
+NW_OR_007Silvies,5,1,2,2,6,,,5,1,2,,,,1
+NW_OR_007Snow Mountian North,5,1,2,2,4,,,5,1,2,1,5,,1
+NW_OR_007Snow Mountain South,5,1,2,2,5,,,5,1,2,,,,1
+NW_OR_007Steens,5,,2,,,,,5,1,2,1,5,,
+NW_OR_008Desert,5,,,,,,,,,,,,,
+NW_OR_008Timber Special,5,,,,,,,,,,,,,
+NW_OR_008Timber,5,,,,,,,,,,,,,
+NW_OR_008Timber West,5,,,,,,,,,,,,,
+NW_OR_008State and Private,5,,,,,,,,,,,,,
+CA_CA_005CA-CA-05,5,,,,,,,,,,,,,
+CA_CA_005Bay Area Parks,5,,,,,,,,,,,,,
+CA_CA_005Wilderness,5,,,,,,,,,,,,,
+CA_CA_003Wilderness,5,,,,,,,,,,,,,
+CA_CA_003General suppression,5,,,,,,,,,,,,,
+CA_CA_003High resource values,5,,,,,,,,,,,,,
+CA_CA_003SW Wilderness,5,,,,,,,,,,,,,
+CA_CA_001KNFnotWild,5,,,,,,,,,,,,,
+CA_CA_001KNFWild,5,,,,,,,,,,,,,
+CA_CA_001Other sensitive,5,,,,,,,,,,,,,
+CA_CA_001Wilderness,5,,,,,,,,,,,,,
+CA_CA_001SRFWild,5,,,,,,,,,,,,,
+CA_CA_001WUI,5,,,,,,,,,,,,,
+CA_CA_001SRFWUI_HIA_YIA,5,,,,,,,,,,,,,
+CA_CA_001SRFGen,5,,,,,,,,,,,,,
+CA_CA_001RWPALL,5,,,,,,,,,,,,,
+NW_OR_009Block Card B-14,5,,,,,,,,,,,,,
+NW_OR_009Block Card B-5,5,,,,,,,,,,,,,
+NW_OR_009Block Card W-1,5,,,,,,,,,,,,,
+NW_OR_009Block Card W-2,5,,,,,,,,,,,,,
+NW_OR_009Block Card B-3,5,,,,,,,,,,,,,
+NW_OR_009State,5,,,,,,,,,,,,,
+NW_OR_009Block Card L-7,5,,,,,,,,,,,,,
+NW_OR_009Block Card L-6,5,,,,,,,,,,,,,
+NW_OR_009Block Card B-16,5,,,,,,,,,,,,,
+NW_OR_009FMU - Eagle Cap,5,,,,,,,,,,,,,
+NW_OR_009Block Card B-10,5,,,,,,,,,,,,,
+NW_OR_009Block Card W-17,5,,,,,,,,,,,,,
+NW_OR_009Block Card B-7,5,,,,,,,,,,,,,
+NW_OR_009Block Card W-7,5,,,,,,,,,,,,,
+NW_OR_009Block Card W-9,5,,,,,,,,,,,,,
+NW_OR_009Block Card W-10,5,,,,,,,,,,,,,
+NW_OR_009Block Card W-18,5,,,,,,,,,,,,,
+NW_OR_009Block Card B-11,5,,,,,,,,,,,,,
+NW_OR_009Block Card L-5,5,,,,,,,,,,,,,
+NW_OR_010Wilderness,5,,,,,,,,,,,,,
+NW_OR_010General Forest,5,,,,,,,,,,,,,
+NW_OR_011WUI type,5,,,,,,,,,,,,,
+NW_OR_011general forest type,5,,,,,,,,,,,,,
+NW_WA_001San Juan NW001,5,,,,,,,,,,,,,
+NW_WA_001Lewis NW001,5,,,,,,,,,,,,,
+NW_WA_001Olympic Crew NW001,5,,,,,,,,,,,,,
+NW_WA_001Standard NW001,5,,,,,,,,,,,,,
+NW_WA_002NZ SZ Protection,5,,,,,,,,,,,,,
+NW_WA_002NZ GF Revision 1,5,,,,,,,,,,,,,
+NW_WA_002SZ Wild Rev 1,5,,,,,,,,,,,,,
+NW_WA_002NZ SZ Protect Rev 1,5,,,,,,,,,,,,,
+NW_WA_002NZ Wild Rev 1,5,,,,,,,,,,,,,
+NW_WA_002SZ GF Revision 1,5,,,,,,,,,,,,,
+NW_WA_003Non-Wilderness,5,,,,,,,,,,,,,
+NW_WA_003ROLA Wilderness,5,,,,,,,,,,,,,
+NW_WA_003WEN-Wilderness,5,,,,,,,,,,,,,
+NW_WA_003OKA-Wilderness,5,,,,,,,,,,,,,
+NW_WA_003Ste-Suppression,5,,,,,,,,,,,,,
+NW_WA_003RED Zone,5,,,,,,,,,,,,,
+NW_WA_007MHF_Wilderness S,5,,,,,,,,,,,,,
+NW_WA_007MHF_Wilderness,5,,,,,,,,,,,,,
+NW_WA_007MHF_Unit 4,5,,,,,,,,,,,,,
+NW_WA_007GP_CV_North,5,,,,,,,,,,,,,
+NW_WA_007MHF_Unit 1,5,,,,,,,,,,,,,
+NW_WA_007MHF_Unit 2,5,,,,,,,,,,,,,
+NW_WA_007MHF_Unit 3,5,,,,,,,,,,,,,
+NW_WA_007Gorge East,5,,,,,,,,,,,,,
+NW_WA_007MHF_Wilderness E,5,,,,,,,,,,,,,
+NW_WA_007GP_MTA_East,5,,,,,,,,,,,,,
+NW_WA_007YAA-SP,5,,,,,,,,,,,,,
+NW_WA_007YAA-MC,5,,,,,,,,,,,,,
+NW_WA_007YAA-HB,5,3,3,3,4,,,,,,,,,1
+NW_WA_007GP_MSH_West,5,,,,,,,,,,,,,
+NW_WA_007GP_Wilderness,5,,,,,,,,,,,,,
+SA_AL_001BH_Primary,5,,3,3,2,,,,,,,,,
+SA_AL_001LIRI Canyon,5,,4,0,2,,,,,,,,,
+SA_AL_001Talladega_FWA,5,,2,2,2,,,,,,,,,
+SA_AL_001Dugger_Wild,5,,2,0,1,,,,,,,,,
+SA_AL_001HOBE,5,,1,0,1,,,,,,,,,
+SA_AL_001FWS,5,,,,,,,,,,,,,
+SA_AL_001RUCA,5,,3,0,2,,,,,,,,,
+SA_AL_001Sipsey FWA,5,,1,0,1,,,,,,,,,
+SA_AL_001CON_Primary,5,,1,2,2,,,,,,,,,
+SA_AL_001Cheaha_Wild,5,,2,0,1,,,,,,,,,
+SA_AL_001SC_FWA,5,,2,2,3,,,,,,,,,
+SA_AL_001LIRI Upland,5,,3,0,3,,,,,,,,,
+SA_AL_001Tuskegee_FWA,5,,1,2,1,,,,,,,,,
+SA_AL_001Oakmulgee_FWA,5,,2,2,2,,,,,,,,,
+SW_AZ_001SCA EE,5,,,,,,,,,,,,,
+SW_AZ_001SCA Sonora,5,,,,,,,,,,,,,
+"SW_AZ_001NPS_SAP > 4,500'",5,,,,,,,,,,,,,
+SW_AZ_001Low Potential,5,,,,,,,,,,,,,
+SW_AZ_001Moderate Potential,5,,,,,,,,,,,,,
+SW_AZ_001High Potential,5,,,,,,,,,,,,,
+SW_AZ_001SCA WUI,5,,,,,,,,,,,,,
+RM_SD_002Mark Browning,5,,1,,10,,,,,3,,,,1
+RM_WY_002Esterbrook,5,1,2,1,4,,,1,1,,,,,
+RM_WY_002High Desert District,5,1,1,0,5,,,1,1,1,,,,1
+RM_WY_002Eastern Counties,5,1,1,0,5,,,1,1,1,,,,1
+RM_WY_002MBF_Snowy,5,1,1,1,4,,,1,1,,,,,
+RM_WY_002North Counties,5,1,2,1,9,,,2,2,1,,,,
+RM_WY_002North Casper,5,1,2,1,4,,,2,2,1,,,,
+NW_OR_003Wilderness,5,1,5,0,2,,,4,2,,2,8,,0
+NW_OR_003FS Protection,5,1,2,0,3,,,4,1,,2,8,,0
+NW_OR_003ODF Protection,5,1,3,2,5,0,0,0,2,0,0,0,0,0
+NW_OR_003Private/WUI,5,3,4,2,7,,,4,3,,1,4,,0
+CA_CA_014BDF Wilderness FMU,5,,,,,,,,,,,,,
+CA_CA_014BIA Suppression FMU,5,,,,,,,,,,,,,
+CA_CA_014BDF Suppression FMU,5,,,,,,,,,,,,,
+CA_CA_014BLM CDD FMU's,5,,,,,,,,,,,,,
+CA_CA_014BDF Threat FMU,5,,,,,,,,,,,,,
+CA_CA_009OVICC 4,5,,,,,,,,,,,,,
+CA_CA_004NPS WUI,5,,,,,,,,,,,,,
+CA_CA_004Wilderness,5,,,,,,,,,,,,,
+CA_CA_004Non DPA,5,,,,,,,,,,,,,
+CA_CA_004USFS,5,,,,,,,,,,,,,
+CA_CA_010BLM West Valley,5,,,,,,,,,,,,,
+CA_CA_010Wilderness,5,,,,,,,,,,,,,
+CA_CA_010WUI,5,,,,,,,,,,,,,
+CA_CA_010Island,5,,,,,,,,,,,,,
+CA_CA_012ANF Mutual Aid Resp,5,,,,,,,,,,,,,
+CA_CA_012Standard ANF Resp,5,,,,,,,,,,,,,
+CA_CA_012ANF Response Wilder,5,,,,,,,,,,,,,
+GB_ID_002Non WUI Non Timber,5,,,,,,,,,,,,,
+GB_ID_002WUI Timber,5,,,,,,,,,,,,,
+GB_ID_002Non-WUI timber,5,,,,,,,,,,,,,
+GB_ID_002WFU logic,5,,,,,,,,,,,,,
+GB_ID_002WUI Non-Timber,5,,,,,,,,,,,,,
+GB_ID_003WFU,5,,,,,,,,,,,,,
+GB_ID_003Desert/Range,5,,,,,,,,,,,,,
+GB_ID_003Mountain,5,,,,,,,,,,,,,
+GB_NV_001Pine Forest S. East,5,,,,,,,,,,,,,
+GB_NV_001I-80,5,,,,,,,,,,,,,
+GB_NV_001Elliott Wrencing,5,,,,,,,,,,,,,
+GB_NV_003Mt Rose Wilderness,5,,,,,,,,,,,,,
+GB_NV_003Carson River,5,,,,,,,,,,,,,
+GB_NV_003Aurora no dozer,5,2,2,0,9,,,2,1,2,0,0,,
+GB_NV_003Carson River ND,5,,,,,,,,,,,,,
+GB_NV_003Como,5,,,,,,,,,,,,,
+GB_NV_003Churchill Ranges,5,,,,,,,,,,,,,
+GB_NV_003Lyon Basin,5,,,,,,,,,,,,,
+GB_NV_003Fish Springs,5,,,,,,,,,,,,,
+GB_NV_003CCD SE ND,5,,,,,,,,,,,,,
+GB_NV_003Churchill Basin,5,,,,,,,,,,,,,
+GB_NV_003Reno/Sparks ND,5,,,,,,,,,,,,,
+GB_NV_003Reno/Sparks,5,,,,,,,,,,,,,
+GB_NV_003Bridgeport WUI,5,2,2,0,9,,,2,1,2,0,0,,
+GB_NV_003Fish Springs ND,5,,,,,,,,,,,,,
+GB_NV_003CCD SE,5,,,,,,,,,,,,,
+GB_NV_004Master,5,3,,2,10,,,,,3,1,8,,2
+GB_NV_004WUI,5,3,,2,10,,,,,3,1,8,,2
+GB_NV_004WFU/WSA,5,,,2,8,,,,,1,1,4,,0
+GB_NV_006FWS Sensitive,5,,,,,,,,,,,,,
+GB_NV_006Military Response,5,,,,,,,,,,,,,
+GB_NV_006Grass WUI,5,,,,,,,,,,,,,
+GB_NV_006Critical Tort,5,,,,,,,,,,,,,
+GB_NV_006High Juniper,5,,,,,,,,,,,,,
+GB_UT_002SWT No Retardant,5,,,,,,,,,,,,,
+GB_UT_002SWT Four,5,,,,,,,,,,,,,
+GB_UT_004Low Risk,5,,,,,,,,,,,,,
+GB_UT_004Moderate Risk,5,,,,,,,,,,,,,
+GB_UT_004High Risk,5,,,,,,,,,,,,,
+GB_UT_005All Zones HIEL,5,,,,,,,,,,,,,
+GB_UT_005All Zones LOEL,5,,,,,,,,,,,,,
+GB_WY_001WFU,5,,,,,,,,,,,,,
+GB_WY_001NZ Protection,5,,,,,,,,,,,,,
+GB_WY_001EZ Protection,5,,,,,,,,,,,,,
+GB_WY_001NZ BCR,5,,,,,,,,,,,,,
+GB_WY_001WZ BCR,5,,,,,,,,,,,,,
+GB_WY_001EZ BCR,5,,,,,,,,,,,,,
+GB_WY_001WZ Protection,5,,,,,,,,,,,,,
+NR_ID_001Roadless,5,,,,,,,,,,,,,
+NR_ID_001General_response,5,,,,,,,,,,,,,
+NR_ID_001WUI,5,,,,,,,,,,,,,
+NR_ID_001Wilderness,5,,,,,,,,,,,,,
+NR_MT_002FMU1/2,5,3,6,,4,,,3,3,1,0,0,,0
+NR_MT_002FMU3,5,3,6,,3,,,3,3,1,2,7,,
+NR_MT_002FMU4,5,3,6,,3,,,3,3,1,2,7,,
+NR_MT_003FMU_WUI_Other,5,,,,,,,,,,,,,
+NR_MT_003FMU_Wild,5,,,,,,,,,,,,,
+NR_MT_003FMU2_RES,5,,,,,,,,,,,,,
+NR_MT_004FMU1_WUI,5,,,,,,,,,,,,,
+NR_MT_004BIA_BFA,5,,,,,,,,,,,,,
+NR_MT_004FMU3,5,,,,,,,,,,,,,
+NR_MT_004FMU2,5,,,,,,,,,,,,,
+NR_MT_004FMU4_WFU,5,,,,,,,,,,,,,
+NR_MT_005Modified,5,,,,,,,,,,,,,
+NR_MT_005Limited Park,5,,,,,,,,,,,,,
+NR_MT_005Full,5,,,,,,,,,,,,,
+NR_MT_005North Modified,5,,,,,,,,,,,,,
+NR_MT_005Limited,5,,,,,,,,,,,,,
+NR_MT_006NR_MT_006_FMU2_Wild,5,1,3,,,,,2,2,1,1,2,,
+NR_MT_006NR_MT_006_FMU3,5,1,2,1,3,,,2,2,,1,1,,1
+NR_MT_006NR_MT_006_FMU1,5,1,4,1,8,,,2,2,1,2,2,,2
+NR_MT_006NR_MT_006_FMU2,5,1,5,1,6,,,2,2,1,2,2,,2
+NR_MT_006NR_MT_006_FMU3_Wild,5,1,2,,1,,,2,1,,1,2,,
+"NR_MT_007DPA BLM (BO, SP)",5,,,,,,,,,,,,,
+"NR_MT_007BRKS, LR",5,,,,,,,,,,,,,
+NR_MT_007VFD IA Response,5,,,,,,,,,,,,,
+"NR_MT_007PF, IR, MON",5,,,,,,,,,,,,,
+NR_MT_007Rocky Boy,5,,,,,,,,,,,,,
+NR_MT_007CMR,5,,,,,,,,,,,,,
+NR_MT_007Fort Belknap,5,,,,,,,,,,,,,
+NR_MT_001WUI,5,,,,,,,,,,,,,
+NR_MT_001Wilderness,5,,,,,,,,,,,,,
+NR_MT_001BIA Non WUI,5,,,,,,,,,,,,,
+NR_MT_001Non WUI,5,,,,,,,,,,,,,
+NR_MT_001BIA WUI,5,,,,,,,,,,,,,
+NW_OR_002UPF GF LSR DL TL,5,1,12,1,8,,,6,2,,1,6,,1
+NW_OR_002UPF GF LSR CG NU,5,2,12,0,8,,,8,2,,1,6,,1
+NW_OR_002UPF Wilderness,5,1,12,,6,,,6,2,,1,6,,
+NW_WA_008SPA Dispatch,5,,,,,,,,,,,,,
+NW_WA_008COA 4 FMZ 1-2 4 Lev.,5,,,,,,,,,,,,,
+SA_AR_001pcr general,5,,,,,,,,,,,,,
+SA_AR_001GenFor IR AR01,5,,,,,,,,,,,,,
+SA_AR_001GenFor IR AR02,5,,,,,,,,,,,,,
+SA_AR_001Wilderness IR,5,,,,,,,,,,,,,
+SA_FL_001BICY Racoon Point,5,,,,3,,,2,2,2,,,,
+SA_FL_001BICY-THRT-DOZERS,5,,,3,3,,,2,2,2,,,,
+SA_FL_001EVER,5,,,,4,,,2,2,2,,,,
+SA_FL_001FPR,5,,,,,,,,,,,,,
+SA_FL_001LXR,5,,,,,,,,,,,,,
+SA_FL_001NKR,5,,,,,,,,,,,,,
+SA_FL_001FLSEA Dispatch Log 1,5,,,3,4,,,,2,,,,,
+SA_FL_001JNR,5,,,,,,,,,,,,,
+SA_FL_002OKR_Uplands,5,2,,0,2,,,0,1,,,,2,
+SA_FL_002FS_Wilderness,5,2,,,5,,,,2,,,,0,
+SA_FL_002FS_Mixed_Ownership,5,2,,,6,,,,2,,,,6,1
+SA_FL_002FS_General_Forest,5,1,,,5,,,,2,,,,5,
+SA_FL_002OKR_Wilderness,5,0,,0,2,,,0,1,,,,0,
+SA_FL_002FS_Pinhook,5,2,,,5,,,,2,,,,5,
+SA_FL_002NPS,5,,,,,,,,,,,,,
+SA_FL_002Cumberland_Island,5,,,,,,,,,,,,,
+SA_FL_003Non_Particpating,5,,,,,,,,,,,,4,
+SA_FL_003FS_Bombing_Range,5,2,,,2,,,,2,,,,,1
+SA_FL_003FS_General_Forest,5,1,,,4,,,,2,,,,4,1
+SA_FL_003FS_Mixed_Ownership,5,2,,,6,,,,2,,,,4,2
+SA_FL_003FS_Wilderrness,5,,,,,,,,,,,,,
+SA_FL_003FWS_LRR,5,,,,6,,,,1,,,,4,1
+SA_FL_003FWS_LWR_Marsh,5,,,,2,,2,,1,,,,,1
+SA_FL_003FWS_LWR_Upland,5,,,,6,,,,1,,,,2,1
+SA_FL_003FWS_MI_North,5,,,,7,,,,1,,,,3,1
+SA_FL_003FWS_MI_South,5,0,,,8,,,,2,,,,4,1
+SA_FL_003FWS_ST_Johns,5,,,,6,,,,1,,,,2,1
+SA_FL_003FWS_Threat,5,,,,3,,,,1,,,,2,1
+SA_FL_003NPS_Can_North,5,,,,5,,,,1,,,,2,
+SA_FL_003NPS_Can_South,5,,,,5,,,,1,,,,2,
+SA_FL_003FS_Artillery Range,5,2,,,2,,,,3,,,,,1
+SA_FL_004SVR_FMU_FWA,5,,,,2,,,,0,,,,1,
+SA_FL_004EGR_FMU_FWA,5,,,,2,,,0,0,,,,,
+SA_FL_004FS_Threat,5,1,,,4,,,0,1,,,,4,
+SA_FL_004FS_Military,5,,,,2,,,,1,,,,0,
+SA_FL_004LSR_FMU_FWA_NORTH,5,,,1,2,,,0,0,,,,2,
+SA_FL_004SMR_THT_FMU_FWA,5,,,,2,,,0,1,,,,2,
+SA_FL_004LSR_FMU_FWA_SOUTH,5,,,1,2,,,,0,,,,2,
+SA_FL_004SMR_FMU_SMR_EAST_FWA,5,,,0,2,,,,,,,,2,
+SA_FL_004CHR_FMU_FWA,5,,,,2,,,,,,,,,
+SA_FL_004SMR_FMU_SMR_WEST_FWA,5,,,,2,,,,,,,,2,
+SA_FL_004FS_Mixed_Ownership,5,1,,,4,,,,1,,,,4,2
+SA_FL_004FS_Wilderness,5,1,,,3,,,,1,,,,,
+SA_FL_004FS_General_Forest,5,1,,0,4,,,,1,,,,4,2
+SA_GA_001Oconee,5,,,2,2,,,,1,,,,,
+SA_GA_001Piedmont,5,,,0,2,,,0,1,,,,2,
+SA_KY_001Mammoth Cave,5,,,,2,,,,,,,,,
+SA_KY_001NPS CUGA,5,,,,,,,,,,,,,
+SA_KY_001NPS BISO,5,,,,,,,,,,,,,
+SA_KY_001FS Wilderness,5,,,,,,,,,,,,,
+SA_KY_001FS General,5,,,,,,,,,,,,,
+SA_KY_001FS LBL,5,,,,,,,,,,,,,
+SA_LA_001BBR1,5,,,,,,,,,,,,,
+SA_LA_003NO-Plow_NO_Penetrat,5,1,3,0,5,,,,2,,,,,
+SA_LA_003Kisatchie General,5,,,,,,,,,,,,,
+SA_LA_003No Entry,5,1,0,0,1,,,,2,,,,,
+SA_LA_003FWSGEN,5,,,,,,,,,,,,,
+SA_LA_003Kisatchie Wilderness,5,1,3,0,5,,,,2,,,,,
+SA_MD_001Dismal Logic,5,,,,,,,,,,,,,
+SA_MD_001FPU Initialization,5,,,,,,,,,,,,,
+SA_MS_001USFS Wilderness,5,,,0,2,,,1,1,,,,0,
+SA_MS_001USFS,5,,,3,3,,,1,1,,,,0,
+SA_MS_001FWS,5,,,2,3,,,,,,,,0,
+SA_MS_002Homochitto FWA,5,,,,,,,,,,,,,
+SA_MS_002Bienville WA,5,,,,,,,,,,,,,
+SA_MS_002Natchez FWA,5,,1,2,3,,,2,1,,,,0,1
+SA_MS_002Tombigbee FWA,5,,,,,,,,,,,,,
+SA_MS_002Noxubee,5,,,,,,,,,,,,,
+SA_MS_002Natchez Threat FWA,5,,1,2,3,,,2,1,,,,0,1
+SA_MS_002Holly Springs FWA,5,,,,,,,,,,,,,
+SA_MS_002Natchez Trace FWA,5,,,,2,,,,,,,,,
+SA_NC_001Pee Dee,5,,,,,,,,,,,,,
+SA_NC_001Carolina Sandhills,5,,,,,,,,,,,,,
+SA_NC_001Birkhead Wilderness,5,,,,,,,,,,,,,
+SA_NC_001Uwharrie WUI,5,,,,,,,,,,,,,
+SA_NC_002FWS with helicopter,5,,,,3,,,,1,,,,4,
+SA_NC_002Croatan,5,,,,3,,,,1,,,,2,
+SA_NC_002Currituck aviation,5,,,,3,1,,,1,,,,2,
+SA_NC_002Ocracoke,5,,,,4,,,,1,,,,0,
+SA_NC_002Cape Hatteras,5,,,,3,,,,1,,,,4,
+SA_NC_002Cape Lookout,5,,1,,2,,1,,1,,,,,
+SA_OK_001OUF WILDERNESS,5,0,0,0,10,,,,0,0,,,,0
+SA_OK_001fws dispatch,5,1,1,3,8,,,,1,2,,,,2
+SA_OK_001Overall,5,1,1,5,8,,,,1,2,,,,2
+SA_OK_002overall,5,1,3,2,5,,,0,1,2,,,,1
+SA_OK_002fws interest,5,1,3,6,8,,,,1,2,,,,1
+SA_OK_003Overall,5,1,3,5,8,,,,,2,,,,1
+SA_OK_005Fish and Wildlife,5,1,2,,8,,,,,,,,,3
+SA_PR_001Test,5,,,,,,,,,,,,,
+SA_SC_001FS Wild,5,,,,,,,,,,,,,
+SA_SC_001FWS_Mainland,5,,,,,,,,,,,,,
+SA_SC_001FWS IS,5,,,,,,,,,,,,,
+SA_SC_001FWS Wild,5,,,,,,,,,,,,,
+SA_SC_001SRF,5,,,,,,,,,,,,,
+SA_SC_001FS_FWA,5,,,,,,,,,,,,,
+SA_SC_001NPS,5,,,,,,,,,,,,,
+SA_TN_001Cherokee Wild North,5,,,,,,,,,,,,,
+SA_TN_001Appalachian MO,5,,,,,,,,,,,,,
+SA_TN_001Chattahoochee NF,5,,,,,,,,,,,,,
+SA_TN_001Grandfather MO,5,1,2,1,2,,,,1,,,,,1
+SA_TN_001Cherokee Disp. Logic,5,,,,,,,,,,,,,
+SA_TN_001NPS BRP,5,,,,,,,,,,,,,
+SA_TN_001NPS GSP,5,,,,,,,,,,,,,
+SA_TN_001FS Wilderness,5,,,,,,,,,,,,,
+SA_TN_001Nat Pisg MO,5,1,2,2,3,,,,2,,,,,1
+SA_TN_001Cherokee MO,5,,,,,,,,,,,,,
+SA_TN_001Cherokee North MO,5,,,,,,,,,,,,,
+SA_TX_001LBJ,5,1,0,2,2,,,0,1,,,,,2
+SA_TX_002Balcones,5,,,,,,,,,,,,,
+SA_TX_003FS_WILD,5,1,0,0,5,0,0,1,1,1,0,0,0,1
+SA_TX_003DCNF,5,1,2,2,5,0,0,1,1,1,0,0,0,1
+SA_TX_003BITH 2,5,0,0,2,5,0,0,0,0,0,0,0,0,0
+SA_TX_003TXACA-ENG Only,5,0,0,0,5,0,0,0,0,0,0,0,0,0
+SA_TX_003BITH,5,0,0,1,5,0,0,0,0,0,0,0,0,0
+SA_TX_004San 3,5,,,,4,,,,1,,,,,1
+SA_TX_004SanTHT,5,,,,4,,,,1,,,,,1
+SA_TX_004BrazoTHT,5,,,,4,,,,1,,,,,1
+SA_TX_004BBGTHT,5,,,,4,,,,1,,,,,1
+SA_TX_004SWLA,5,,,,4,2,2,,1,,,,,1
+SA_TX_004Brazoria 04,5,,,,4,,,,1,,,,,1
+SA_TX_004Brazoria05,5,,,,4,,,,1,,,,,1
+SA_TX_004BBG 001,5,,,,4,,,,1,,,,,1
+SA_TX_004San 2,5,,,,4,,,,1,,,,,1
+SA_TX_004AHR-MCR 5,5,,,,6,2,,,1,,,,,1
+SA_TX_005Matagorda,5,,,,,,,,,,,,,
+SA_TX_005Padre Island,5,,,,,,,,,,,,,
+SA_TX_005Santa Ana Staffing,5,,,2,4,,,,,1,,,,1
+SA_TX_005Falcon Staffing,5,,,2,5,,,,,1,,,,1
+SA_TX_005Palmview Staffing,5,,,2,4,,,,,1,,,,1
+SA_TX_005Aransas,5,,,,,,,,,,,,,
+SA_TX_005Laguna Staffing,5,,,2,4,,,,,1,,0,,1
+SA_VA_001Shen,5,,,,,,,,,,,,,
+SA_VA_001MTTS,5,,,,,,,,,,,,,
+SA_VA_001NCR,5,,,,,,,,,,,,,
+SA_VA_001BLRI,5,,,,,,,,,,,,,
+SA_VA_001FS Wilderness,5,,,,,,,,,,,,,
+SA_VA_001FS,5,,,,,,,,,,,,,
+SA_VA_001Unassigned,5,,,,,,,,,,,,,
+SA_VA_001FS: 4,5,,,,,,,,,,,,,
+SA_VA_001SHEN: 4,5,,,,,,,,,,,,,
+CA_CA_006.enf_urban1,5,,,,,,,,,,,,,
+CA_CA_006.blm_wui,5,,,,,,,,,,,,,
+CA_CA_006.tmu_wui,5,,,,,,,,,,,,,
+CA_CA_006.tnf_wilderness,5,,,,,,,,,,,,,
+CA_CA_006.enf_wild,5,,,,,,,,,,,,,
+CA_CA_006.tnf_supp,5,,,,,,,,,,,,,
+CA_CA_006.tmu_wilderness,5,,,,,,,,,,,,,
+AK_AK_001Alaska Standard,5,3,2,0,8,0,0,5,3,2,2,16,0,1
+AK_AK_001Alaska Aerial Only,5,3,0,0,0,0,0,5,3,2,2,16,0,0
+AK_AK_001Alaska Southeast,5,,2,,5,,,10,2,,,,,1
+SW_AZ_002FM 1 Normal,5,2,2,,8,,,2,1,2,,,,2
+SW_AZ_003WMAT_East,5,,,,,,,,,,,,,
+SW_AZ_003Clifton_RD,5,,,,,,,,,,,,,
+SW_AZ_003Springerville_RD,5,,,,,,,,,,,,,
+SW_AZ_003Black Mesa_RD,5,,,,,,,,,,,,,
+SW_AZ_003Alpine_RD,5,,,,,,,,,,,,,
+SW_AZ_003WMAT_West,5,,,,,,,,,,,,,
+SW_AZ_003Lakeside_RD,5,,,,,,,,,,,,,
+SW_AZ_004RIPARIAN BP ADJ,5,,,,,,,,,,,,,
+SW_AZ_004UPLAND,5,,,,,,,,,,,,,
+SW_AZ_004WILDERNESS,5,,,,,,,,,,,,,
+SW_AZ_005Timber,5,1,2,1,5,,,2,2,,,,,2
+SW_AZ_005Grass-Brush-PJ,5,1,1,2,6,,,2,2,2,,,,1
+SW_AZ_005Mojave Desert,5,2,1,1,6,,,2,2,2,1,1,,1
+SW_AZ_005Wilderness and Park,5,1,3,1,5,,,2,1,,1,2,,2
+SW_AZ_006desert,5,3,6,0,15,0,0,5,3,1,0,0,0,3
+SW_AZ_006timber,5,3,6,4,15,0,0,3,3,1,0,0,0,3
+SW_AZ_006wilderness,5,3,6,0,15,0,0,5,3,0,0,0,0,0
+SW_AZ_006brush,5,3,6,0,15,0,0,3,3,1,0,0,0,3
+SW_AZ_006riparian,5,3,6,0,15,0,0,3,3,1,0,0,0,3
+SW_NM_001Wilderness,5,0,3,0,6,,,4,4,,,,,
+SW_NM_001Farm-Jia Dispatch,5,2,4,2,7,,,2,2,2,,,,5
+SW_NM_001Rattlesnake,5,2,4,2,7,,,2,2,2,,,,5
+SW_NM_001East Carson_WUI,5,2,4,2,10,0,0,4,2,2,0,0,0,2
+SW_NM_002Non WUI,5,2,3,2,10,,,2,2,2,,,,2
+SW_NM_002Smokey Bear WUI,5,3,6,5,15,,,3,3,2,8,1,,3
+SW_NM_002WUI,5,2,6,5,12,,,3,3,2,1,8,,3
+SW_NM_003LCDO fils,5,1,0,,6,,,,,,,,,1
+SW_NM_004Wilderness,5,,,,,,,,,,,,,
+SW_NM_004BLM Brush/Grass,5,,,,,,,,,,,,,
+SW_NM_004Timber,5,,,,,,,,,,,,,
+SW_NM_004WUI,5,,,,,,,,,,,,,
+SW_NM_004PJ/Grass,5,,,,,,,,,,,,,
+SW_NM_005Pondo,5,3,4,2,8,,,4,2,,,,,1
+SW_NM_005PondoWUI,5,3,4,4,8,,,4,2,,,,,5
+SW_NM_005ABQ,5,2,4,2,10,,,5,2,0,,,,1
+SW_NM_005BLM EAST,5,2,2,0,3,,,,1,1,,,,3
+SW_NM_005Socorro,5,2,3,2,6,,,5,2,,,,,3
+SW_NM_005BLM NPS,5,2,3,2,8,,,4,1,0,,,,1
+SW_NM_005Bia North,5,2,3,2,8,,,2,2,0,,,,
+SW_NM_007NAA-Grass,5,2,4,2,15,,,5,2,,,,,2
+SW_NM_007TCA-GRASS,5,2,5,3,10,,,3,3,2,0,0,0,2
+SW_NM_007KNF WUI-D1,5,2,4,4,9,,,2,2,,,,,6
+SW_NM_007TCA-Canyon,5,2,5,0,5,,,5,3,2,0,0,0,2
+SW_NM_007cof wilderness,5,3,6,1,8,,,2,2,0,0,0,0,2
+SW_NM_007cof nonwui,5,3,4,2,10,,,2,2,0,0,0,0,5
+SW_NM_007TCA-WUI,5,2,5,3,10,,,5,3,2,0,0,0,2
+SW_NM_007cof wui,5,3,4,2,12,,,0,2,0,0,0,0,3
+SW_NM_007NAA-TimberPJ,5,2,4,2,15,,,5,2,,,,,2
+SW_NM_007TCA-FOR,5,2,5,3,10,,,5,3,2,0,0,0,2
+SW_NM_007HOA-All FWA's,5,2,10,5,15,,,5,2,2,0,0,0,2
+SW_NM_007KNF Non WUI-D4,5,1,2,2,7,,,1,1,,,,,1
+SW_NM_007KNF Non WUI-D1,5,1,3,3,9,,,2,2,2,,,,4
+SW_NM_007KNF Wilderness,5,1,2,0,3,,,1,1,,,,,
+SW_NM_007GCP-Backcountry,5,2,3,1,10,0,0,4,3,5,1,1,0,2
+SW_NM_007PNF WUI,5,3,4,3,14,0,0,3,3,4,0,0,0,6
+SW_NM_007PNF Non-WUI,5,2,4,2,8,0,0,2,2,2,0,0,0,3
+SW_NM_007PNF Wilderness,5,2,4,0,4,0,0,3,3,1,0,0,0,0
+SW_NM_007GCP-WUI,5,2,3,1,10,0,0,4,3,0,0,0,0,2
+SW_TX_002fws interest,5,0,2,0,20,,,,,6,,,0,4
+SW_TX_002SW_TX_002_DispLog_1,5,2,2,0,20,,,,,6,,,3,4
+SW_TX_002BLM_Sabinoso,5,,,,,,,,,,,,,
+SW_TX_004WFU,5,,,,,,,,,,,,,
+SW_TX_004AMR,5,,,,,,,,,,,,,
+SW_TX_004Non_BIBE,5,,,,,,,,,,,,,
+CA_CA_013Handcrew,5,,,,,,,,,,,,,
+CA_CA_013Engine,5,,,,,,,,,,,,,
+NR_MT_010Lolo Limited Acc.,5,,,,,,,,,,,,,
+NR_MT_010Lolo Developed,5,,,,,,,,,,,,,
+NR_MT_010Lolo WUI,5,,,,,,,,,,,,,
+NW_WA_005Juniper Wilderness,5,2,1,0,10,,,,2,2,,,,2
+NW_WA_005Basin 2,5,1,,2,10,,,,2,2,,,,2
+NR_MT_009ST LAA RAA,5,1,2,1,11,,,1,1,1,1,1,,1
+NR_MT_009GNP MCD,5,1,2,,2,,,1,1,,1,1,,
+NR_MT_009FNF DEV,5,2,1,1,4,,,2,2,,0,0,,1
+NR_MT_009KNF RAA,5,2,3,2,6,,,2,2,1,2,2,,2
+NR_MT_009KNF LAA,5,0,3,,5,,,2,2,1,2,2,,1
+NR_MT_009ST DEV,5,1,2,2,11,,,1,1,1,,,,1
+NR_MT_009FNF LAA,5,0,2,,2,,,2,2,,1,1,,1
+NR_MT_009FNF RAA,5,0,3,0,2,,,2,2,,0,0,,1
+NR_MT_009KNF DEV,5,2,4,3,6,,,2,2,1,1,1,,2
+NR_MT_009GNP LAA,5,2,2,,2,,,2,2,0,1,1,,
+NR_MT_009GNP EAST,5,2,1,,2,,,1,2,0,1,1,,
+GB_ID_001FAIRFIELD RESPONSE,5,,,,,,,,,,,,,
+GB_ID_001WILDERNESS RESPONSE,5,,,,,,,,,,,,,
+GB_ID_001SNRA RESPONSE,5,,,,,,,,,,,,,
+GB_ID_001STANDARD RESPONSE,5,,,,,,,,,,,,,
+GB_NV_002Char_HT_IR,5,,,,,,,,,,,,,
+GB_NV_002Owy_FMU_IR,5,,,,,,,,,,,,,
+GB_NV_002Wild_FMU_IR,5,,,,,,,,,,,,,
+GB_NV_002Cort_FMU_IR,5,,,,,,,,,,,,,
+GB_NV_002Ruby_RLR_IR,5,,,,,,,,,,,,,
+GB_NV_002Gosh_FMU_IR,5,,,,,,,,,,,,,
+GB_NV_002Tusc_FMU_IR,5,,,,,,,,,,,,,
+GB_NV_002Del_FMU_IR,5,,,,,,,,,,,,,
+GB_NV_002Owy_DVT_IR,5,,,,,,,,,,,,,
+GB_NV_002Char_FMU_IR,5,,,,,,,,,,,,,
+GB_NV_002Ruby_FMU_IR,5,,,,,,,,,,,,,
+GB_NV_002Ruby_HT_IR,5,,,,,,,,,,,,,
+GB_NV_002Char_Pri_Mix_IR,5,,,,,,,,,,,,,
+GB_NV_005Park,5,,,,,,,,,,,,,
+GB_NV_005North 5,5,,1,1,4,,,1,1,2,1,5,,1
+GB_NV_005South 3,5,,,,,,,,,,,,,
+GB_NV_005South 5,5,1,1,1,4,,,1,1,2,1,5,,1
+GB_NV_005North 3,5,,,,,,,,,,,,,
+NR_ND_001Missouri Logic Table,5,0,0,2,10,0,0,0,0,1,0,0,0,1
+NR_ND_001Badlands Logic Table,5,0,0,2,15,0,0,0,0,1,0,0,0,1
+GB_UT_001Park Service SWT,5,,,,,,,,,,,,,
+GB_UT_001Richfield SWT,5,,,,,,,,,,,,,
+GB_UT_001Filmore SWT,5,,,,,,,,,,,,,
+GB_UT_001Teasdale SWT,5,,,,,,,,,,,,,
+GB_UT_003Camp William,5,,,,,,,,,,,,,
+GB_UT_003BLM Other,5,,,,,,,,,,,,,
+GB_UT_003WUI_FS,5,,,,,,,,,,,,,
+GB_UT_003Mountains,5,,,,,,,,,,,,,
+GB_UT_003Wilderness SJ,5,,,,,,,,,,,,,
+GB_UT_003BLM_Bonne_Carring,5,,,,,,,,,,,,,
+GB_UT_003Desert 5,5,2,2,,6,,,4,2,2,,,,3
+GB_UT_003FS_West5 5,5,3,3,,6,,,4,2,2,1,4,,
+GB_UT_003WUI_FS 5,5,2,3,,7,,,4,2,2,1,6,,3
+GB_UT_003FS_West,5,,,,,,,,,,,,,
+GB_UT_003Wilderness,5,,,,,,,,,,,,,
+GB_UT_003Desert,5,,,,,,,,,,,,,
+GB_UT_003DOD_LAND,5,,,,,,,,,,,,,
+NR_MT_011CSKT Wilderness,5,,,,,,,,,,,,,
+NR_MT_011CSKT Developed,5,,,,,,,,,,,,,
+NR_MT_011CSKT Limited Acc.,5,,,,,,,,,,,,,
+NR_MT_011CSKT WUI,5,,,,,,,,,,,,,
+CA_CA_008WUI_Lake_I_Threat,5,,,,,,,,,,,,,
+CA_CA_008Wilderness_Timber,5,,,,,,,,,,,,,
+CA_CA_008WUI_Timber,5,,,,,,,,,,,,,
+CA_CA_008General_Kaweah,5,,,,,,,,,,,,,
+CA_CA_008Wilderness_Grass/Shr,5,,,,,,,,,,,,,
+CA_CA_008WUI_Grass/Shrub,5,,,,,,,,,,,,,
+CA_CA_008General _Timber,5,,,,,,,,,,,,,
+CA_CA_008General_Grass/Shrub,5,,,,,,,,,,,,,
+EA_IA_001CL-PC Changes,5,0,0,,3,,,,,,,,,1
+EA_IN_001Southeastern,5,,,,3,,,,,,,,,
+EA_IN_001Northern Indiana,5,,,,3,,,,,,,,,
+EA_IN_001Southwestern Indiana,5,,2,,4,,,6,1,,,,,2
+EA_MI_001WUI response,5,,1,2,6,2,,1,1,,,,,3
+EA_MI_001General response,5,,,2,6,2,,1,1,,,,,1
+EA_MI_001wilderness response,5,,1,0,4,0,,1,1,,,,,1
+EA_MI_002Huron,5,,4,4,8,,,1,1,,,,,1
+EA_MI_002Manistee,5,,5,4,6,,,1,1,,,,,0
+EA_MN_001SUP-_Non_Blowdown,5,,1,,0,,1,3,3,3,,,,
+EA_MN_001SUP-East -Blowdown,5,0,1,,0,,1,3,3,3,,,,
+EA_MN_001SUP_West-Blowdown,5,,1,,3,,1,3,3,2,,,,
+EA_MN_001Crane Medows,5,,,0,5,,,,1,1,,,,1
+EA_MN_001SUP_West-Ely,5,,1,,7,,1,3,3,2,1,2,,
+EA_MN_001SUP_West-Laurention,5,,1,1,7,,1,3,3,2,,,,2
+EA_MN_001Fond Du Lac,5,,0,1,1,,,0,1,1,,,,
+EA_MN_001SUP-East,5,,1,,5,,1,1,3,4,,,,2
+EA_MN_001Chippewa,5,,1,,7,,,,2,2,,,,3
+EA_MN_001Sherburne,5,,,0,8,,,,2,1,,,,2
+EA_MN_001BIA Woodland,5,,0,1,4,,,0,1,1,,,,
+EA_MN_001Voygers,5,0,1,,0,,1,2,2,1,,,,
+EA_MN_001Rice Lake,5,,,0,5,,,0,1,1,,,,1
+EA_MN_002FWS-SE,5,,,0,3,,,,0,0,,,,1
+EA_MN_002FWS_Morris,5,,,0,8,,,,1,1,,,,1
+EA_MN_002Red Lake,5,,,2,8,,,,2,3,,,,3
+EA_MN_002White Earth,5,,,1,8,,,,1,1,,,,2
+EA_MN_002FWS_Litchfield,5,,,0,8,,,,1,1,,,,2
+EA_MN_002FWS_Fergus Fall,5,,,0,8,,,,1,1,,,,1
+EA_MN_002FWS-MNBND,5,,,0,8,,,,0,0,,,,1
+EA_MN_002Agassiz,5,,,2,6,,,,2,3,,,,2
+EA_MN_002FWS_Windom,5,,,0,4,,,,0,0,,,,1
+EA_MN_002FWS-MNMVR,5,,,0,8,,,,1,1,,,,2
+EA_NJ_001NY Logic 5 FDL,5,,,,16,,,,2,,,,,1
+EA_NJ_001North NJ Logic 5 FDL,5,,2,1,16,,,0,2,2,,,,1
+EA_NJ_001South NJ Logic 5 FDL,5,,,,10,,,,1,3,,,2,1
+RM_CO_007Deadman South,5,1,5,,6,,,,2,2,1,4,,3
+RM_CO_007Clear Creek,5,1,5,,6,,,1,2,2,1,4,,3
+RM_CO_007Divide North,5,1,5,,6,,,,2,2,1,4,,3
+RM_CO_007Boulder Flats South,5,1,5,,6,,,1,2,2,1,4,,3
+RM_CO_007Big Thompson North,5,1,5,,6,,,,2,2,1,4,,3
+RM_CO_007Deadman North,5,1,5,,6,,,,2,2,1,4,,3
+RM_CO_007Sulphur North,5,1,5,,6,,,,2,2,1,4,,3
+RM_CO_007Grasslands,5,1,3,,6,,,,2,2,,,,3
+RM_CO_007Boulder Flats North,5,1,5,,6,,,1,2,2,1,4,,3
+RM_CO_007Sulphur South,5,1,5,,6,,,,2,2,1,4,,3
+RM_CO_007Divide South,5,1,5,,6,,,,2,2,1,4,,3
+RM_CO_007Big Thompson South,5,1,5,,6,,,,2,2,1,4,,3
+EA_OH_001WNF1,5,,1,0,5,,,,,,,,,
+EA_OH_001Basic,5,,1,,5,,,,,,,,,
+EA_PA_001Test,5,,,,,,,,,,,,,
+EA_PA_001Allegheny,5,,,,,,,,,,,,,
+EA_PA_001NPS,5,,,,,,,,,,,,,
+EA_PA_001FWS Erie,5,,,,,,,,,,,,,
+EA_WI_002NW FMU FWS,5,,,,3,,,,,,,,1,1
+EA_WI_002So_FMU_BIA_W,5,,,,3,,,,,,,,2,1
+EA_WI_002So FMU FWS FWA,5,,,,4,,,,,,,,1,1
+EA_WI_002NW_FMU_BIA_E_FWA,5,,,,4,,,,,,,,3,2
+EA_WI_002NW_FMU_BIA_W_FWA,5,,,,4,,,,,,,,3,2
+GB_ID_004Critical,5,2,1,2,9,0,0,6,2,2,0,0,0,2
+GB_ID_004Urban Interface,5,2,1,2,9,0,0,6,2,2,0,0,0,2
+GB_ID_004Conditional,5,1,2,2,5,0,0,6,2,2,0,0,0,1
+RM_CO_002standard,5,,,,,,,,,,,,,
+RM_CO_002Minimum Impact,5,,,,,,,,,,,,,
+RM_CO_003ENG 2nd at FDL2,5,2,4,1,6,,,2,2,1,,,,1
+RM_CO_003HELI+ENG at FDL1,5,2,4,1,6,,,2,2,1,,,,1
+RM_CO_003MVP Area,5,2,5,2,6,,,2,2,1,,,,1
+RM_CO_003Dolores North,5,2,4,1,6,,,2,2,1,,,,1
+RM_CO_003CRW 2nd at FDL2,5,2,4,1,6,,,2,2,1,,,,1
+RM_CO_003HELI+ENG FDL1 COL,5,2,4,1,6,,,2,2,1,,,,1
+RM_CO_004General Forest,5,,,,,,,,,,,,,
+RM_CO_004WUI,5,,,,,,,,,,,,,
+RM_CO_004WFU,5,,,,,,,,,,,,,
+RM_CO_005Standard,5,,,,,,,,,,,,,
+RM_CO_005Douglas Pass,5,,,,,,,,,,,,,
+RM_CO_005Interface,5,,,,,,,,,,,,,
+RM_CO_0052 eng low fil,5,,,,,,,,,,,,,
+RM_CO_005Routt,5,,,,,,,,,,,,,
+RM_CO_005DinoNPS,5,,,,,,,,,,,,,
+RM_CO_005WSA,5,,,,,,,,,,,,,
+RM_CO_006Standard,5,,,,,,,,,,,,,
+RM_CO_006Test2,5,3,4,,18,,,3,3,3,4,4,,3
+RM_CO_006WalkIns,5,2,2,,1,,,3,2,2,1,4,,1
+RM_CO_006pj_sig_3_level,5,,,,,,,,,,,,,
+RM_CO_008All BIA Ramp 2,5,,,,,,,,,,,,,
+RM_KS_001BI FM L 5 FDL,5,,,,10,,,,,,,,,1
+RM_NE_001Niobrara Suppress,5,,,,,,,,,,,,,
+RM_NE_001Bessey Suppress,5,,,,,,,,,,,,,
+RM_NE_001Crescent Suppress,5,,,,,,,,,,,,,
+RM_NE_001Suppression,5,,,,,,,,,,,,,
+RM_NE_001NE State Suppress NW,5,,,,,,,,,,,,,
+RM_NE_001McKelvie Suppress,5,,,,,,,,,,,,,
+RM_NE_001ONG Suppression,5,,,,,,,,,,,,,
+RM_NE_001Soldier Cr Suppress,5,,,,,,,,,,,,,
+RM_NE_001Valentine Suppress,5,,,,,,,,,,,,,
+RM_NE_001Agate Suppress,5,,,,,,,,,,,,,
+RM_NE_001Scottsbluff Suppress,5,,,,,,,,,,,,,
+RM_NE_001North Platte Suppres,5,,,,,,,,,,,,,
+RM_NE_001NE State Supp. Other,5,,,,,,,,,,,,,
+RM_SD_001Suppression,5,,,,,,,,,,,,,
+RM_SD_001Suppression_WIn,5,,,,,,,,,,,,,
+RM_SD_00301-24-12,5,,,,10,,,,,3,,,,1
+EA_WI_001AIP_1,5,,,,0,,3,,,,,,,
+EA_WI_001MTE_1,5,,,3,9,,,,,,,,,1
+EA_WI_001WDNR_1,5,,,8,16,,,,,,,,,8
+EA_WI_001Cheni,5,,,4,9,,,0,1,,,,,0
+EA_WI_001Cheni_2,5,,,4,7,,,0,1,,,,,0
+EA_IL_001Test 1,5,,2,,5,,,,,,,,1,7
+EA_IL_001Southern FMU,5,,1,0,5,,,,,,,,1,1
+EA_IL_001Midewin,5,,1,0,4,,,,,,,,0,1
+NR_MT_008Northern Cheyenne BI,5,1,2,3,7,0,0,6,1,0,1,8,0,1
+NR_MT_008Options Run,5,1,2,3,4,0,0,6,2,6,2,8,0,2
+RM_CO_001Wilderness,5,1,2,0,4,0,,2,1,1,,,,
+RM_CO_001FLENGTH_Suppression,5,,,,,,,,,,,,,
+RM_CO_001ROS Suppression,5,2,3,1,7,,,3,1,2,,,,2
+RM_WY_003Timber/Grass mix,5,2,3,,7,,,4,4,,2,4,,3
+RM_WY_003Sage/Grass,5,2,2,,7,,,3,3,,,0,,3
+RM_WY_003Timber,5,2,5,,7,,,4,4,,2,4,,2
