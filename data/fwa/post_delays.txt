@@ -1,0 +1,53 @@
+We did not recieve the post escape, post unused contained, and post used contained rates for each FWA from
+Brent Timothy in the 2014 grab from the FPA database.  I reviewed the values that came from the much earlier
+set of data and decided that we could standardize these values.
+
+Post Escape Delay 20 minutes for all but smokejumpers, smokejumpers 120 minutes.
+Post Unused Delay 10 minutes for all.
+Post Used Delay 30 minutes for all but boats and smokejumpers, boats and smokejumpers 120 minutes.
+
+Post Escape Delay
+	tracked	boat	crew	engine	helitack	smkjmp
+0	1054	2114	427	392	523		1241
+10	31	4	62	45	49		18
+20	303	54	683	750	809		260
+30	250	8	397	381	391		180
+40	74	0	4	4	47		2
+50	13	6	41	59	89		0
+60	166	0	259	302	281		67
+90	71	0	152	102	101		56
+120	227	97	143	196	104		331
+180	30	2	33	12	2		54
+> 180	273	207	291	249	96		283
+
+
+Post Unused Delay
+	tracked	boat	crew	engine	helitack	smkjmp
+0	2143	2195	2086	2086	2118		2245
+10	185	94	193	196	192		146
+20	27	0	34	36	89		30
+30	29	0	92	96	71		15
+40	0	0	0	0	2		0
+50	6	0	31	32	2		0
+60	8	0	28	24	7		0
+90	9	0	11	11	3		0
+120	9	0	15	10	0		0
+180	1	0	1	1	0		14
+> 180	75	203	1	0	8		42
+
+Post Used Delay
+	tracked	boat	crew	engine	helitack	smkjmp
+0	954	2115	426	332	519		1167
+10	44	4	146	130	120		14
+20	294	20	583	641	800		300
+30	405	43	524	528	467		212
+40	16	0	14	6	42		19
+50	99	6	158	92	67		7
+60	247	2	333	331	297		67
+90	74	0	132	156	77		39
+120	203	95	104	224	63		328
+180	26	2	36	19	2		19
+> 180	130	205	36	33	38		320
+
+Note: 0 and 9999 were used for FWAs without these resources.
+
